@@ -175,6 +175,8 @@
           ? 'bg-red-50 text-red-700 border border-red-100 hover:bg-red-100 hover:text-red-800' 
           : 'bg-indigo-50 text-indigo-700 border border-indigo-100 hover:bg-indigo-100 hover:text-indigo-800';
 
+        const finalUrl = res.url.startsWith('/') ? res.url.slice(1) : res.url;
+
         // Format dates beautifully
         const dateString = res.date ? new Date(res.date).toLocaleDateString('en-IN', {day: 'numeric', month: 'short', year: 'numeric'}) : "";
         const sourceString = res.source ? res.source.trim() : "";
@@ -247,7 +249,7 @@
 
               <div class="flex items-center space-x-3 self-end sm:self-center pl-7 sm:pl-0 flex-shrink-0">
                 <a 
-                  href="${res.url}" 
+                  href="${finalUrl}" 
                   target="_blank" 
                   class="px-4 py-2 border rounded-lg text-xs font-extrabold transition flex items-center justify-center space-x-1.5 ${buttonColorClass}"
                 >

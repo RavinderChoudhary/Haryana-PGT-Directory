@@ -292,7 +292,7 @@
       showLoading(true);
       showError(false);
       
-      const url = `/api/live-data${force ? '?force=true' : ''}`;
+      const url = 'api/live-data.json';
       
       try {
         const response = await fetch(url);
