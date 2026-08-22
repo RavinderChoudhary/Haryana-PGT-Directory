@@ -276,8 +276,16 @@
   <!-- Print Area (Only visible when printing) -->
   <div id="print-area" class="print-only"></div>
 
-  <!-- Core Javascript Logic -->
   <script>
+    function getRelativePath(targetPath) {
+      let path = window.location.pathname;
+      if (!path.endsWith('/') && !path.includes('.')) {
+        path += '/';
+      }
+      const dir = path.substring(0, path.lastIndexOf('/') + 1);
+      return dir + targetPath;
+    }
+
     let rawData = null; // Unfiltered cached structure
     let currentDistrict = ""; // Selected district tab
     let searchQuery = ""; // Filter query
@@ -292,7 +300,7 @@
       showLoading(true);
       showError(false);
       
-      const url = 'api/live-data.json';
+      const url = getRelativePath('api/live-data.json');
       
       try {
         const response = await fetch(url);
@@ -599,7 +607,7 @@
               const encName = encodeURIComponent(schoolName || "");
               const encDist = encodeURIComponent(currentDistrict || "");
               
-              const res = await fetch(`api/school-employees/${schoolCode}.json`);
+              const res = await fetch(getRelativePath(`api/school-employees/${schoolCode}.json`));
               if (!res.ok) throw new Error("Failed to load employees.");
               
               const emps = await res.json();

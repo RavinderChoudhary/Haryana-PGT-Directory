@@ -86,6 +86,15 @@
   </footer>
 
   <script>
+    function getRelativePath(targetPath) {
+      let path = window.location.pathname;
+      if (!path.endsWith('/') && !path.includes('.')) {
+        path += '/';
+      }
+      const dir = path.substring(0, path.lastIndexOf('/') + 1);
+      return dir + targetPath;
+    }
+
     let activeTab = "Advertisement";
     let allResources = [];
     let caseSummaries = {};
@@ -113,8 +122,8 @@
     async function loadResources() {
       try {
         const [resResp, sumResp] = await Promise.all([
-          fetch('api/info.json'),
-          fetch('api/case_summaries.json').catch(() => null)
+          fetch(getRelativePath('api/info.json')),
+          fetch(getRelativePath('api/case_summaries.json')).catch(() => null)
         ]);
 
         if (!resResp.ok) throw new Error("Failed to fetch information resources.");
@@ -249,7 +258,7 @@
 
               <div class="flex items-center space-x-3 self-end sm:self-center pl-7 sm:pl-0 flex-shrink-0">
                 <a 
-                  href="${finalUrl}" 
+                  href="${getRelativePath(finalUrl)}" 
                   target="_blank" 
                   class="px-4 py-2 border rounded-lg text-xs font-extrabold transition flex items-center justify-center space-x-1.5 ${buttonColorClass}"
                 >
@@ -330,7 +339,7 @@
             const encYear = encodeURIComponent(caseYear || "");
             const encType = encodeURIComponent(caseType || "");
             
-            const res = await fetch(`api/court-case-judgments/${caseType}-${caseNo}-${caseYear}.json`);
+            const res = await fetch(getRelativePath(`api/court-case-judgments/${caseType}-${caseNo}-${caseYear}.json`));
             if (!res.ok) throw new Error("Failed to load judgments from server.");
             
             const data = await res.json();
