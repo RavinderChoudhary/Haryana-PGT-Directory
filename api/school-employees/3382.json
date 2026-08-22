@@ -1,0 +1,128 @@
+[
+  {
+    "name": "ARVIND KUMAR",
+    "code": "019609",
+    "designation": "Principal",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "HOSHIAR SINGH",
+    "code": "044174",
+    "designation": "Head Master Elementary School",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "ASHOK KUMAR",
+    "code": "210688",
+    "designation": "PGT/Lecturer (Sanskrit)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "BHAGWANA RAM",
+    "code": "092565",
+    "designation": "PGT/Lecturer (Economics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "MANOJ KUMAR",
+    "code": "5001127",
+    "designation": "PGT/Lecturer (English)",
+    "appointment_type": "Guest (Contractual)"
+  },
+  {
+    "name": "MANOJ KUMAR",
+    "code": "5019255",
+    "designation": "PGT/Lecturer (Geography)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "PARKASH CHANDER LATHER",
+    "code": "203421",
+    "designation": "PGT/Lecturer (Physics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Pawan Kumar",
+    "code": "6014002",
+    "designation": "PGT/Lecturer (Mathematics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "RAM MURTI",
+    "code": "059158",
+    "designation": "PGT/Lecturer (Political Science)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Ravinder Kumar",
+    "code": "6002677",
+    "designation": "PGT/Lecturer (Physical Education)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "ROHTASH",
+    "code": "205749",
+    "designation": "PGT/Lecturer (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SUBHASH",
+    "code": "214292",
+    "designation": "PGT/Lecturer (Hindi)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SUNIL KUMAR",
+    "code": "201880",
+    "designation": "PGT/Lecturer (History)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SURATBIR",
+    "code": "208271",
+    "designation": "PGT/Lecturer (Hindi)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Vikas Kumar",
+    "code": "6014182",
+    "designation": "PGT/Lecturer (Commerce)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Vinod Kumar",
+    "code": "6004103",
+    "designation": "PGT/Lecturer (Mathematics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "DEV RAJ",
+    "code": "1025372",
+    "designation": "TGT/Master (Science)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Pawan Kumar",
+    "code": "6006490",
+    "designation": "TGT/Master (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Ajay Kumar",
+    "code": "6000794",
+    "designation": "Classical & Vernacular Teacher (Drawing)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "MANOJ KUMAR",
+    "code": "081623",
+    "designation": "Classical & Vernacular Teacher (Sanskrit)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "VANDANA SHARMA",
+    "code": "052242",
+    "designation": "Classical & Vernacular Teacher (PTI)",
+    "appointment_type": "Regular"
+  }
+]

@@ -1,0 +1,104 @@
+[
+  {
+    "name": "BALINDER SINGH",
+    "code": "060299",
+    "designation": "Principal",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "NARESH KUMAR",
+    "code": "088651",
+    "designation": "Head Master Elementary School",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Anju Rani",
+    "code": "6001488",
+    "designation": "PGT/Lecturer (Sanskrit)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "GULAB SINGH",
+    "code": "207801",
+    "designation": "PGT/Lecturer (Hindi)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "POONAM RANI",
+    "code": "5017636",
+    "designation": "PGT/Lecturer (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "RAMAN KANWAR",
+    "code": "5018910",
+    "designation": "PGT/Lecturer (Mathematics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Ravinder Kumar",
+    "code": "6002681",
+    "designation": "PGT/Lecturer (Physical Education)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "RENU",
+    "code": "203757",
+    "designation": "PGT/Lecturer (Political Science)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SARITA DEVI",
+    "code": "201948",
+    "designation": "PGT/Lecturer (History)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SATNARYAN",
+    "code": "5020433",
+    "designation": "PGT/Lecturer (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "VIJAY KUMAR",
+    "code": "214376",
+    "designation": "PGT/Lecturer (Hindi)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Anil Kumar",
+    "code": "6005014",
+    "designation": "TGT/Master (Science)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "ATTAR SINGH",
+    "code": "088056",
+    "designation": "TGT/Master (Mathematics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "RAJESH ROHILLA",
+    "code": "1016705",
+    "designation": "TGT/Master (Sanskrit)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SUMAN KUMARI",
+    "code": "037190",
+    "designation": "TGT(Physical Education)/Master (DPE)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SATPAL",
+    "code": "5024714",
+    "designation": "Classical & Vernacular Teacher (Drawing)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "WAZIR SINGH",
+    "code": "5011593",
+    "designation": "Classical & Vernacular Teacher (Hindi)",
+    "appointment_type": "Guest (Contractual)"
+  }
+]

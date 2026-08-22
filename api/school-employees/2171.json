@@ -1,0 +1,200 @@
+[
+  {
+    "name": "SHIVENDER",
+    "code": "213330",
+    "designation": "PGT/Lecturer (Computer Science)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "AMIT GUPTA",
+    "code": "205895",
+    "designation": "PGT/Lecturer (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "ASHUTOSH",
+    "code": "209528",
+    "designation": "PGT/Lecturer (Biology)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "BAHADUR SINGH",
+    "code": "208397",
+    "designation": "PGT/Lecturer (Hindi)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "BHARTI MEHTA",
+    "code": "5010941",
+    "designation": "PGT/Lecturer (Mathematics)",
+    "appointment_type": "Guest (Contractual)"
+  },
+  {
+    "name": "DILBHAG SINGH",
+    "code": "095434",
+    "designation": "PGT/Lecturer (History)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "EKTA",
+    "code": "204859",
+    "designation": "PGT/Lecturer (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "JYOTI LATA",
+    "code": "210097",
+    "designation": "PGT/Lecturer (Sanskrit)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "KARAN",
+    "code": "211819",
+    "designation": "PGT/Lecturer (Physics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "KUSUM LATA",
+    "code": "207183",
+    "designation": "PGT/Lecturer (Hindi)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "MINAKSHI",
+    "code": "060008",
+    "designation": "PGT/Lecturer (Economics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "NITIN",
+    "code": "5019217",
+    "designation": "PGT/Lecturer (Geography)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "NITIN BATHLA",
+    "code": "078545",
+    "designation": "PGT/Lecturer (Mathematics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "RAJANI BALA",
+    "code": "205557",
+    "designation": "PGT/Lecturer (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "RAKESH KUMAR",
+    "code": "203243",
+    "designation": "PGT/Lecturer (Physics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "REETU BALA",
+    "code": "5017750",
+    "designation": "PGT/Lecturer (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "REKHA MITTAL",
+    "code": "5017348",
+    "designation": "PGT/Lecturer (Commerce)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SANDEEP DHANDA",
+    "code": "213920",
+    "designation": "PGT/Lecturer (Sociology)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SANDEEP KUMAR",
+    "code": "058927",
+    "designation": "PGT/Lecturer (Fine Arts)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SHAILENDER KUMAR",
+    "code": "207762",
+    "designation": "PGT/Lecturer (Hindi)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SHARDA",
+    "code": "078784",
+    "designation": "PGT/Lecturer (Mathematics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SHITAL DEVI",
+    "code": "204427",
+    "designation": "PGT/Lecturer (Punjabi)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SHIV KUMAR GARG",
+    "code": "200588",
+    "designation": "PGT/Lecturer (Chemistry)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Sudesh Rani",
+    "code": "6014152",
+    "designation": "PGT/Lecturer (Political Science)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "KAPIL DEV",
+    "code": "212071",
+    "designation": "TGT/Master (Science)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Mamta Rani",
+    "code": "6005601",
+    "designation": "TGT/Master (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Mukesh Rani",
+    "code": "6007206",
+    "designation": "TGT/Master (Punjabi)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "PANKAJ SETIA",
+    "code": "1023913",
+    "designation": "TGT/Master (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SURENDER DEVI",
+    "code": "1009841",
+    "designation": "TGT/Master (Sanskrit)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "VIKRAM DHULL",
+    "code": "087192",
+    "designation": "TGT(Physical Education)/Master (DPE)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "KAMAL JANGRA",
+    "code": "060254",
+    "designation": "Classical & Vernacular Teacher (Drawing)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "MANJU BALA",
+    "code": "030155",
+    "designation": "Classical & Vernacular Teacher (Hindi)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SURESH KUMAR",
+    "code": "5013563",
+    "designation": "Classical & Vernacular Teacher (Hindi)",
+    "appointment_type": "Guest (Contractual)"
+  }
+]

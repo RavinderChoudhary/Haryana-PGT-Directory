@@ -1,0 +1,104 @@
+[
+  {
+    "name": "MANOJ YADAV",
+    "code": "213443",
+    "designation": "PGT/Lecturer (Computer Science)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "ARUNA SAINI",
+    "code": "5020239",
+    "designation": "PGT/Lecturer (Biology)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "BHAGAT SINGH",
+    "code": "206193",
+    "designation": "PGT/Lecturer (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "KANUPRIYA",
+    "code": "204056",
+    "designation": "PGT/Lecturer (Psychology)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "KAVITA RANI",
+    "code": "5017928",
+    "designation": "PGT/Lecturer (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "MADAN LAL",
+    "code": "208195",
+    "designation": "PGT/Lecturer (Hindi)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "MANJU KUMARI",
+    "code": "5020543",
+    "designation": "PGT/Lecturer (Chemistry)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Neelam Devi",
+    "code": "209872",
+    "designation": "PGT/Lecturer (Sanskrit)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Nisha",
+    "code": "6013865",
+    "designation": "PGT/Lecturer (History)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "PARVEEN KUMAR",
+    "code": "203353",
+    "designation": "PGT/Lecturer (Physics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SATEESH KUMAR",
+    "code": "213769",
+    "designation": "PGT/Lecturer (Political Science)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SUDESH DEVI",
+    "code": "206708",
+    "designation": "PGT/Lecturer (Economics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SUMAN KUMARI",
+    "code": "5005150",
+    "designation": "PGT/Lecturer (Hindi)",
+    "appointment_type": "Guest (Contractual)"
+  },
+  {
+    "name": "Suresh Kumar",
+    "code": "6004139",
+    "designation": "PGT/Lecturer (Mathematics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "ANOOP SINGH",
+    "code": "5022504",
+    "designation": "TGT(Physical Education)/Master (DPE)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "JANGBIR SINGH",
+    "code": "089586",
+    "designation": "TGT/Master (Social Studies)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "RAJENDER SINGH",
+    "code": "063730",
+    "designation": "Classical & Vernacular Teacher (Sanskrit)",
+    "appointment_type": "Regular"
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "name": "REKHA MALIK",
+    "code": "019644",
+    "designation": "Principal",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "ANJU BALA",
+    "code": "019782",
+    "designation": "PGT/Lecturer (Hindi)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "BABITA KUMARI",
+    "code": "213745",
+    "designation": "PGT/Lecturer (Political Science)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "DEEPIKA RANI",
+    "code": "092671",
+    "designation": "PGT/Lecturer (Mathematics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Manisha",
+    "code": "6004092",
+    "designation": "PGT/Lecturer (Mathematics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "PUNAM RANI",
+    "code": "201986",
+    "designation": "PGT/Lecturer (History)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "RAJESH KUMAR",
+    "code": "5002797",
+    "designation": "PGT/Lecturer (Hindi)",
+    "appointment_type": "Guest (Contractual)"
+  },
+  {
+    "name": "RAMESH KUMAR",
+    "code": "019993",
+    "designation": "PGT/Lecturer (Sanskrit)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SAMTA",
+    "code": "210891",
+    "designation": "PGT/Lecturer (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SHAFFALI AHUJA",
+    "code": "212885",
+    "designation": "PGT/Lecturer (Economics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SUMAN",
+    "code": "200574",
+    "designation": "PGT/Lecturer (Chemistry)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SUMAN RANI",
+    "code": "212392",
+    "designation": "PGT/Lecturer (Physics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SUSHEELA",
+    "code": "5004695",
+    "designation": "PGT/Lecturer (Commerce)",
+    "appointment_type": "Guest (Contractual)"
+  },
+  {
+    "name": "Sweety Muwal",
+    "code": "6015389",
+    "designation": "PGT/Lecturer (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "VIJAY PRASAD",
+    "code": "203407",
+    "designation": "PGT/Lecturer (Physics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "HEMA",
+    "code": "019816",
+    "designation": "TGT/Master (Science)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Rajesh Kumar",
+    "code": "6004835",
+    "designation": "TGT/Master (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SATISH KUMAR",
+    "code": "5022988",
+    "designation": "TGT(Physical Education)/Master (DPE)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Renu Bala",
+    "code": "6000826",
+    "designation": "Classical & Vernacular Teacher (Drawing)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SURJIT SINGH",
+    "code": "081662",
+    "designation": "Classical & Vernacular Teacher (Sanskrit)",
+    "appointment_type": "Regular"
+  }
+]

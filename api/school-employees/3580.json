@@ -1,0 +1,134 @@
+[
+  {
+    "name": "SUSHILA",
+    "code": "036935",
+    "designation": "Principal",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "NEELAM SHARMA",
+    "code": "044934",
+    "designation": "Head Master Elementary School",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "ANNU",
+    "code": "213175",
+    "designation": "PGT/Lecturer (Computer Science)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "AMITA KUMARI",
+    "code": "5018413",
+    "designation": "PGT/Lecturer (Mathematics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "ANJU RANI",
+    "code": "201796",
+    "designation": "PGT/Lecturer (History)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Jyoti",
+    "code": "6013115",
+    "designation": "PGT/Lecturer (Commerce)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "KUSUM LATA",
+    "code": "207236",
+    "designation": "PGT/Lecturer (Hindi)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "NAVEEN KUMAR",
+    "code": "203321",
+    "designation": "PGT/Lecturer (Physics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "PREETI ARORA",
+    "code": "200012",
+    "designation": "PGT/Lecturer (Chemistry)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "RAJSHRI",
+    "code": "079740",
+    "designation": "PGT/Lecturer (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Savita",
+    "code": "6001876",
+    "designation": "PGT/Lecturer (Sanskrit)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SHABNAM",
+    "code": "201395",
+    "designation": "PGT/Lecturer (Geography)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SUMITI",
+    "code": "204731",
+    "designation": "PGT/Lecturer (Sociology)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SUNITA RANI",
+    "code": "208866",
+    "designation": "PGT/Lecturer (Biology)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SUNITA RANI",
+    "code": "203758",
+    "designation": "PGT/Lecturer (Political Science)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SUSHILA DEVI",
+    "code": "209621",
+    "designation": "PGT/Lecturer (Sanskrit)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "VIDYA DEVI",
+    "code": "206503",
+    "designation": "PGT/Lecturer (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "KARAMVIR SINGH",
+    "code": "089294",
+    "designation": "TGT/Master (Social Studies)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Pinki Devi",
+    "code": "6005351",
+    "designation": "TGT/Master (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "DEEPAK",
+    "code": "059618",
+    "designation": "Classical & Vernacular Teacher (Drawing)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "NARESH",
+    "code": "5022401",
+    "designation": "Classical & Vernacular Teacher (PTI)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "URMILA DEVI",
+    "code": "047876",
+    "designation": "Classical & Vernacular Teacher (Sanskrit)",
+    "appointment_type": "Regular"
+  }
+]

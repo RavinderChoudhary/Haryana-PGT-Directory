@@ -1,0 +1,44 @@
+[
+  {
+    "name": "KRISHNA DEVI",
+    "code": "034452",
+    "designation": "Head Master Elementary School",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SUMAN LATA",
+    "code": "041921",
+    "designation": "Head Master Elementary School",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "YASHVIR SINGH",
+    "code": "089572",
+    "designation": "PGT/Lecturer (Sociology)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "MANJU KUMARI",
+    "code": "1013696",
+    "designation": "TGT/Master (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SATYENDER MAAN",
+    "code": "5026099",
+    "designation": "Classical & Vernacular Teacher (PTI)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SUNITA DEVI",
+    "code": "083438",
+    "designation": "Classical & Vernacular Teacher (Hindi)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SUSHILA",
+    "code": "081850",
+    "designation": "Classical & Vernacular Teacher (Sanskrit)",
+    "appointment_type": "Regular"
+  }
+]

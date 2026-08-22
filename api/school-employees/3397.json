@@ -1,0 +1,110 @@
+[
+  {
+    "name": "NEENA RANI",
+    "code": "020078",
+    "designation": "Principal",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Anil Kumar",
+    "code": "6014503",
+    "designation": "PGT/Lecturer (Mathematics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "ARVIND KUMAR",
+    "code": "5018066",
+    "designation": "PGT/Lecturer (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "GURDASS",
+    "code": "060724",
+    "designation": "PGT/Lecturer (History)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Komal Kalyan",
+    "code": "6002484",
+    "designation": "PGT/Lecturer (Fine Arts)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "MADAN KUMAR",
+    "code": "071563",
+    "designation": "PGT/Lecturer (Hindi)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "MOHAN LAL",
+    "code": "079356",
+    "designation": "PGT/Lecturer (Political Science)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "NARENDER KUMAR",
+    "code": "212937",
+    "designation": "PGT/Lecturer (Economics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "NARESH KUMAR",
+    "code": "206265",
+    "designation": "PGT/Lecturer (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "RUPESH KUMAR",
+    "code": "5019116",
+    "designation": "PGT/Lecturer (Geography)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SANJAY KUMAR",
+    "code": "208551",
+    "designation": "PGT/Lecturer (Hindi)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SARJEET KUMAR",
+    "code": "5003496",
+    "designation": "PGT/Lecturer (Political Science)",
+    "appointment_type": "Guest (Contractual)"
+  },
+  {
+    "name": "SHRI BHAGWAN",
+    "code": "044275",
+    "designation": "PGT/Lecturer (Sanskrit)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "VIJAY KUMAR",
+    "code": "091737",
+    "designation": "PGT/Lecturer (Mathematics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SUNIL KUMAR",
+    "code": "5023100",
+    "designation": "TGT(Physical Education)/Master (DPE)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SURESH KUMAR",
+    "code": "5014208",
+    "designation": "TGT/Master (Mathematics)",
+    "appointment_type": "Guest (Contractual)"
+  },
+  {
+    "name": "BIHARI LAL",
+    "code": "083506",
+    "designation": "Classical & Vernacular Teacher (Hindi)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "HAWA SINGH",
+    "code": "081707",
+    "designation": "Classical & Vernacular Teacher (Sanskrit)",
+    "appointment_type": "Regular"
+  }
+]

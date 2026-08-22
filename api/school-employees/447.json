@@ -1,0 +1,62 @@
+[
+  {
+    "name": "PAWAN KUMAR",
+    "code": "040292",
+    "designation": "Principal",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "ANITA YADAV",
+    "code": "208385",
+    "designation": "PGT/Lecturer (Hindi)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "KRISHAN KUMAR",
+    "code": "008221",
+    "designation": "PGT/Lecturer (History)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "MUKESH KUMAR",
+    "code": "210478",
+    "designation": "PGT/Lecturer (Sanskrit)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "NAVEEN GAJRAJ",
+    "code": "203833",
+    "designation": "PGT/Lecturer (Political Science)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SAMITA LAMBA",
+    "code": "5017884",
+    "designation": "PGT/Lecturer (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SAVITA",
+    "code": "5024410",
+    "designation": "PGT/Lecturer (Mathematics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Shweta Bhardwaj",
+    "code": "6008293",
+    "designation": "TGT/Master (Science)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SANJAY KUMAR",
+    "code": "5022759",
+    "designation": "Classical & Vernacular Teacher (PTI)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SURENDER KUMAR",
+    "code": "082060",
+    "designation": "Classical & Vernacular Teacher (Sanskrit)",
+    "appointment_type": "Regular"
+  }
+]

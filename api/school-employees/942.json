@@ -1,0 +1,110 @@
+[
+  {
+    "name": "NEERU RAO",
+    "code": "011888",
+    "designation": "Principal",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "BABITA",
+    "code": "080294",
+    "designation": "PGT/Lecturer (Biology)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Manisha",
+    "code": "6014296",
+    "designation": "PGT/Lecturer (Chemistry)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Naresh",
+    "code": "6002747",
+    "designation": "PGT/Lecturer (Physical Education)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "PINKI DEVI",
+    "code": "088448",
+    "designation": "PGT/Lecturer (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "POONAM SHARMA",
+    "code": "088709",
+    "designation": "PGT/Lecturer (History)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Ritu Saini",
+    "code": "6003927",
+    "designation": "PGT/Lecturer (Commerce)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SANDEEP KUMAR",
+    "code": "009331",
+    "designation": "PGT/Lecturer (Sanskrit)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SAROJ BALA",
+    "code": "065055",
+    "designation": "PGT/Lecturer (Economics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SUMAN KUMARI",
+    "code": "201718",
+    "designation": "PGT/Lecturer (Geography)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "ANJU SHARMA",
+    "code": "1006691",
+    "designation": "TGT/Master (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "GAUTAM SAINI",
+    "code": "5008022",
+    "designation": "TGT/Master (Science)",
+    "appointment_type": "Guest (Contractual)"
+  },
+  {
+    "name": "JAI KUMARI",
+    "code": "012222",
+    "designation": "TGT/Master (Mathematics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "RAJNI RANI",
+    "code": "1006307",
+    "designation": "TGT/Master (Hindi)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Suman",
+    "code": "6007949",
+    "designation": "TGT/Master (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "BALWAN",
+    "code": "5023299",
+    "designation": "Classical & Vernacular Teacher (PTI)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Gurprit",
+    "code": "6000589",
+    "designation": "Classical & Vernacular Teacher (Drawing)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "MUNESH KUMARI",
+    "code": "5013553",
+    "designation": "Classical & Vernacular Teacher (Hindi)",
+    "appointment_type": "Guest (Contractual)"
+  }
+]

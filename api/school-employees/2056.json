@@ -1,0 +1,104 @@
+[
+  {
+    "name": "BIKRAM SINGH",
+    "code": "200223",
+    "designation": "PGT/Lecturer (Chemistry)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "HARPREET KAUR",
+    "code": "5018703",
+    "designation": "PGT/Lecturer (Mathematics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "MANOHAR LAL",
+    "code": "208666",
+    "designation": "PGT/Lecturer (Hindi)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "NEELAM KUMARI",
+    "code": "5010118",
+    "designation": "PGT/Lecturer (Hindi)",
+    "appointment_type": "Guest (Contractual)"
+  },
+  {
+    "name": "NEHA SHARMA",
+    "code": "5020236",
+    "designation": "PGT/Lecturer (Biology)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "RANJANA KUMARI",
+    "code": "095367",
+    "designation": "PGT/Lecturer (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "AMRIT KAUR",
+    "code": "082170",
+    "designation": "TGT/Master (Punjabi)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "BALA DEVI",
+    "code": "5011254",
+    "designation": "TGT/Master (Social Studies)",
+    "appointment_type": "Guest (Contractual)"
+  },
+  {
+    "name": "BALBIR SINGH",
+    "code": "5000906",
+    "designation": "TGT/Master (Science)",
+    "appointment_type": "Guest (Contractual)"
+  },
+  {
+    "name": "DINESH KUMAR",
+    "code": "078853",
+    "designation": "TGT/Master (Mathematics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "KAVITA DEVI",
+    "code": "5022969",
+    "designation": "TGT(Physical Education)/Master (DPE)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "MONIKA",
+    "code": "1011065",
+    "designation": "TGT/Master (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "POONAM MALIK",
+    "code": "029491",
+    "designation": "TGT/Master (Social Studies)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "PRATIMA",
+    "code": "1011170",
+    "designation": "TGT/Master (Hindi)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Savita",
+    "code": "6009976",
+    "designation": "TGT/Master (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "DALBIR SINGH",
+    "code": "077948",
+    "designation": "Classical & Vernacular Teacher (Hindi)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SHARMILA KUMARI",
+    "code": "028329",
+    "designation": "Classical & Vernacular Teacher (Hindi)",
+    "appointment_type": "Regular"
+  }
+]

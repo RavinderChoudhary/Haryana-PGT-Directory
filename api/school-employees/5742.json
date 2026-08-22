@@ -1,0 +1,104 @@
+[
+  {
+    "name": "RAJWANTI",
+    "code": "079133",
+    "designation": "Principal",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Bhavna",
+    "code": "6002580",
+    "designation": "PGT/Lecturer (Physical Education)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "KARAN PARKASH",
+    "code": "089300",
+    "designation": "PGT/Lecturer (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "MEENAKSHI",
+    "code": "079445",
+    "designation": "PGT/Lecturer (Hindi)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "MEENU KUMARI",
+    "code": "5025131",
+    "designation": "PGT/Lecturer (Commerce)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "NISHU JAIN",
+    "code": "5007150",
+    "designation": "PGT/Lecturer (Mathematics)",
+    "appointment_type": "Guest (Contractual)"
+  },
+  {
+    "name": "SHEELA WATI",
+    "code": "080273",
+    "designation": "PGT/Lecturer (Physics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "UMESH KUMAR KAUSHIK",
+    "code": "090409",
+    "designation": "PGT/Lecturer (Chemistry)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Ashok Kumar",
+    "code": "6009990",
+    "designation": "TGT/Master (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "BIJENDER SINGH",
+    "code": "095003",
+    "designation": "TGT/Master (Social Studies)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "NEERAJ",
+    "code": "100567",
+    "designation": "TGT/Master (Science)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "PARVEEN KUMAR",
+    "code": "091660",
+    "designation": "TGT/Master (Mathematics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Prince Rawat",
+    "code": "6007865",
+    "designation": "TGT/Master (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "JAI BHAGWAN",
+    "code": "081732",
+    "designation": "Classical & Vernacular Teacher (Sanskrit)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "KRISHAN KUMAR",
+    "code": "5026197",
+    "designation": "Classical & Vernacular Teacher (PTI)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "KULDEEP SINGH",
+    "code": "071871",
+    "designation": "Classical & Vernacular Teacher (Hindi)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "NIRMAL SINGH",
+    "code": "046194",
+    "designation": "Classical & Vernacular Teacher (Drawing)",
+    "appointment_type": "Regular"
+  }
+]

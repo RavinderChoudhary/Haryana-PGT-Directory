@@ -1,0 +1,104 @@
+[
+  {
+    "name": "RAJ REKHA",
+    "code": "079654",
+    "designation": "Principal",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "ARUNA RANI",
+    "code": "019677",
+    "designation": "Head Master Elementary School",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "DURGA WADHWA",
+    "code": "052403",
+    "designation": "PGT/Lecturer (Biology)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Jyoti Kiroriwal",
+    "code": "6002172",
+    "designation": "PGT/Lecturer (Political Science)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "MONIKA MALIK",
+    "code": "204815",
+    "designation": "PGT/Lecturer (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Monika Yadav",
+    "code": "6014302",
+    "designation": "PGT/Lecturer (Chemistry)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Narender",
+    "code": "6003000",
+    "designation": "PGT/Lecturer (Physical Education)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "NARENDER KUMAR SHARMA",
+    "code": "019941",
+    "designation": "PGT/Lecturer (Sanskrit)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Preeti",
+    "code": "6013661",
+    "designation": "PGT/Lecturer (Geography)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Saroj Kumari",
+    "code": "6003189",
+    "designation": "PGT/Lecturer (History)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SEEMA VIJ",
+    "code": "078750",
+    "designation": "PGT/Lecturer (Mathematics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "USHA CHAHAL",
+    "code": "091229",
+    "designation": "PGT/Lecturer (Physics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "LEELAWATI",
+    "code": "079984",
+    "designation": "TGT/Master (Science)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "PUNAM RANI",
+    "code": "1029043",
+    "designation": "TGT/Master (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SUMAN",
+    "code": "062014",
+    "designation": "TGT(Physical Education)/Master (DPE)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "USHA RANI",
+    "code": "1029806",
+    "designation": "TGT/Master (Hindi)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Teena Rani",
+    "code": "6000656",
+    "designation": "Classical & Vernacular Teacher (Drawing)",
+    "appointment_type": "Regular"
+  }
+]

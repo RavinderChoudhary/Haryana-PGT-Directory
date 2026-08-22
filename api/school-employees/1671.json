@@ -1,0 +1,86 @@
+[
+  {
+    "name": "RAMPAL SINGH",
+    "code": "059090",
+    "designation": "Principal",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "KRISHAN KUMAR",
+    "code": "5006360",
+    "designation": "PGT/Lecturer (Hindi)",
+    "appointment_type": "Guest (Contractual)"
+  },
+  {
+    "name": "Mainpal Singh",
+    "code": "6014559",
+    "designation": "PGT/Lecturer (Chemistry)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Minaxi",
+    "code": "6001655",
+    "designation": "PGT/Lecturer (Sanskrit)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "NARENDER",
+    "code": "5005748",
+    "designation": "PGT/Lecturer (History)",
+    "appointment_type": "Guest (Contractual)"
+  },
+  {
+    "name": "SATPAL",
+    "code": "022728",
+    "designation": "PGT/Lecturer (Mathematics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SUNITA",
+    "code": "1007966",
+    "designation": "PGT/Lecturer (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "VIRENDER SINGH",
+    "code": "036811",
+    "designation": "PGT/Lecturer (Biology)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "ANITA RANI",
+    "code": "1008712",
+    "designation": "TGT/Master (Hindi)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "REKHA",
+    "code": "5011812",
+    "designation": "TGT/Master (Social Studies)",
+    "appointment_type": "Guest (Contractual)"
+  },
+  {
+    "name": "SHAMSHER SINGH",
+    "code": "020763",
+    "designation": "TGT/Master (Mathematics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SHARDA SHARMA",
+    "code": "5012449",
+    "designation": "TGT/Master (Social Studies)",
+    "appointment_type": "Guest (Contractual)"
+  },
+  {
+    "name": "MADAN LAL",
+    "code": "081695",
+    "designation": "Classical & Vernacular Teacher (Sanskrit)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "RAJESH KUMAR",
+    "code": "5023222",
+    "designation": "Classical & Vernacular Teacher (PTI)",
+    "appointment_type": "Regular"
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "name": "ANAND KUMAR",
+    "code": "060532",
+    "designation": "Head Master Elementary School",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "BIMLA DEVI",
+    "code": "5009373",
+    "designation": "PGT/Lecturer (Political Science)",
+    "appointment_type": "Guest (Contractual)"
+  },
+  {
+    "name": "Dheeraj Sharma",
+    "code": "6001706",
+    "designation": "PGT/Lecturer (Sanskrit)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "GARIMA",
+    "code": "5018753",
+    "designation": "PGT/Lecturer (Mathematics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "HEM LATA KATARIYA",
+    "code": "095743",
+    "designation": "PGT/Lecturer (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "PARMILA KUMARI",
+    "code": "5019343",
+    "designation": "PGT/Lecturer (Geography)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "RANI",
+    "code": "207150",
+    "designation": "PGT/Lecturer (Hindi)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "REKHA",
+    "code": "5002690",
+    "designation": "PGT/Lecturer (History)",
+    "appointment_type": "Guest (Contractual)"
+  },
+  {
+    "name": "Savita Devi",
+    "code": "6004991",
+    "designation": "TGT/Master (Science)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "RAJBIR SINGH",
+    "code": "060284",
+    "designation": "Classical & Vernacular Teacher (Sanskrit)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "REKHA RANI",
+    "code": "5023248",
+    "designation": "Classical & Vernacular Teacher (PTI)",
+    "appointment_type": "Regular"
+  }
+]

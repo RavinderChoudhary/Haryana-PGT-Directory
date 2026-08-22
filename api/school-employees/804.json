@@ -1,0 +1,194 @@
+[
+  {
+    "name": "SURESH PANDEY",
+    "code": "079122",
+    "designation": "Principal",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "BALWAN SINGH",
+    "code": "5019076",
+    "designation": "PGT/Lecturer (Mathematics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "BHAGWAN SINGH",
+    "code": "5007736",
+    "designation": "PGT/Lecturer (History)",
+    "appointment_type": "Guest (Contractual)"
+  },
+  {
+    "name": "DHARAMPAL",
+    "code": "5019891",
+    "designation": "PGT/Lecturer (Chemistry)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "HIRA LAL",
+    "code": "205779",
+    "designation": "PGT/Lecturer (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "JAVED HUSSAIN",
+    "code": "090087",
+    "designation": "PGT/Lecturer (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "JOGENDER SINGH",
+    "code": "090902",
+    "designation": "PGT/Lecturer (Chemistry)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Kaushlya",
+    "code": "6003606",
+    "designation": "PGT/Lecturer (History)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "MADAN SINGH",
+    "code": "1033457",
+    "designation": "PGT/Lecturer (Geography)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Mohd Mustafa",
+    "code": "6002955",
+    "designation": "PGT/Lecturer (Urdu)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "NARESH KUMAR",
+    "code": "091917",
+    "designation": "PGT/Lecturer (Mathematics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "NAVEEN KUMAR",
+    "code": "5000068",
+    "designation": "PGT/Lecturer (Hindi)",
+    "appointment_type": "Guest (Contractual)"
+  },
+  {
+    "name": "Nisha Kumari",
+    "code": "6014476",
+    "designation": "PGT/Lecturer (Sanskrit)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "PARKASH CHAND",
+    "code": "5011650",
+    "designation": "PGT/Lecturer (Political Science)",
+    "appointment_type": "Guest (Contractual)"
+  },
+  {
+    "name": "REENA YADAV",
+    "code": "5008199",
+    "designation": "PGT/Lecturer (Hindi)",
+    "appointment_type": "Guest (Contractual)"
+  },
+  {
+    "name": "Sanju",
+    "code": "6003646",
+    "designation": "PGT/Lecturer (Hindi)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SUNIL YADAV",
+    "code": "212222",
+    "designation": "PGT/Lecturer (Chemistry)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Tilak Raj",
+    "code": "6003445",
+    "designation": "PGT/Lecturer (Physics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Anju Rani",
+    "code": "6008333",
+    "designation": "TGT/Master (Science)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "DES RAJ",
+    "code": "5025303",
+    "designation": "TGT/Master (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "JAGBIR SINGH",
+    "code": "5011755",
+    "designation": "TGT/Master (Social Studies)",
+    "appointment_type": "Guest (Contractual)"
+  },
+  {
+    "name": "MOHD. HAROON",
+    "code": "1027882",
+    "designation": "TGT/Master (Urdu)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Pramila Devi",
+    "code": "6006602",
+    "designation": "TGT/Master (Sanskrit)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Rajni",
+    "code": "6007177",
+    "designation": "TGT/Master (Hindi)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "RANPAL SINGH",
+    "code": "5013385",
+    "designation": "TGT/Master (Social Studies)",
+    "appointment_type": "Guest (Contractual)"
+  },
+  {
+    "name": "Renuka",
+    "code": "6010143",
+    "designation": "TGT/Master (Science)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Shikha",
+    "code": "6007306",
+    "designation": "TGT/Master (Science)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Subhash",
+    "code": "6001209",
+    "designation": "TGT/Master (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "DALVIR SINGH",
+    "code": "5009295",
+    "designation": "Classical & Vernacular Teacher (Sanskrit)",
+    "appointment_type": "Guest (Contractual)"
+  },
+  {
+    "name": "MOHD QAYYUM",
+    "code": "011579",
+    "designation": "Classical & Vernacular Teacher (Drawing)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "NEERAJ KUMAR YADAVA",
+    "code": "5014693",
+    "designation": "Classical & Vernacular Teacher (Hindi)",
+    "appointment_type": "Guest (Contractual)"
+  },
+  {
+    "name": "Saleemuddin",
+    "code": "6001009",
+    "designation": "Classical & Vernacular Teacher (Drawing)",
+    "appointment_type": "Regular"
+  }
+]

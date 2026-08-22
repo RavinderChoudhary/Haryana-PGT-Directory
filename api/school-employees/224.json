@@ -1,0 +1,104 @@
+[
+  {
+    "name": "RAM KUMAR",
+    "code": "030072",
+    "designation": "Principal",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "KAILASH CHANDER",
+    "code": "5024479",
+    "designation": "PGT/Lecturer (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "MAM CHAND",
+    "code": "200728",
+    "designation": "PGT/Lecturer (Chemistry)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Monika",
+    "code": "6014278",
+    "designation": "PGT/Lecturer (Punjabi)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "NISHA RANI",
+    "code": "207449",
+    "designation": "PGT/Lecturer (Hindi)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "POOJA GOYAL",
+    "code": "206895",
+    "designation": "PGT/Lecturer (Economics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "RAJESH SHARMA",
+    "code": "202567",
+    "designation": "PGT/Lecturer (Mathematics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "RAJIV KUMAR",
+    "code": "096013",
+    "designation": "PGT/Lecturer (Chemistry)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "RANJANA GUPTA",
+    "code": "091947",
+    "designation": "PGT/Lecturer (Physics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "RITU ARORA",
+    "code": "205140",
+    "designation": "PGT/Lecturer (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SANJIV KUMAR",
+    "code": "213735",
+    "designation": "PGT/Lecturer (Political Science)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SEEMA VERMA",
+    "code": "5018023",
+    "designation": "PGT/Lecturer (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SHASHI PAL",
+    "code": "031553",
+    "designation": "PGT/Lecturer (Sanskrit)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "ADARSH DUA",
+    "code": "1000643",
+    "designation": "TGT/Master (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "ASHWANI KUMAR",
+    "code": "5011507",
+    "designation": "TGT/Master (Social Studies)",
+    "appointment_type": "Guest (Contractual)"
+  },
+  {
+    "name": "BALVINDER SINGH",
+    "code": "5023290",
+    "designation": "TGT(Physical Education)/Master (DPE)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "ROHIT KUMAR",
+    "code": "004041",
+    "designation": "TGT/Master (Mathematics)",
+    "appointment_type": "Regular"
+  }
+]

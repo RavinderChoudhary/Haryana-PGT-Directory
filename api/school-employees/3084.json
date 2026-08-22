@@ -1,0 +1,158 @@
+[
+  {
+    "name": "RAMESH KUMAR",
+    "code": "079150",
+    "designation": "Principal",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Anju Kharb",
+    "code": "6014188",
+    "designation": "PGT/Lecturer (Geography)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "ANNU DESWAL",
+    "code": "202600",
+    "designation": "PGT/Lecturer (Mathematics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "ASHOK KUMAR",
+    "code": "081479",
+    "designation": "PGT/Lecturer (Sociology)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "BABITA",
+    "code": "212382",
+    "designation": "PGT/Lecturer (Chemistry)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "CHAND SINGH",
+    "code": "202785",
+    "designation": "PGT/Lecturer (Mathematics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "ISHWAR",
+    "code": "5020965",
+    "designation": "PGT/Lecturer (Music)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Jyoti",
+    "code": "6002036",
+    "designation": "PGT/Lecturer (Political Science)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "KAVITA",
+    "code": "211029",
+    "designation": "PGT/Lecturer (Home Science)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "MADHU",
+    "code": "5020685",
+    "designation": "PGT/Lecturer (History)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "MAYA RANI",
+    "code": "208712",
+    "designation": "PGT/Lecturer (Hindi)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "MONIKA",
+    "code": "5017433",
+    "designation": "PGT/Lecturer (Commerce)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "MUKESH KUMAR",
+    "code": "096137",
+    "designation": "PGT/Lecturer (Sanskrit)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "POOJA",
+    "code": "204112",
+    "designation": "PGT/Lecturer (Psychology)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "POONAM CHABA",
+    "code": "205335",
+    "designation": "PGT/Lecturer (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "PREETI",
+    "code": "5021425",
+    "designation": "PGT/Lecturer (Physics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SIMPLE",
+    "code": "5007284",
+    "designation": "PGT/Lecturer (Political Science)",
+    "appointment_type": "Guest (Contractual)"
+  },
+  {
+    "name": "SONIA KAUSHIK",
+    "code": "208851",
+    "designation": "PGT/Lecturer (Biology)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SUSHILA",
+    "code": "205763",
+    "designation": "PGT/Lecturer (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SUSHILA RANI",
+    "code": "208327",
+    "designation": "PGT/Lecturer (Hindi)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "VEENA",
+    "code": "5006310",
+    "designation": "PGT/Lecturer (Economics)",
+    "appointment_type": "Guest (Contractual)"
+  },
+  {
+    "name": "YASHPAL",
+    "code": "079888",
+    "designation": "PGT/Lecturer (Physics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "KAPTAN SINGH",
+    "code": "042397",
+    "designation": "TGT/Master (Science)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "MANOJ KUMAR",
+    "code": "1012349",
+    "designation": "TGT/Master (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SUNITA DEVI",
+    "code": "042207",
+    "designation": "TGT/Master (Mathematics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "KAVITA",
+    "code": "060408",
+    "designation": "Classical & Vernacular Teacher (Drawing)",
+    "appointment_type": "Regular"
+  }
+]

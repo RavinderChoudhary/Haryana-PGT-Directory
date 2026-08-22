@@ -1,0 +1,104 @@
+[
+  {
+    "name": "MEENA RANI",
+    "code": "063530",
+    "designation": "Principal",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Bachan Kaur",
+    "code": "6015319",
+    "designation": "PGT/Lecturer (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Deepak Kumar",
+    "code": "6001514",
+    "designation": "PGT/Lecturer (Sanskrit)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "JAIBHAGWAN",
+    "code": "5019332",
+    "designation": "PGT/Lecturer (Geography)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "NISHA RANI",
+    "code": "200379",
+    "designation": "PGT/Lecturer (Chemistry)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "PRITAM SINGH",
+    "code": "094801",
+    "designation": "PGT/Lecturer (Political Science)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "PROMILA RANI",
+    "code": "206766",
+    "designation": "PGT/Lecturer (Economics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "RAJ KUMAR",
+    "code": "091115",
+    "designation": "PGT/Lecturer (Biology)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "ROHTASH SINGH",
+    "code": "094568",
+    "designation": "PGT/Lecturer (Hindi)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SAROJ",
+    "code": "214310",
+    "designation": "PGT/Lecturer (Hindi)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SEEMA RANI",
+    "code": "204301",
+    "designation": "PGT/Lecturer (Punjabi)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "EKTA SETHI",
+    "code": "5008372",
+    "designation": "TGT/Master (Science)",
+    "appointment_type": "Guest (Contractual)"
+  },
+  {
+    "name": "LAKHWINDER SINGH",
+    "code": "1015676",
+    "designation": "TGT/Master (Punjabi)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Nagma Mehta",
+    "code": "6009901",
+    "designation": "TGT/Master (Science)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "NEERU BALA",
+    "code": "1015893",
+    "designation": "TGT/Master (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "DAVINDER KAUR",
+    "code": "5022682",
+    "designation": "Classical & Vernacular Teacher (PTI)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Maina Devi",
+    "code": "6000650",
+    "designation": "Classical & Vernacular Teacher (Drawing)",
+    "appointment_type": "Regular"
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "name": "RAM NIWAS",
+    "code": "028136",
+    "designation": "Principal",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Harish Kumar",
+    "code": "6011083",
+    "designation": "PGT/Lecturer (Political Science)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "MADAN LAL",
+    "code": "039196",
+    "designation": "PGT/Lecturer (Hindi)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "RAJ KUMAR",
+    "code": "210385",
+    "designation": "PGT/Lecturer (Sanskrit)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SARVJEET",
+    "code": "206709",
+    "designation": "PGT/Lecturer (Economics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SOMESH KUMAR",
+    "code": "082247",
+    "designation": "PGT/Lecturer (Mathematics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SUKHDEV SINGH",
+    "code": "204258",
+    "designation": "PGT/Lecturer (Punjabi)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SUMAN LATA",
+    "code": "062146",
+    "designation": "PGT/Lecturer (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Indu Mahiwal",
+    "code": "6007045",
+    "designation": "TGT/Master (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Rakesh Kumar",
+    "code": "6005303",
+    "designation": "TGT/Master (Science)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SUNITA RANI",
+    "code": "1014240",
+    "designation": "TGT/Master (Punjabi)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Kapoor Singh",
+    "code": "6000790",
+    "designation": "Classical & Vernacular Teacher (Drawing)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "RAM KALI",
+    "code": "5023241",
+    "designation": "Classical & Vernacular Teacher (PTI)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SHARWAN KUMAR",
+    "code": "060926",
+    "designation": "Classical & Vernacular Teacher (Sanskrit)",
+    "appointment_type": "Regular"
+  }
+]

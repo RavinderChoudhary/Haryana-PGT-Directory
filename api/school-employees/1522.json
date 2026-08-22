@@ -1,0 +1,74 @@
+[
+  {
+    "name": "RAJESH KUMAR",
+    "code": "072194",
+    "designation": "Principal",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "JAIVIR SINGH",
+    "code": "1009540",
+    "designation": "PGT/Lecturer (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "JASMER",
+    "code": "213714",
+    "designation": "PGT/Lecturer (Political Science)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "MINU",
+    "code": "5018618",
+    "designation": "PGT/Lecturer (Mathematics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SULTAN SINGH",
+    "code": "095011",
+    "designation": "PGT/Lecturer (Sociology)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Suman Lata",
+    "code": "6002073",
+    "designation": "PGT/Lecturer (Sanskrit)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SUSHEELA DEVI",
+    "code": "208006",
+    "designation": "PGT/Lecturer (Hindi)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "VIKAS",
+    "code": "5020643",
+    "designation": "PGT/Lecturer (History)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Arvind",
+    "code": "6007917",
+    "designation": "TGT/Master (Sanskrit)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "JYOTI",
+    "code": "5008337",
+    "designation": "TGT/Master (Science)",
+    "appointment_type": "Guest (Contractual)"
+  },
+  {
+    "name": "Priyanka Rani",
+    "code": "6008401",
+    "designation": "TGT/Master (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Sunil",
+    "code": "6008168",
+    "designation": "TGT(Physical Education)/Master (DPE)",
+    "appointment_type": "Regular"
+  }
+]

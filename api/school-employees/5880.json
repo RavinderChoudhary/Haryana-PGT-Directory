@@ -1,0 +1,110 @@
+[
+  {
+    "name": "HARISH KUMAR",
+    "code": "212609",
+    "designation": "PGT/Lecturer (Biology)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "JAHANGIR",
+    "code": "213818",
+    "designation": "PGT/Lecturer (Political Science)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "KUSHAL PAL SINGH",
+    "code": "096979",
+    "designation": "PGT/Lecturer (Mathematics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "MEENAKSHI",
+    "code": "5025215",
+    "designation": "PGT/Lecturer (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Preeti",
+    "code": "6003644",
+    "designation": "PGT/Lecturer (Hindi)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "RAMKISHAN",
+    "code": "211500",
+    "designation": "PGT/Lecturer (Geography)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Rohtash",
+    "code": "6003464",
+    "designation": "PGT/Lecturer (Chemistry)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "BABITA SINGH",
+    "code": "2100269",
+    "designation": "TGT/Master (Hindi)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "BABLI DEVI",
+    "code": "5025813",
+    "designation": "TGT/Master (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Bipin Kumar Mishra",
+    "code": "6008447",
+    "designation": "TGT(Physical Education)/Master (DPE)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Jai Parkash",
+    "code": "6006120",
+    "designation": "TGT/Master (Mathematics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Kapil",
+    "code": "6007899",
+    "designation": "TGT/Master (Social Studies)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "MANJU BALA",
+    "code": "5025237",
+    "designation": "TGT/Master (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Shashi Bala",
+    "code": "6006746",
+    "designation": "TGT/Master (Sanskrit)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Shweta Rawat",
+    "code": "6009681",
+    "designation": "TGT/Master (Science)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Vikas",
+    "code": "6004643",
+    "designation": "TGT/Master (Mathematics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "VINOD KUMAR",
+    "code": "5021549",
+    "designation": "TGT/Master (Science)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Vivek Arya",
+    "code": "6006444",
+    "designation": "TGT/Master (Sanskrit)",
+    "appointment_type": "Regular"
+  }
+]

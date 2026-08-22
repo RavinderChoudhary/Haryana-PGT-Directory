@@ -1,0 +1,86 @@
+[
+  {
+    "name": "RAJ SINGH",
+    "code": "061738",
+    "designation": "Principal",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "ASHOK KUMAR",
+    "code": "061983",
+    "designation": "PGT/Lecturer (Chemistry)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "BALJIT",
+    "code": "063245",
+    "designation": "PGT/Lecturer (Political Science)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "HARBANS KUMAR",
+    "code": "205456",
+    "designation": "PGT/Lecturer (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "LAXMI DEVI",
+    "code": "203284",
+    "designation": "PGT/Lecturer (Physics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "MANESH KUMARI",
+    "code": "5008209",
+    "designation": "PGT/Lecturer (Hindi)",
+    "appointment_type": "Guest (Contractual)"
+  },
+  {
+    "name": "REKHA RANI",
+    "code": "5018521",
+    "designation": "PGT/Lecturer (Mathematics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SAMUNDER SINGH",
+    "code": "079465",
+    "designation": "PGT/Lecturer (Hindi)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "URMILA",
+    "code": "5002236",
+    "designation": "PGT/Lecturer (History)",
+    "appointment_type": "Guest (Contractual)"
+  },
+  {
+    "name": "VIDYA DEVI",
+    "code": "5017784",
+    "designation": "PGT/Lecturer (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "VINOD KUMAR",
+    "code": "206936",
+    "designation": "PGT/Lecturer (Economics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "ARVIND KAUSHIK",
+    "code": "087378",
+    "designation": "TGT(Physical Education)/Master (DPE)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "RAKESH KUMAR",
+    "code": "080422",
+    "designation": "TGT/Master (Science)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Sushma Bura",
+    "code": "6000423",
+    "designation": "Classical & Vernacular Teacher (Drawing)",
+    "appointment_type": "Regular"
+  }
+]

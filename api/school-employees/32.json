@@ -1,0 +1,146 @@
+[
+  {
+    "name": "ARCHANA",
+    "code": "001445",
+    "designation": "Principal",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "BHUPINDER KUMAR",
+    "code": "080858",
+    "designation": "Head Master Elementary School",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "ANKITA RANI",
+    "code": "5018385",
+    "designation": "PGT/Lecturer (Mathematics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "BHAG SINGH",
+    "code": "206913",
+    "designation": "PGT/Lecturer (Economics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "NEELAM KUMARI",
+    "code": "202373",
+    "designation": "PGT/Lecturer (Mathematics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "NEHA SHARMA",
+    "code": "205169",
+    "designation": "PGT/Lecturer (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "POONAM GRAMNI",
+    "code": "203185",
+    "designation": "PGT/Lecturer (Physics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Prince Chauhan",
+    "code": "6002329",
+    "designation": "PGT/Lecturer (Fine Arts)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "PRIYANKA MAAN",
+    "code": "200398",
+    "designation": "PGT/Lecturer (Chemistry)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "RAJ KUMAR",
+    "code": "204585",
+    "designation": "PGT/Lecturer (Punjabi)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "RAJ PAL",
+    "code": "201287",
+    "designation": "PGT/Lecturer (Commerce)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "RAKESH AHLAWAT",
+    "code": "204138",
+    "designation": "PGT/Lecturer (Psychology)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "RAKHI AHLAWAT",
+    "code": "205714",
+    "designation": "PGT/Lecturer (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "RAMANDEEP",
+    "code": "5008921",
+    "designation": "PGT/Lecturer (Political Science)",
+    "appointment_type": "Guest (Contractual)"
+  },
+  {
+    "name": "SANDEEP KUMAR",
+    "code": "5003229",
+    "designation": "PGT/Lecturer (Hindi)",
+    "appointment_type": "Guest (Contractual)"
+  },
+  {
+    "name": "SAVITA",
+    "code": "091006",
+    "designation": "PGT/Lecturer (Biology)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Soni Kumar",
+    "code": "6001992",
+    "designation": "PGT/Lecturer (Sanskrit)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "VANDANA NARULA",
+    "code": "200283",
+    "designation": "PGT/Lecturer (Chemistry)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Babita Rani",
+    "code": "6004856",
+    "designation": "TGT/Master (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "PAWAN KUMAR",
+    "code": "087625",
+    "designation": "TGT/Master (Mathematics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "RAJEEV",
+    "code": "5011810",
+    "designation": "TGT/Master (Social Studies)",
+    "appointment_type": "Guest (Contractual)"
+  },
+  {
+    "name": "ANITA SHARMA",
+    "code": "000161",
+    "designation": "Classical & Vernacular Teacher (Sanskrit)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "JASBIR SINGH",
+    "code": "083168",
+    "designation": "Classical & Vernacular Teacher (Punjabi)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "REKHA RANI",
+    "code": "5013530",
+    "designation": "Classical & Vernacular Teacher (Hindi)",
+    "appointment_type": "Guest (Contractual)"
+  }
+]

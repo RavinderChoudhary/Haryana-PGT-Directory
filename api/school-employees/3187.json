@@ -1,0 +1,56 @@
+[
+  {
+    "name": "SANJIV KUMAR KHATRI",
+    "code": "042097",
+    "designation": "Principal",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Mainpal",
+    "code": "6002135",
+    "designation": "PGT/Lecturer (Sanskrit)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "MANJIT SINGH",
+    "code": "091347",
+    "designation": "PGT/Lecturer (Mathematics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "MANJU DEVI",
+    "code": "208426",
+    "designation": "PGT/Lecturer (Hindi)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "MUKESH KUMAR",
+    "code": "5020842",
+    "designation": "PGT/Lecturer (History)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "PARVEEN KUMAR",
+    "code": "1012399",
+    "designation": "PGT/Lecturer (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "PRADEEP KUMAR",
+    "code": "092693",
+    "designation": "TGT/Master (Sanskrit)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "VINOD KUMARI",
+    "code": "5013823",
+    "designation": "TGT/Master (Social Studies)",
+    "appointment_type": "Guest (Contractual)"
+  },
+  {
+    "name": "SANJAY KUMAR",
+    "code": "5022756",
+    "designation": "Classical & Vernacular Teacher (PTI)",
+    "appointment_type": "Regular"
+  }
+]

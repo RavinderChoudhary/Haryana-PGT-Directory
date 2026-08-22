@@ -1,0 +1,116 @@
+[
+  {
+    "name": "ARTI MEHTA",
+    "code": "001746",
+    "designation": "Principal",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "JAGDISH CHANDER",
+    "code": "000915",
+    "designation": "Head Master Elementary School",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "ANJU RANI",
+    "code": "202265",
+    "designation": "PGT/Lecturer (Mathematics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "ARTI CHADHA",
+    "code": "205079",
+    "designation": "PGT/Lecturer (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "ASHOK KUMAR",
+    "code": "001712",
+    "designation": "PGT/Lecturer (Hindi)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Bulbul",
+    "code": "6013477",
+    "designation": "PGT/Lecturer (Commerce)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "KAMALJEET KAUR",
+    "code": "002159",
+    "designation": "PGT/Lecturer (Punjabi)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "KAMLESH DUA",
+    "code": "001753",
+    "designation": "PGT/Lecturer (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "LALIT SHARMA",
+    "code": "062916",
+    "designation": "PGT/Lecturer (History)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "MONIKA RANI",
+    "code": "208985",
+    "designation": "PGT/Lecturer (Biology)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Neetu",
+    "code": "6013719",
+    "designation": "PGT/Lecturer (Political Science)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Sakshi Sudha",
+    "code": "6002626",
+    "designation": "PGT/Lecturer (Physical Education)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SATBIR SINGH SAINI",
+    "code": "203091",
+    "designation": "PGT/Lecturer (Mathematics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Seema Kumari",
+    "code": "6001495",
+    "designation": "PGT/Lecturer (Sanskrit)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SUNANDA GUPTA",
+    "code": "5003381",
+    "designation": "PGT/Lecturer (Economics)",
+    "appointment_type": "Guest (Contractual)"
+  },
+  {
+    "name": "PUJA RANI",
+    "code": "5008172",
+    "designation": "TGT/Master (Science)",
+    "appointment_type": "Guest (Contractual)"
+  },
+  {
+    "name": "RAJAN",
+    "code": "1030622",
+    "designation": "TGT/Master (Hindi)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "MUKESH KUMAR SINGLA",
+    "code": "5026540",
+    "designation": "Classical & Vernacular Teacher (Drawing)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "RAJINDER KAUR",
+    "code": "000246",
+    "designation": "Classical & Vernacular Teacher (Punjabi)",
+    "appointment_type": "Regular"
+  }
+]

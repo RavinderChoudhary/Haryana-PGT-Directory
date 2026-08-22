@@ -1,0 +1,134 @@
+[
+  {
+    "name": "NAWAB SINGH",
+    "code": "008118",
+    "designation": "Principal",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "JANGVIR SINGH",
+    "code": "061792",
+    "designation": "PGT/Lecturer (History)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "JITENDER DANGI",
+    "code": "094754",
+    "designation": "PGT/Lecturer (Political Science)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "JYOTI HOODA",
+    "code": "5015485",
+    "designation": "PGT/Lecturer (Chemistry)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "MAMTA DUA",
+    "code": "208168",
+    "designation": "PGT/Lecturer (Hindi)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "MINAKSHI DEVI",
+    "code": "202744",
+    "designation": "PGT/Lecturer (Mathematics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "MONIKA",
+    "code": "5017795",
+    "designation": "PGT/Lecturer (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "PARVEEN KUMARI",
+    "code": "209967",
+    "designation": "PGT/Lecturer (Sanskrit)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "PARVEEN RANGI",
+    "code": "095065",
+    "designation": "PGT/Lecturer (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Pooja Jangra",
+    "code": "6014307",
+    "designation": "PGT/Lecturer (Commerce)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "POONAM",
+    "code": "5000012",
+    "designation": "PGT/Lecturer (Economics)",
+    "appointment_type": "Guest (Contractual)"
+  },
+  {
+    "name": "PRIYANKA SHARMA",
+    "code": "5010114",
+    "designation": "PGT/Lecturer (Mathematics)",
+    "appointment_type": "Guest (Contractual)"
+  },
+  {
+    "name": "RAJNI RANI",
+    "code": "206001",
+    "designation": "PGT/Lecturer (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SAMERATI DEVI",
+    "code": "5019234",
+    "designation": "PGT/Lecturer (Geography)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SATYENDER KUMAR",
+    "code": "053052",
+    "designation": "PGT/Lecturer (Fine Arts)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SOMVIR",
+    "code": "087572",
+    "designation": "PGT/Lecturer (Hindi)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SUDESH",
+    "code": "056717",
+    "designation": "PGT/Lecturer (Biology)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SUMAN KUMARI",
+    "code": "094512",
+    "designation": "PGT/Lecturer (Hindi)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "VIRENDER SINGH",
+    "code": "203215",
+    "designation": "PGT/Lecturer (Physics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Poonam",
+    "code": "6005098",
+    "designation": "TGT/Master (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Renu Rani",
+    "code": "6004693",
+    "designation": "TGT/Master (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "RANVIR SINGH",
+    "code": "060384",
+    "designation": "Classical & Vernacular Teacher (PTI)",
+    "appointment_type": "Regular"
+  }
+]

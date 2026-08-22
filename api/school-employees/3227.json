@@ -1,0 +1,62 @@
+[
+  {
+    "name": "BHUP SINGH",
+    "code": "042357",
+    "designation": "Principal",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "ANJU BALA",
+    "code": "094539",
+    "designation": "PGT/Lecturer (Hindi)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "ANSHU",
+    "code": "205588",
+    "designation": "PGT/Lecturer (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "REKHA DALAL",
+    "code": "5007065",
+    "designation": "PGT/Lecturer (History)",
+    "appointment_type": "Guest (Contractual)"
+  },
+  {
+    "name": "SUNDRI KUMARI",
+    "code": "5018506",
+    "designation": "PGT/Lecturer (Mathematics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SURESH DEVI",
+    "code": "5004536",
+    "designation": "PGT/Lecturer (Sanskrit)",
+    "appointment_type": "Guest (Contractual)"
+  },
+  {
+    "name": "USHA KUMARI",
+    "code": "213677",
+    "designation": "PGT/Lecturer (Political Science)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Jyoti",
+    "code": "6006339",
+    "designation": "TGT/Master (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "PARVEEN KUMAR",
+    "code": "5023265",
+    "designation": "Classical & Vernacular Teacher (PTI)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SURESH KUMAR",
+    "code": "042746",
+    "designation": "Classical & Vernacular Teacher (Sanskrit)",
+    "appointment_type": "Regular"
+  }
+]

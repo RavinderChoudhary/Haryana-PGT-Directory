@@ -1,0 +1,80 @@
+[
+  {
+    "name": "ABDUL NAFE",
+    "code": "096825",
+    "designation": "Principal",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "ABBAS",
+    "code": "5000142",
+    "designation": "PGT/Lecturer (Hindi)",
+    "appointment_type": "Guest (Contractual)"
+  },
+  {
+    "name": "ANAND SINGH",
+    "code": "5025381",
+    "designation": "PGT/Lecturer (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "CHATAR SINGH",
+    "code": "009815",
+    "designation": "PGT/Lecturer (Hindi)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Rajpal Singh",
+    "code": "6003870",
+    "designation": "PGT/Lecturer (Commerce)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SAKIL AHMED",
+    "code": "5000248",
+    "designation": "PGT/Lecturer (Political Science)",
+    "appointment_type": "Guest (Contractual)"
+  },
+  {
+    "name": "Sokat",
+    "code": "6002954",
+    "designation": "PGT/Lecturer (Urdu)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Sudesh",
+    "code": "6003470",
+    "designation": "PGT/Lecturer (Chemistry)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Sunil Kumar",
+    "code": "6003405",
+    "designation": "PGT/Lecturer (History)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SURENDER KUMAR",
+    "code": "5025332",
+    "designation": "PGT/Lecturer (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "VINOD KUMAR",
+    "code": "5018116",
+    "designation": "PGT/Lecturer (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "KHILLU KUMAR SAHU",
+    "code": "5003947",
+    "designation": "TGT/Master (Science)",
+    "appointment_type": "Guest (Contractual)"
+  },
+  {
+    "name": "Shyam Charan",
+    "code": "6010226",
+    "designation": "TGT/Master (English)",
+    "appointment_type": "Regular"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "name": "AABID HUSSAIN",
+    "code": "095552",
+    "designation": "Principal",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "ANAMIKA",
+    "code": "214341",
+    "designation": "PGT/Lecturer (Hindi)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "BISHAN KUMAR",
+    "code": "5019071",
+    "designation": "PGT/Lecturer (Mathematics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Nirdosh Kumar",
+    "code": "6003408",
+    "designation": "PGT/Lecturer (Hindi)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Yusuf",
+    "code": "6003705",
+    "designation": "PGT/Lecturer (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Hemant",
+    "code": "6004525",
+    "designation": "TGT/Master (Science)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Lalit Singhroha",
+    "code": "6005635",
+    "designation": "TGT/Master (Science)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "VED PRAKASH",
+    "code": "5025389",
+    "designation": "TGT/Master (English)",
+    "appointment_type": "Regular"
+  }
+]

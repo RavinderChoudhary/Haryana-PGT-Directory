@@ -1,0 +1,104 @@
+[
+  {
+    "name": "Amit Kumar",
+    "code": "6002758",
+    "designation": "PGT/Lecturer (Physical Education)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "ANJU ATTRI",
+    "code": "205926",
+    "designation": "PGT/Lecturer (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "BIJENDER SINGH",
+    "code": "059867",
+    "designation": "PGT/Lecturer (History)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "NISHA",
+    "code": "207365",
+    "designation": "PGT/Lecturer (Hindi)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "PUNAM RANI",
+    "code": "211079",
+    "designation": "PGT/Lecturer (Punjabi)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "PUSHPA RANI",
+    "code": "206834",
+    "designation": "PGT/Lecturer (Economics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SATBIR SINGH",
+    "code": "1016438",
+    "designation": "PGT/Lecturer (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SUNIL KUMAR",
+    "code": "1020408",
+    "designation": "PGT/Lecturer (Mathematics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SURAJ BHAN",
+    "code": "088747",
+    "designation": "PGT/Lecturer (Political Science)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SUSHMA DEVI",
+    "code": "210035",
+    "designation": "PGT/Lecturer (Sanskrit)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "VINEY BHARDWAJ",
+    "code": "5003779",
+    "designation": "PGT/Lecturer (English)",
+    "appointment_type": "Guest (Contractual)"
+  },
+  {
+    "name": "Poonam",
+    "code": "6008254",
+    "designation": "TGT(Physical Education)/Master (DPE)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "RAMKARAN",
+    "code": "1016410",
+    "designation": "TGT/Master (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SATISH KUMAR",
+    "code": "054104",
+    "designation": "TGT/Master (Mathematics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "ANUPAM",
+    "code": "5026472",
+    "designation": "Classical & Vernacular Teacher (Drawing)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "RABINDER KUMAR",
+    "code": "047852",
+    "designation": "Classical & Vernacular Teacher (Sanskrit)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SANJAY",
+    "code": "078237",
+    "designation": "Classical & Vernacular Teacher (Hindi)",
+    "appointment_type": "Regular"
+  }
+]

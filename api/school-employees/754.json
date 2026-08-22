@@ -1,0 +1,104 @@
+[
+  {
+    "name": "ANJU CHAUDHARY",
+    "code": "019930",
+    "designation": "Principal",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "AVINTA KUMARI",
+    "code": "5024424",
+    "designation": "PGT/Lecturer (Mathematics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "DEEPAK KUMAR",
+    "code": "012126",
+    "designation": "PGT/Lecturer (Mathematics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "HEMA",
+    "code": "212483",
+    "designation": "PGT/Lecturer (Chemistry)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Poonam Chawaria",
+    "code": "6014203",
+    "designation": "PGT/Lecturer (Physical Education)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Poonam Tanwar",
+    "code": "6014231",
+    "designation": "PGT/Lecturer (Commerce)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "RANJODH SINGH",
+    "code": "5007256",
+    "designation": "PGT/Lecturer (History)",
+    "appointment_type": "Guest (Contractual)"
+  },
+  {
+    "name": "RENU",
+    "code": "5024471",
+    "designation": "PGT/Lecturer (Physics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "ROHTASH",
+    "code": "089474",
+    "designation": "PGT/Lecturer (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SANJAYPAL",
+    "code": "204981",
+    "designation": "PGT/Lecturer (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SATYA PRAKASH",
+    "code": "012244",
+    "designation": "PGT/Lecturer (Sanskrit)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "ASHOK YADAV",
+    "code": "5012900",
+    "designation": "TGT/Master (Mathematics)",
+    "appointment_type": "Guest (Contractual)"
+  },
+  {
+    "name": "DEVENDER SINGH",
+    "code": "092216",
+    "designation": "TGT(Physical Education)/Master (DPE)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "PRADEEP KUMAR",
+    "code": "1011739",
+    "designation": "TGT/Master (Sanskrit)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SEEMA",
+    "code": "5010258",
+    "designation": "TGT/Master (Science)",
+    "appointment_type": "Guest (Contractual)"
+  },
+  {
+    "name": "NARENDER KUMAR",
+    "code": "063723",
+    "designation": "Classical & Vernacular Teacher (Drawing)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "YASHPAL",
+    "code": "5012303",
+    "designation": "Classical & Vernacular Teacher (Hindi)",
+    "appointment_type": "Guest (Contractual)"
+  }
+]

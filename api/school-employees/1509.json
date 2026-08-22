@@ -1,0 +1,68 @@
+[
+  {
+    "name": "PURNIMA SHARMA",
+    "code": "063222",
+    "designation": "Principal",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "ALKA",
+    "code": "206948",
+    "designation": "PGT/Lecturer (Economics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "ARUNA",
+    "code": "207576",
+    "designation": "PGT/Lecturer (Hindi)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "KRISHAN CHANDER",
+    "code": "020955",
+    "designation": "PGT/Lecturer (Mathematics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "NITIN",
+    "code": "5016204",
+    "designation": "PGT/Lecturer (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "POONAM KUMARI",
+    "code": "059099",
+    "designation": "PGT/Lecturer (Political Science)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "RAMESH CHANDER",
+    "code": "022493",
+    "designation": "PGT/Lecturer (Sanskrit)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SHASHI KANT",
+    "code": "012441",
+    "designation": "PGT/Lecturer (Hindi)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SWEETY",
+    "code": "089120",
+    "designation": "TGT/Master (Social Studies)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Virender Singh",
+    "code": "6005755",
+    "designation": "TGT(Physical Education)/Master (DPE)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "MANISHA DEVI",
+    "code": "022948",
+    "designation": "Classical & Vernacular Teacher (Sanskrit)",
+    "appointment_type": "Regular"
+  }
+]

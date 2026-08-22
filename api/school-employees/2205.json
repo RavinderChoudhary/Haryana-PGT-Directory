@@ -1,0 +1,104 @@
+[
+  {
+    "name": "NARESH KUMAR",
+    "code": "028403",
+    "designation": "Principal",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "AJAY SINGH",
+    "code": "201729",
+    "designation": "PGT/Lecturer (Geography)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Nirmala",
+    "code": "6002119",
+    "designation": "PGT/Lecturer (Sanskrit)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "RAGHUBEER SINGH",
+    "code": "088617",
+    "designation": "PGT/Lecturer (Economics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "RAJESH KUMAR",
+    "code": "203868",
+    "designation": "PGT/Lecturer (Political Science)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "RISHI PAL",
+    "code": "212107",
+    "designation": "PGT/Lecturer (Mathematics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SUMAN LATA",
+    "code": "5017729",
+    "designation": "PGT/Lecturer (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "TEJINDER PAL KAUR",
+    "code": "5003156",
+    "designation": "PGT/Lecturer (Punjabi)",
+    "appointment_type": "Guest (Contractual)"
+  },
+  {
+    "name": "USHA RANI",
+    "code": "211172",
+    "designation": "PGT/Lecturer (Punjabi)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "VIRENDER KAUR",
+    "code": "207495",
+    "designation": "PGT/Lecturer (Hindi)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "RAJ KUMAR",
+    "code": "089575",
+    "designation": "TGT/Master (Social Studies)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Raman Deep",
+    "code": "6008752",
+    "designation": "TGT/Master (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Sukhdev Kumar",
+    "code": "6008387",
+    "designation": "TGT/Master (Science)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "TARSEM KUMAR",
+    "code": "1033307",
+    "designation": "TGT/Master (Punjabi)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "ANIL KUMAR",
+    "code": "081977",
+    "designation": "Classical & Vernacular Teacher (Sanskrit)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "DEVENDER KUMAR",
+    "code": "5011858",
+    "designation": "Classical & Vernacular Teacher (Hindi)",
+    "appointment_type": "Guest (Contractual)"
+  },
+  {
+    "name": "HARBILAS",
+    "code": "5023185",
+    "designation": "Classical & Vernacular Teacher (PTI)",
+    "appointment_type": "Regular"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "name": "DEEPAK KUMAR",
+    "code": "209451",
+    "designation": "PGT/Lecturer (Biology)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "HARISH KUMAR",
+    "code": "202243",
+    "designation": "PGT/Lecturer (Mathematics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "RAVI PARKASH SABHARWAL",
+    "code": "5017749",
+    "designation": "PGT/Lecturer (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "REETA RANI",
+    "code": "5015200",
+    "designation": "TGT/Master (Mathematics)",
+    "appointment_type": "Guest (Contractual)"
+  },
+  {
+    "name": "SATBIR SINGH",
+    "code": "1021701",
+    "designation": "TGT/Master (Hindi)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "VANDANA SHARMA",
+    "code": "2003516",
+    "designation": "TGT/Master (Science)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "RAJESH KUMAR",
+    "code": "5011412",
+    "designation": "Classical & Vernacular Teacher (Hindi)",
+    "appointment_type": "Guest (Contractual)"
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "name": "KOMAL SETHI",
+    "code": "057571",
+    "designation": "Principal",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "ANUP BANSAL",
+    "code": "203317",
+    "designation": "PGT/Lecturer (Physics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "KANWERJEET SINGH",
+    "code": "079785",
+    "designation": "PGT/Lecturer (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "KARAM SINGH",
+    "code": "211091",
+    "designation": "PGT/Lecturer (Punjabi)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "MANJEET SINGH",
+    "code": "096143",
+    "designation": "PGT/Lecturer (Sanskrit)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "PREETI JOSHI",
+    "code": "5018782",
+    "designation": "PGT/Lecturer (Mathematics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Rajeev Kumar Srivastava",
+    "code": "6014240",
+    "designation": "PGT/Lecturer (Mathematics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "RAM MURTI DASS",
+    "code": "001841",
+    "designation": "PGT/Lecturer (History)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "RAVI KUMAR",
+    "code": "213040",
+    "designation": "PGT/Lecturer (Economics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SANDEEP KUMAR",
+    "code": "206330",
+    "designation": "PGT/Lecturer (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Pushpendra",
+    "code": "6004462",
+    "designation": "TGT/Master (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "OM PAL",
+    "code": "5005249",
+    "designation": "Classical & Vernacular Teacher (Drawing)",
+    "appointment_type": "Guest (Contractual)"
+  },
+  {
+    "name": "PARDEEP KUMAR",
+    "code": "5015237",
+    "designation": "Classical & Vernacular Teacher (Punjabi)",
+    "appointment_type": "Guest (Contractual)"
+  }
+]

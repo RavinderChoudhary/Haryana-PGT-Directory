@@ -1,0 +1,50 @@
+[
+  {
+    "name": "DEVRAJ",
+    "code": "206619",
+    "designation": "PGT/Lecturer (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Rahul Yadav",
+    "code": "6014145",
+    "designation": "PGT/Lecturer (Mathematics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "VINOD KUMAR",
+    "code": "090314",
+    "designation": "PGT/Lecturer (Biology)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "DEVENDRA KUMAR",
+    "code": "5013768",
+    "designation": "TGT/Master (Mathematics)",
+    "appointment_type": "Guest (Contractual)"
+  },
+  {
+    "name": "OMVIR",
+    "code": "1020155",
+    "designation": "TGT/Master (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Sunil",
+    "code": "6004567",
+    "designation": "TGT/Master (Science)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "NAVAL SINGH",
+    "code": "012716",
+    "designation": "Classical & Vernacular Teacher (Hindi)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SUNIL DUTT",
+    "code": "5002956",
+    "designation": "Classical & Vernacular Teacher (Sanskrit)",
+    "appointment_type": "Guest (Contractual)"
+  }
+]

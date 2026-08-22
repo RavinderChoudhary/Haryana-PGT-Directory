@@ -1,0 +1,92 @@
+[
+  {
+    "name": "RAMA NAND",
+    "code": "009317",
+    "designation": "Head Master Elementary School",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "ANSHU",
+    "code": "088264",
+    "designation": "PGT/Lecturer (Political Science)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "JAIVINDER SINGH",
+    "code": "079787",
+    "designation": "PGT/Lecturer (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Kulshresth",
+    "code": "6002780",
+    "designation": "PGT/Lecturer (Physical Education)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "LALIT KUMAR",
+    "code": "091669",
+    "designation": "PGT/Lecturer (Mathematics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "LAXMI NARAYAN",
+    "code": "088456",
+    "designation": "PGT/Lecturer (History)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "PAWAN KUMAR",
+    "code": "089472",
+    "designation": "PGT/Lecturer (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "RAJ KUMAR YADAV",
+    "code": "200785",
+    "designation": "PGT/Lecturer (Chemistry)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SUNITA YADAV",
+    "code": "034339",
+    "designation": "PGT/Lecturer (Hindi)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SUSHILA DEVI",
+    "code": "012248",
+    "designation": "PGT/Lecturer (Sanskrit)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Anju Yadav",
+    "code": "6008618",
+    "designation": "TGT/Master (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "DHARAMVIR SINGH",
+    "code": "1012772",
+    "designation": "TGT/Master (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "PUNITA SINGH",
+    "code": "5010035",
+    "designation": "TGT/Master (Science)",
+    "appointment_type": "Guest (Contractual)"
+  },
+  {
+    "name": "SUNITA YADAV",
+    "code": "5011500",
+    "designation": "TGT/Master (Mathematics)",
+    "appointment_type": "Guest (Contractual)"
+  },
+  {
+    "name": "SANJAY KUMAR",
+    "code": "5022500",
+    "designation": "Classical & Vernacular Teacher (PTI)",
+    "appointment_type": "Regular"
+  }
+]

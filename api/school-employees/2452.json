@@ -1,0 +1,74 @@
+[
+  {
+    "name": "MANJIT KAUR",
+    "code": "061657",
+    "designation": "Head Master Elementary School",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "GEETA SHARMA",
+    "code": "1031020",
+    "designation": "PGT/Lecturer (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "POONAM KATYAL",
+    "code": "209219",
+    "designation": "PGT/Lecturer (Biology)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "PREET PAL",
+    "code": "044393",
+    "designation": "PGT/Lecturer (Hindi)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SANJAY KAUSHIK",
+    "code": "063264",
+    "designation": "PGT/Lecturer (Mathematics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "MEETO DEVI",
+    "code": "5019546",
+    "designation": "TGT(Physical Education)/Master (DPE)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "PAWAN KUMAR",
+    "code": "1001778",
+    "designation": "TGT/Master (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "PUSHPA DEVI",
+    "code": "1024486",
+    "designation": "TGT/Master (Hindi)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SNEH LATA",
+    "code": "1002089",
+    "designation": "TGT/Master (Sanskrit)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "KULWANT KAUR",
+    "code": "060251",
+    "designation": "Classical & Vernacular Teacher (Punjabi)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Naresh Kumar",
+    "code": "6003029",
+    "designation": "Classical & Vernacular Teacher (PTI)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "NEELAM KUMARI",
+    "code": "030215",
+    "designation": "Classical & Vernacular Teacher (Hindi)",
+    "appointment_type": "Regular"
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "name": "MAHABIR SINGH",
+    "code": "043167",
+    "designation": "Principal",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SURENDER KUMAR",
+    "code": "052374",
+    "designation": "Head Master Elementary School",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "PYARE LAL",
+    "code": "214051",
+    "designation": "PGT/Lecturer (Sociology)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Raj Bala",
+    "code": "6001865",
+    "designation": "PGT/Lecturer (Sanskrit)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "RAJ KUMAR",
+    "code": "079185",
+    "designation": "PGT/Lecturer (History)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "RAM AVTAR",
+    "code": "208823",
+    "designation": "PGT/Lecturer (Mathematics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "REKHA",
+    "code": "5014915",
+    "designation": "PGT/Lecturer (Hindi)",
+    "appointment_type": "Guest (Contractual)"
+  },
+  {
+    "name": "SHIV KUMAR",
+    "code": "019531",
+    "designation": "PGT/Lecturer (Political Science)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "USHA RANI",
+    "code": "5005188",
+    "designation": "TGT/Master (Science)",
+    "appointment_type": "Guest (Contractual)"
+  },
+  {
+    "name": "DHARMENDER SHARMA",
+    "code": "081854",
+    "designation": "Classical & Vernacular Teacher (Sanskrit)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SATISH KUMAR",
+    "code": "5026370",
+    "designation": "Classical & Vernacular Teacher (PTI)",
+    "appointment_type": "Regular"
+  }
+]

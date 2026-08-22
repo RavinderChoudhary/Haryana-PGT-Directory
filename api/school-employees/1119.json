@@ -1,0 +1,62 @@
+[
+  {
+    "name": "MONIKA",
+    "code": "015350",
+    "designation": "Principal",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "BABLI CHOHAN",
+    "code": "5017793",
+    "designation": "PGT/Lecturer (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "INDERPAL YADAV",
+    "code": "5015516",
+    "designation": "PGT/Lecturer (Chemistry)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Jagbir Singh",
+    "code": "6002078",
+    "designation": "PGT/Lecturer (Sanskrit)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "KUSUM RAWAT",
+    "code": "214274",
+    "designation": "PGT/Lecturer (Hindi)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SHAMSHER SINGH",
+    "code": "5018666",
+    "designation": "PGT/Lecturer (Mathematics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SUSHIL",
+    "code": "203540",
+    "designation": "PGT/Lecturer (Physics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "BALBIR SINGH RAWAT",
+    "code": "5011649",
+    "designation": "TGT/Master (Social Studies)",
+    "appointment_type": "Guest (Contractual)"
+  },
+  {
+    "name": "DHARAMVIR",
+    "code": "015634",
+    "designation": "Classical & Vernacular Teacher (Drawing)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "RAKESH",
+    "code": "5006092",
+    "designation": "Classical & Vernacular Teacher (Sanskrit)",
+    "appointment_type": "Guest (Contractual)"
+  }
+]

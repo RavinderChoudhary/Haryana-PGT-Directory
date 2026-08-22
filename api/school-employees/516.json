@@ -1,0 +1,50 @@
+[
+  {
+    "name": "SAROJ BALA",
+    "code": "062135",
+    "designation": "Principal",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "YADVENDER",
+    "code": "037390",
+    "designation": "Head Master Elementary School",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "AMARPATI",
+    "code": "008404",
+    "designation": "PGT/Lecturer (Sanskrit)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "ANITA RANI",
+    "code": "207566",
+    "designation": "PGT/Lecturer (Hindi)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "INDU KUMARI",
+    "code": "091528",
+    "designation": "PGT/Lecturer (Mathematics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "UMESH KUMARI",
+    "code": "205064",
+    "designation": "PGT/Lecturer (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Guddi Bai",
+    "code": "6005260",
+    "designation": "TGT/Master (Sanskrit)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SWEETY DEVI",
+    "code": "5013206",
+    "designation": "TGT/Master (Social Studies)",
+    "appointment_type": "Guest (Contractual)"
+  }
+]

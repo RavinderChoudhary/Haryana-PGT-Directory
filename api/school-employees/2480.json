@@ -1,0 +1,80 @@
+[
+  {
+    "name": "SATISH KUMAR",
+    "code": "033370",
+    "designation": "Principal",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "ASHA RANI",
+    "code": "209695",
+    "designation": "PGT/Lecturer (Sanskrit)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "KIRAN BALA",
+    "code": "062865",
+    "designation": "PGT/Lecturer (Political Science)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "PRAVEEN YADAV",
+    "code": "201153",
+    "designation": "PGT/Lecturer (Commerce)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "RINA KUMARI",
+    "code": "208207",
+    "designation": "PGT/Lecturer (Hindi)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SEEMA",
+    "code": "206088",
+    "designation": "PGT/Lecturer (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SUMAN VERMA",
+    "code": "5005699",
+    "designation": "PGT/Lecturer (Economics)",
+    "appointment_type": "Guest (Contractual)"
+  },
+  {
+    "name": "SUNITA YADAV",
+    "code": "5018325",
+    "designation": "PGT/Lecturer (Mathematics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "UTTRA YADAV",
+    "code": "5020794",
+    "designation": "PGT/Lecturer (History)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SANJU YADAV",
+    "code": "1011673",
+    "designation": "TGT/Master (Sanskrit)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SARITA DEVI",
+    "code": "1012103",
+    "designation": "TGT/Master (Hindi)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "POOJA YADAV",
+    "code": "5024715",
+    "designation": "Classical & Vernacular Teacher (Drawing)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "POONAM SHARMA",
+    "code": "5022461",
+    "designation": "Classical & Vernacular Teacher (PTI)",
+    "appointment_type": "Regular"
+  }
+]

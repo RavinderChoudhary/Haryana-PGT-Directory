@@ -1,0 +1,104 @@
+[
+  {
+    "name": "ASHOK KUMAR",
+    "code": "007955",
+    "designation": "Principal",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "ANIL KUMAR",
+    "code": "210333",
+    "designation": "PGT/Lecturer (Sanskrit)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "JAGDISH CHANDER",
+    "code": "044212",
+    "designation": "PGT/Lecturer (Economics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Kanika",
+    "code": "6013440",
+    "designation": "PGT/Lecturer (Mathematics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "MAHENDER PAL",
+    "code": "039477",
+    "designation": "PGT/Lecturer (Political Science)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Naresh Kumar",
+    "code": "6013504",
+    "designation": "PGT/Lecturer (Chemistry)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "NATHU RAM",
+    "code": "214243",
+    "designation": "PGT/Lecturer (Hindi)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SANDEEP",
+    "code": "5018074",
+    "designation": "PGT/Lecturer (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Sarita",
+    "code": "6013400",
+    "designation": "PGT/Lecturer (Physics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SUNITA",
+    "code": "5006662",
+    "designation": "PGT/Lecturer (History)",
+    "appointment_type": "Guest (Contractual)"
+  },
+  {
+    "name": "SURAJ MAL",
+    "code": "214343",
+    "designation": "PGT/Lecturer (Hindi)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Tulsi Rani",
+    "code": "6003938",
+    "designation": "PGT/Lecturer (Commerce)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Vijay Kumar",
+    "code": "6003349",
+    "designation": "PGT/Lecturer (History)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Jyoti",
+    "code": "6009519",
+    "designation": "TGT(Physical Education)/Master (DPE)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SANTOSH BANA",
+    "code": "5004248",
+    "designation": "TGT/Master (Science)",
+    "appointment_type": "Guest (Contractual)"
+  },
+  {
+    "name": "Vinod Kumar",
+    "code": "6009875",
+    "designation": "TGT/Master (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SAMITA",
+    "code": "5000191",
+    "designation": "Classical & Vernacular Teacher (Sanskrit)",
+    "appointment_type": "Guest (Contractual)"
+  }
+]

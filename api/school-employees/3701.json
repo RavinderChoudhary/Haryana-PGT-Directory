@@ -1,0 +1,92 @@
+[
+  {
+    "name": "SHEELA MALIK",
+    "code": "079415",
+    "designation": "Principal",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "BEANT KAUR",
+    "code": "031664",
+    "designation": "PGT/Lecturer (Punjabi)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "JYOTI PARSHAD",
+    "code": "202196",
+    "designation": "PGT/Lecturer (Mathematics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Kanta",
+    "code": "6014053",
+    "designation": "PGT/Lecturer (Political Science)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Kavita",
+    "code": "6003273",
+    "designation": "PGT/Lecturer (History)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "MANJEET DEVI",
+    "code": "5018424",
+    "designation": "PGT/Lecturer (Mathematics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "MONIKA NAPHRAY",
+    "code": "5017393",
+    "designation": "PGT/Lecturer (Commerce)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "NEERJA KUMARI",
+    "code": "5006397",
+    "designation": "PGT/Lecturer (Hindi)",
+    "appointment_type": "Guest (Contractual)"
+  },
+  {
+    "name": "NEERU MOR",
+    "code": "209781",
+    "designation": "PGT/Lecturer (Sanskrit)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "PINKI",
+    "code": "207783",
+    "designation": "PGT/Lecturer (Hindi)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Preeti",
+    "code": "6015337",
+    "designation": "PGT/Lecturer (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SAROJ KUMARI",
+    "code": "212949",
+    "designation": "PGT/Lecturer (Economics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SEEMA RANI",
+    "code": "5005958",
+    "designation": "PGT/Lecturer (English)",
+    "appointment_type": "Guest (Contractual)"
+  },
+  {
+    "name": "SUDHIR SINGH MALIK",
+    "code": "068194",
+    "designation": "TGT/Master (Social Studies)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "JITENDER",
+    "code": "5006602",
+    "designation": "Classical & Vernacular Teacher (Sanskrit)",
+    "appointment_type": "Guest (Contractual)"
+  }
+]

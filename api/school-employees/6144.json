@@ -1,0 +1,62 @@
+[
+  {
+    "name": "POONAM RANI",
+    "code": "096707",
+    "designation": "Principal",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "POONAM",
+    "code": "096679",
+    "designation": "PGT/Lecturer (Political Science)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "RAJENDER KUMAR",
+    "code": "034079",
+    "designation": "PGT/Lecturer (Geography)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Renu Paliwal",
+    "code": "6013807",
+    "designation": "PGT/Lecturer (Sanskrit)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Sarita Devi",
+    "code": "6014746",
+    "designation": "PGT/Lecturer (History)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SATISH KUMAR",
+    "code": "096605",
+    "designation": "PGT/Lecturer (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SUNIL KUMAR",
+    "code": "091417",
+    "designation": "PGT/Lecturer (Mathematics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "MOHD JUBER",
+    "code": "1027560",
+    "designation": "TGT/Master (Hindi)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "NEELAM",
+    "code": "2100128",
+    "designation": "TGT/Master (Sanskrit)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "PRIYANKA",
+    "code": "5021546",
+    "designation": "TGT/Master (Science)",
+    "appointment_type": "Regular"
+  }
+]

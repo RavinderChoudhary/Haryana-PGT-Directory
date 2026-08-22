@@ -1,0 +1,116 @@
+[
+  {
+    "name": "GEETA KHANNA",
+    "code": "054876",
+    "designation": "Principal",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "AJAY KUMAR",
+    "code": "211943",
+    "designation": "PGT/Lecturer (Physics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "ANKUR",
+    "code": "206649",
+    "designation": "PGT/Lecturer (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "JASMIT KAUR",
+    "code": "5017117",
+    "designation": "PGT/Lecturer (Chemistry)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "MANGE RAM",
+    "code": "091786",
+    "designation": "PGT/Lecturer (Mathematics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "MEGHNA WALIA",
+    "code": "5008341",
+    "designation": "PGT/Lecturer (English)",
+    "appointment_type": "Guest (Contractual)"
+  },
+  {
+    "name": "NEELAM BALA",
+    "code": "003987",
+    "designation": "PGT/Lecturer (Punjabi)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "NITIN SHARMA",
+    "code": "5002942",
+    "designation": "PGT/Lecturer (Political Science)",
+    "appointment_type": "Guest (Contractual)"
+  },
+  {
+    "name": "PARMOD KUMAR",
+    "code": "210497",
+    "designation": "PGT/Lecturer (Sanskrit)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "POONAM RANGA",
+    "code": "209250",
+    "designation": "PGT/Lecturer (Biology)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "RAJNI",
+    "code": "5005855",
+    "designation": "PGT/Lecturer (History)",
+    "appointment_type": "Guest (Contractual)"
+  },
+  {
+    "name": "RATANDEEP KAUR",
+    "code": "5018842",
+    "designation": "PGT/Lecturer (Mathematics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SEEMA DEVI",
+    "code": "214305",
+    "designation": "PGT/Lecturer (Hindi)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SUSHMA",
+    "code": "201235",
+    "designation": "PGT/Lecturer (Commerce)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "VIJAY KUMAR",
+    "code": "070611",
+    "designation": "PGT/Lecturer (Political Science)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Bhupesh Kumar",
+    "code": "6006901",
+    "designation": "TGT/Master (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Rajender Kumar Sharma",
+    "code": "6004552",
+    "designation": "TGT/Master (Sanskrit)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SANTOSH GARG",
+    "code": "5014000",
+    "designation": "TGT/Master (Mathematics)",
+    "appointment_type": "Guest (Contractual)"
+  },
+  {
+    "name": "JAI KRISHAN",
+    "code": "5023307",
+    "designation": "Classical & Vernacular Teacher (PTI)",
+    "appointment_type": "Regular"
+  }
+]

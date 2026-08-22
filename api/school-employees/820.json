@@ -1,0 +1,116 @@
+[
+  {
+    "name": "SURESH KUMAR",
+    "code": "096872",
+    "designation": "Principal",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "KISHAN CHAND",
+    "code": "009194",
+    "designation": "Head Master Elementary School",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Antim",
+    "code": "6014165",
+    "designation": "PGT/Lecturer (Sanskrit)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "BHUPENDER",
+    "code": "095999",
+    "designation": "PGT/Lecturer (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Dheeraj Singh",
+    "code": "6003393",
+    "designation": "PGT/Lecturer (History)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Ishtiyaq Ahmad",
+    "code": "6002958",
+    "designation": "PGT/Lecturer (Urdu)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Jyoti",
+    "code": "6004074",
+    "designation": "PGT/Lecturer (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Nav Rattan",
+    "code": "6003681",
+    "designation": "PGT/Lecturer (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "NAVEEN KUMAR YADAV",
+    "code": "090822",
+    "designation": "PGT/Lecturer (Chemistry)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "RAKESH KUMAR",
+    "code": "2101131",
+    "designation": "PGT/Lecturer (Mathematics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Razia",
+    "code": "6003655",
+    "designation": "PGT/Lecturer (Hindi)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Sakshi Bhardwaj",
+    "code": "6003510",
+    "designation": "PGT/Lecturer (Biology)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "VIRENDER",
+    "code": "2101005",
+    "designation": "PGT/Lecturer (Hindi)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "ANITA CHETIWAL",
+    "code": "2100678",
+    "designation": "TGT/Master (Hindi)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Bijender",
+    "code": "6006653",
+    "designation": "TGT/Master (Mathematics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Mamtesh",
+    "code": "6004728",
+    "designation": "TGT/Master (Science)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Neelam Devi",
+    "code": "6009303",
+    "designation": "TGT/Master (Sanskrit)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Sarita",
+    "code": "6006398",
+    "designation": "TGT/Master (Science)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Suman Bala",
+    "code": "6009047",
+    "designation": "TGT/Master (Sanskrit)",
+    "appointment_type": "Regular"
+  }
+]

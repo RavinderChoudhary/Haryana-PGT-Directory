@@ -1,0 +1,104 @@
+[
+  {
+    "name": "RAJBIR SINGH",
+    "code": "008285",
+    "designation": "Principal",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "JAIVEER SINGH",
+    "code": "213660",
+    "designation": "PGT/Lecturer (Political Science)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "JYOTI",
+    "code": "5017141",
+    "designation": "PGT/Lecturer (Chemistry)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "NARESH KUMAR",
+    "code": "095564",
+    "designation": "PGT/Lecturer (History)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "PARDEEP SINGH",
+    "code": "004292",
+    "designation": "PGT/Lecturer (Physical Education)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "PRADEEP KUMAR",
+    "code": "202966",
+    "designation": "PGT/Lecturer (Mathematics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "RAM PAL SINGH",
+    "code": "062119",
+    "designation": "PGT/Lecturer (Economics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SAVITA",
+    "code": "095227",
+    "designation": "PGT/Lecturer (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SOMVEER",
+    "code": "201758",
+    "designation": "PGT/Lecturer (Geography)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SUNDER SINGH",
+    "code": "5017881",
+    "designation": "PGT/Lecturer (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SURESH KUMARI",
+    "code": "006886",
+    "designation": "PGT/Lecturer (Sanskrit)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SUSHILA KUMARI",
+    "code": "008907",
+    "designation": "PGT/Lecturer (Hindi)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Kajal",
+    "code": "6009721",
+    "designation": "TGT/Master (Science)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SANJU",
+    "code": "1004078",
+    "designation": "TGT/Master (Hindi)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Saroj Bala",
+    "code": "6005578",
+    "designation": "TGT(Physical Education)/Master (DPE)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SURESH KUMAR",
+    "code": "1003308",
+    "designation": "TGT/Master (Mathematics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SANTOSH DEVI",
+    "code": "5009854",
+    "designation": "Classical & Vernacular Teacher (Sanskrit)",
+    "appointment_type": "Guest (Contractual)"
+  }
+]

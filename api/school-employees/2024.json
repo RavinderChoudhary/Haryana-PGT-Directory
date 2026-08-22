@@ -1,0 +1,98 @@
+[
+  {
+    "name": "PAWAN KUMAR ATTRI",
+    "code": "028015",
+    "designation": "Principal",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "POONAM",
+    "code": "058498",
+    "designation": "Head Master Elementary School",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Akshay Khatri",
+    "code": "6002687",
+    "designation": "PGT/Lecturer (Physical Education)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "DINESH SINGH",
+    "code": "209426",
+    "designation": "PGT/Lecturer (Biology)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "KAPIL",
+    "code": "5023630",
+    "designation": "PGT/Lecturer (Mathematics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "MONIKA MALIK",
+    "code": "205572",
+    "designation": "PGT/Lecturer (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "NARENDER",
+    "code": "5017509",
+    "designation": "PGT/Lecturer (Commerce)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "NARESH KUMAR",
+    "code": "1010732",
+    "designation": "PGT/Lecturer (Chemistry)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SEEMA",
+    "code": "5000935",
+    "designation": "PGT/Lecturer (Political Science)",
+    "appointment_type": "Guest (Contractual)"
+  },
+  {
+    "name": "TEJENDER SINGH",
+    "code": "5003297",
+    "designation": "PGT/Lecturer (History)",
+    "appointment_type": "Guest (Contractual)"
+  },
+  {
+    "name": "YASHPAL",
+    "code": "207942",
+    "designation": "PGT/Lecturer (Hindi)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Archna",
+    "code": "6005708",
+    "designation": "TGT/Master (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "BALINDER SINGH",
+    "code": "1011209",
+    "designation": "TGT/Master (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Sachin Rathi",
+    "code": "6006123",
+    "designation": "TGT/Master (Science)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "VIKAS",
+    "code": "5019837",
+    "designation": "TGT(Physical Education)/Master (DPE)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "POONAM RANI",
+    "code": "028200",
+    "designation": "Classical & Vernacular Teacher (Sanskrit)",
+    "appointment_type": "Regular"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "name": "ASHISH KUMAR",
+    "code": "090354",
+    "designation": "PGT/Lecturer (Physics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "PARVEEN KUMAR",
+    "code": "087737",
+    "designation": "PGT/Lecturer (Chemistry)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SANDEEP KUMAR",
+    "code": "209414",
+    "designation": "PGT/Lecturer (Biology)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SANDEEP KUMAR",
+    "code": "202249",
+    "designation": "PGT/Lecturer (Mathematics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SUNIL DUTT",
+    "code": "210522",
+    "designation": "PGT/Lecturer (Sanskrit)",
+    "appointment_type": "Regular"
+  }
+]

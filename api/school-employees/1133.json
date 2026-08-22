@@ -1,0 +1,62 @@
+[
+  {
+    "name": "GANGA RAM",
+    "code": "015697",
+    "designation": "Principal",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "CHANDER BHAN",
+    "code": "210425",
+    "designation": "PGT/Lecturer (Sanskrit)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "DEEPTI RAWAT",
+    "code": "207574",
+    "designation": "PGT/Lecturer (Hindi)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "KAVITA DEVI",
+    "code": "5001097",
+    "designation": "PGT/Lecturer (English)",
+    "appointment_type": "Guest (Contractual)"
+  },
+  {
+    "name": "Praveen Kumar",
+    "code": "6013669",
+    "designation": "PGT/Lecturer (Mathematics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SEEMA RAWAT",
+    "code": "012514",
+    "designation": "PGT/Lecturer (History)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "VIVEK SINGH",
+    "code": "203783",
+    "designation": "PGT/Lecturer (Political Science)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Bhim Singh",
+    "code": "6009862",
+    "designation": "TGT/Master (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "DEV DUTT",
+    "code": "089162",
+    "designation": "TGT/Master (Social Studies)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "MAHENDER SINGH",
+    "code": "5006204",
+    "designation": "Classical & Vernacular Teacher (Sanskrit)",
+    "appointment_type": "Guest (Contractual)"
+  }
+]

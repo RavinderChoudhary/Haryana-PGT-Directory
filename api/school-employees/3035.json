@@ -1,0 +1,122 @@
+[
+  {
+    "name": "CHINDER PAL",
+    "code": "096428",
+    "designation": "Principal",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Dilbag",
+    "code": "6002743",
+    "designation": "PGT/Lecturer (Physical Education)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "JASBEER KAUR",
+    "code": "204325",
+    "designation": "PGT/Lecturer (Punjabi)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "JASWANT RAM",
+    "code": "204965",
+    "designation": "PGT/Lecturer (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Kuljeet Singh",
+    "code": "6014017",
+    "designation": "PGT/Lecturer (Biology)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "LAL CHAND",
+    "code": "060836",
+    "designation": "PGT/Lecturer (Sociology)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "MAMTA",
+    "code": "5004171",
+    "designation": "PGT/Lecturer (Political Science)",
+    "appointment_type": "Guest (Contractual)"
+  },
+  {
+    "name": "Pankaj",
+    "code": "6014574",
+    "designation": "PGT/Lecturer (Mathematics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "RAM LAL",
+    "code": "060675",
+    "designation": "PGT/Lecturer (Economics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "RAM SAWROOP",
+    "code": "207213",
+    "designation": "PGT/Lecturer (Hindi)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SANDEEP KUMAR",
+    "code": "091912",
+    "designation": "PGT/Lecturer (Mathematics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Sanjay Kumar",
+    "code": "6013961",
+    "designation": "PGT/Lecturer (Physics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Simran Kalra",
+    "code": "6003936",
+    "designation": "PGT/Lecturer (Commerce)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Vishal Saini",
+    "code": "6013462",
+    "designation": "PGT/Lecturer (Chemistry)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Anju",
+    "code": "6007272",
+    "designation": "TGT/Master (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "ASHOK KUMAR",
+    "code": "091695",
+    "designation": "TGT/Master (Mathematics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "DHARAM PAL",
+    "code": "060859",
+    "designation": "TGT/Master (Social Studies)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "JAGTAR SINGH",
+    "code": "1015581",
+    "designation": "TGT/Master (Punjabi)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Priyanka",
+    "code": "6005376",
+    "designation": "TGT(Physical Education)/Master (DPE)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "KAMAL PREET KAUR",
+    "code": "5001737",
+    "designation": "Classical & Vernacular Teacher (Drawing)",
+    "appointment_type": "Guest (Contractual)"
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "name": "AMIT WALIA",
+    "code": "096716",
+    "designation": "Principal",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "CHANDER PAL",
+    "code": "080845",
+    "designation": "PGT/Lecturer (Biology)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "DHARAMBIR",
+    "code": "096646",
+    "designation": "PGT/Lecturer (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "GEETA SAHU",
+    "code": "1027520",
+    "designation": "PGT/Lecturer (History)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Poonam",
+    "code": "6002968",
+    "designation": "PGT/Lecturer (Urdu)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "RANVEER SINGH",
+    "code": "213450",
+    "designation": "PGT/Lecturer (Mathematics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Sudesh",
+    "code": "6003622",
+    "designation": "PGT/Lecturer (Hindi)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "GOVIND SHARMA",
+    "code": "5025259",
+    "designation": "TGT/Master (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Kavita Kumari",
+    "code": "6009848",
+    "designation": "TGT/Master (Hindi)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Kuldeep Singh",
+    "code": "6005288",
+    "designation": "TGT/Master (Social Studies)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Poonam Devi",
+    "code": "6008153",
+    "designation": "TGT/Master (Hindi)",
+    "appointment_type": "Regular"
+  }
+]

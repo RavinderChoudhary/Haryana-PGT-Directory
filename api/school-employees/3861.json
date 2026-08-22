@@ -1,0 +1,80 @@
+[
+  {
+    "name": "BEER SINGH",
+    "code": "062233",
+    "designation": "Principal",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "AMIT KUMAR",
+    "code": "211681",
+    "designation": "PGT/Lecturer (Physics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "ANITA KUMARI",
+    "code": "210173",
+    "designation": "PGT/Lecturer (Sanskrit)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "NITU KUMARI",
+    "code": "209163",
+    "designation": "PGT/Lecturer (Biology)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Rashmi",
+    "code": "6003953",
+    "designation": "PGT/Lecturer (Mathematics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "RATTAN LAL VERMA",
+    "code": "083789",
+    "designation": "PGT/Lecturer (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SAVITA DEVI",
+    "code": "051932",
+    "designation": "PGT/Lecturer (Hindi)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "VINAY KUMAR",
+    "code": "087696",
+    "designation": "PGT/Lecturer (Chemistry)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "LALIT PARKASH",
+    "code": "090074",
+    "designation": "TGT/Master (Social Studies)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Mukesh Kumari",
+    "code": "6006358",
+    "designation": "TGT/Master (Sanskrit)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Nikita Yadav",
+    "code": "6006837",
+    "designation": "TGT/Master (Science)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "RANDHIR SINGH",
+    "code": "050136",
+    "designation": "TGT(Physical Education)/Master (DPE)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "GUGAN RAM",
+    "code": "051910",
+    "designation": "Classical & Vernacular Teacher (Hindi)",
+    "appointment_type": "Regular"
+  }
+]

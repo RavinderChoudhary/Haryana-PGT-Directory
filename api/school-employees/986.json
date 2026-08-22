@@ -1,0 +1,68 @@
+[
+  {
+    "name": "PAWAN KUMAR",
+    "code": "034175",
+    "designation": "Principal",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "ANUJ KUMAR",
+    "code": "5000524",
+    "designation": "PGT/Lecturer (Hindi)",
+    "appointment_type": "Guest (Contractual)"
+  },
+  {
+    "name": "BRAJESH KUMAR VARSHNEY",
+    "code": "202685",
+    "designation": "PGT/Lecturer (Mathematics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "MAHENDRA PRSAD SHARMA",
+    "code": "207959",
+    "designation": "PGT/Lecturer (Hindi)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "MUKESH KUMAR",
+    "code": "5020639",
+    "designation": "PGT/Lecturer (History)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Neelam",
+    "code": "6013843",
+    "designation": "PGT/Lecturer (Political Science)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "PARMOD KUMAR",
+    "code": "206227",
+    "designation": "PGT/Lecturer (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Shashi Kumar",
+    "code": "6001872",
+    "designation": "PGT/Lecturer (Sanskrit)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Amarjit",
+    "code": "6008839",
+    "designation": "TGT(Physical Education)/Master (DPE)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Mukesh",
+    "code": "6005143",
+    "designation": "TGT/Master (Science)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "VIJENDRA SINGH",
+    "code": "059531",
+    "designation": "TGT/Master (Mathematics)",
+    "appointment_type": "Regular"
+  }
+]

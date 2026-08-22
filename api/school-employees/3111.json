@@ -1,0 +1,62 @@
+[
+  {
+    "name": "MONIKA",
+    "code": "209375",
+    "designation": "PGT/Lecturer (Biology)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SUSHMA",
+    "code": "091193",
+    "designation": "PGT/Lecturer (Chemistry)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "ANITA GULA",
+    "code": "081014",
+    "designation": "TGT/Master (Home Science)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "PUNAM RANI",
+    "code": "1006213",
+    "designation": "TGT/Master (Sanskrit)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SANGEETA VERMA",
+    "code": "5025406",
+    "designation": "TGT/Master (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SANTOSH SHARMA",
+    "code": "1007133",
+    "designation": "TGT/Master (Hindi)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SHAKUNTALA",
+    "code": "091542",
+    "designation": "TGT/Master (Mathematics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SUSHMA",
+    "code": "1014038",
+    "designation": "TGT/Master (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "PRATIBHA RANI",
+    "code": "5024682",
+    "designation": "Classical & Vernacular Teacher (Drawing)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "RENU KALRA",
+    "code": "060471",
+    "designation": "Classical & Vernacular Teacher (PTI)",
+    "appointment_type": "Regular"
+  }
+]

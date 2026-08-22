@@ -1,0 +1,122 @@
+[
+  {
+    "name": "MANJEET KAUR",
+    "code": "079132",
+    "designation": "Principal",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "AJAY KUMAR",
+    "code": "200922",
+    "designation": "PGT/Lecturer (Commerce)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Ekta Verma",
+    "code": "6013966",
+    "designation": "PGT/Lecturer (Biology)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "GIRDHARI LAL",
+    "code": "1014836",
+    "designation": "PGT/Lecturer (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "KARPAL SINGH",
+    "code": "5001180",
+    "designation": "PGT/Lecturer (Punjabi)",
+    "appointment_type": "Guest (Contractual)"
+  },
+  {
+    "name": "KHUSHBOO",
+    "code": "5018403",
+    "designation": "PGT/Lecturer (Mathematics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "NEETU RANI",
+    "code": "5006752",
+    "designation": "PGT/Lecturer (Hindi)",
+    "appointment_type": "Guest (Contractual)"
+  },
+  {
+    "name": "PREM RANI",
+    "code": "090033",
+    "designation": "PGT/Lecturer (Political Science)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SANDEEP KUMAR",
+    "code": "200592",
+    "designation": "PGT/Lecturer (Chemistry)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SAROJ",
+    "code": "208757",
+    "designation": "PGT/Lecturer (Hindi)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Sunil Kumar",
+    "code": "6002126",
+    "designation": "PGT/Lecturer (Sanskrit)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SURINDER KUMAR",
+    "code": "202014",
+    "designation": "PGT/Lecturer (History)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SURJEET SINGH",
+    "code": "212013",
+    "designation": "PGT/Lecturer (Physics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Veenu Kumar",
+    "code": "6013261",
+    "designation": "PGT/Lecturer (Mathematics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "ANURAG",
+    "code": "078615",
+    "designation": "TGT/Master (Mathematics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "JASPAL SINGH",
+    "code": "5002268",
+    "designation": "TGT/Master (Science)",
+    "appointment_type": "Guest (Contractual)"
+  },
+  {
+    "name": "REKHA RANI",
+    "code": "089211",
+    "designation": "TGT/Master (Social Studies)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "RENU BALA",
+    "code": "5019513",
+    "designation": "TGT/Master (Home Science)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SEEMA RANI",
+    "code": "5019515",
+    "designation": "TGT(Physical Education)/Master (DPE)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "MANDER SINGH",
+    "code": "039589",
+    "designation": "Classical & Vernacular Teacher (Punjabi)",
+    "appointment_type": "Regular"
+  }
+]

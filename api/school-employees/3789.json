@@ -1,0 +1,74 @@
+[
+  {
+    "name": "LOKESH KUMAR",
+    "code": "020097",
+    "designation": "Principal",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SHAMSHER",
+    "code": "050121",
+    "designation": "Head Master Elementary School",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "ASHOK KUMAR SWAMI",
+    "code": "213792",
+    "designation": "PGT/Lecturer (Political Science)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Kumar Gaurav",
+    "code": "6001923",
+    "designation": "PGT/Lecturer (Sanskrit)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "RAMVEER",
+    "code": "5018967",
+    "designation": "PGT/Lecturer (Mathematics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SUBHASH CHAND",
+    "code": "5005929",
+    "designation": "PGT/Lecturer (Hindi)",
+    "appointment_type": "Guest (Contractual)"
+  },
+  {
+    "name": "SURENDER KUMAR",
+    "code": "205385",
+    "designation": "PGT/Lecturer (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SURESH KUMAR",
+    "code": "5019275",
+    "designation": "PGT/Lecturer (Geography)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Rajesh Kumar",
+    "code": "6010026",
+    "designation": "TGT/Master (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "JYOTI YADAV",
+    "code": "5000267",
+    "designation": "Classical & Vernacular Teacher (Sanskrit)",
+    "appointment_type": "Guest (Contractual)"
+  },
+  {
+    "name": "MAHENDER KUMAR",
+    "code": "5023214",
+    "designation": "Classical & Vernacular Teacher (PTI)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "VED PRAKASH",
+    "code": "083492",
+    "designation": "Classical & Vernacular Teacher (Hindi)",
+    "appointment_type": "Regular"
+  }
+]

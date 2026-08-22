@@ -1,0 +1,116 @@
+[
+  {
+    "name": "ASHOK KUMAR",
+    "code": "033696",
+    "designation": "Principal",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "AJIT SINGH",
+    "code": "080631",
+    "designation": "PGT/Lecturer (Chemistry)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "AMIT KUMAR",
+    "code": "202984",
+    "designation": "PGT/Lecturer (Mathematics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "BALRAM",
+    "code": "083920",
+    "designation": "PGT/Lecturer (Political Science)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "CHANDER SHEKHER",
+    "code": "090903",
+    "designation": "PGT/Lecturer (Chemistry)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "DEEPAK KUMAR",
+    "code": "5017546",
+    "designation": "PGT/Lecturer (Commerce)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "DINESH KUMAR",
+    "code": "207232",
+    "designation": "PGT/Lecturer (Hindi)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "KIRAN PAL YADAV",
+    "code": "095556",
+    "designation": "PGT/Lecturer (History)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "MAHENDER SINGH",
+    "code": "078985",
+    "designation": "PGT/Lecturer (Physics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "NEERU SHARMA",
+    "code": "201626",
+    "designation": "PGT/Lecturer (Geography)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Pooja",
+    "code": "6002604",
+    "designation": "PGT/Lecturer (Physical Education)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "RAJENDER KUMAR",
+    "code": "1011943",
+    "designation": "PGT/Lecturer (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "RUCHI",
+    "code": "083819",
+    "designation": "PGT/Lecturer (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SANJAY",
+    "code": "206928",
+    "designation": "PGT/Lecturer (Economics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "TEEKA RAM SINGHLA",
+    "code": "210470",
+    "designation": "PGT/Lecturer (Sanskrit)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "ASHWANI KUMAR",
+    "code": "5003016",
+    "designation": "TGT/Master (Science)",
+    "appointment_type": "Guest (Contractual)"
+  },
+  {
+    "name": "Reena Kumari",
+    "code": "6007952",
+    "designation": "TGT/Master (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SOHAN LAL",
+    "code": "5023123",
+    "designation": "TGT(Physical Education)/Master (DPE)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "RAMPAL SINGH",
+    "code": "061054",
+    "designation": "Classical & Vernacular Teacher (Sanskrit)",
+    "appointment_type": "Regular"
+  }
+]

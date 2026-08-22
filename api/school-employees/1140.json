@@ -1,0 +1,74 @@
+[
+  {
+    "name": "ASHOK KUMAR",
+    "code": "079320",
+    "designation": "Principal",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "DEVENDER",
+    "code": "208383",
+    "designation": "PGT/Lecturer (Hindi)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "JEETENDER",
+    "code": "212159",
+    "designation": "PGT/Lecturer (Mathematics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "PARDEEP KUMAR",
+    "code": "209517",
+    "designation": "PGT/Lecturer (Biology)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Rajni Kokcha",
+    "code": "6013896",
+    "designation": "PGT/Lecturer (Political Science)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "RAKESH",
+    "code": "5019313",
+    "designation": "PGT/Lecturer (Geography)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SANDEEP KUMAR",
+    "code": "212378",
+    "designation": "PGT/Lecturer (Mathematics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "CHANDER SHEKHAR SHARMA",
+    "code": "5011242",
+    "designation": "TGT/Master (Mathematics)",
+    "appointment_type": "Guest (Contractual)"
+  },
+  {
+    "name": "Rattan Singh",
+    "code": "6008741",
+    "designation": "TGT(Physical Education)/Master (DPE)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Ashok Kumar",
+    "code": "6000655",
+    "designation": "Classical & Vernacular Teacher (Drawing)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "GAJENDER",
+    "code": "015881",
+    "designation": "Classical & Vernacular Teacher (Hindi)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "LOKESH KUMAR",
+    "code": "5003550",
+    "designation": "Classical & Vernacular Teacher (Sanskrit)",
+    "appointment_type": "Guest (Contractual)"
+  }
+]

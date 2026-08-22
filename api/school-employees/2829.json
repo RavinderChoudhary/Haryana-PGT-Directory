@@ -1,0 +1,74 @@
+[
+  {
+    "name": "JAGMAL SINGH",
+    "code": "036713",
+    "designation": "Principal",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "RAJ KAUR",
+    "code": "5008738",
+    "designation": "PGT/Lecturer (Hindi)",
+    "appointment_type": "Guest (Contractual)"
+  },
+  {
+    "name": "RAJ SINGH",
+    "code": "211119",
+    "designation": "PGT/Lecturer (Punjabi)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Shiv Narayan",
+    "code": "6001757",
+    "designation": "PGT/Lecturer (Sanskrit)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SUSHMA",
+    "code": "5003378",
+    "designation": "PGT/Lecturer (History)",
+    "appointment_type": "Guest (Contractual)"
+  },
+  {
+    "name": "Vikram",
+    "code": "6014122",
+    "designation": "PGT/Lecturer (Mathematics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "VIRENDER KUMAR",
+    "code": "061417",
+    "designation": "PGT/Lecturer (Hindi)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "ANGAD KUMAR",
+    "code": "5012275",
+    "designation": "TGT/Master (Social Studies)",
+    "appointment_type": "Guest (Contractual)"
+  },
+  {
+    "name": "Gurlabh Singh",
+    "code": "6007760",
+    "designation": "TGT/Master (Punjabi)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "GURMEET SINGH",
+    "code": "5012318",
+    "designation": "TGT/Master (Social Studies)",
+    "appointment_type": "Guest (Contractual)"
+  },
+  {
+    "name": "Laxmi Narayan",
+    "code": "6006981",
+    "designation": "TGT(Physical Education)/Master (DPE)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "MANOJ KUMAR",
+    "code": "5012446",
+    "designation": "TGT/Master (Mathematics)",
+    "appointment_type": "Guest (Contractual)"
+  }
+]

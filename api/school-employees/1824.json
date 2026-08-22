@@ -1,0 +1,80 @@
+[
+  {
+    "name": "SANJAY KUMAR",
+    "code": "059279",
+    "designation": "Principal",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Amit Kumar",
+    "code": "6013860",
+    "designation": "PGT/Lecturer (Commerce)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "ARUN KUMAR",
+    "code": "094767",
+    "designation": "PGT/Lecturer (Political Science)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "ASHOK KUMAR",
+    "code": "5018973",
+    "designation": "PGT/Lecturer (Mathematics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "DHARAM PAL",
+    "code": "023848",
+    "designation": "PGT/Lecturer (Sanskrit)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "HARI HARBHAJAN SINGH",
+    "code": "204560",
+    "designation": "PGT/Lecturer (Punjabi)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "PREM SINGH",
+    "code": "026144",
+    "designation": "PGT/Lecturer (Hindi)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "RAM DHARI",
+    "code": "088343",
+    "designation": "PGT/Lecturer (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Rishikant",
+    "code": "6014001",
+    "designation": "PGT/Lecturer (Physics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Kartik",
+    "code": "6007219",
+    "designation": "TGT/Master (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Nitin Kumar",
+    "code": "6008918",
+    "designation": "TGT/Master (Science)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Rahul Kumar",
+    "code": "6007529",
+    "designation": "TGT/Master (Sanskrit)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "PRAVEEN KUMAR",
+    "code": "5023280",
+    "designation": "Classical & Vernacular Teacher (PTI)",
+    "appointment_type": "Regular"
+  }
+]

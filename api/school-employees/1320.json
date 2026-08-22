@@ -1,0 +1,68 @@
+[
+  {
+    "name": "KITABO DEVI",
+    "code": "061466",
+    "designation": "Principal",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "RAM PRAKASH",
+    "code": "007099",
+    "designation": "PGT/Lecturer (Political Science)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Ritu",
+    "code": "6014368",
+    "designation": "PGT/Lecturer (Mathematics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SARITA ROHILLA",
+    "code": "088302",
+    "designation": "PGT/Lecturer (History)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SAROJ BALA",
+    "code": "202102",
+    "designation": "PGT/Lecturer (Home Science)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SURENDER SINGH",
+    "code": "095364",
+    "designation": "PGT/Lecturer (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SUSHILA DEVI",
+    "code": "210098",
+    "designation": "PGT/Lecturer (Sanskrit)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "BABITA KUMARI",
+    "code": "1030132",
+    "designation": "TGT/Master (Sanskrit)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Komal",
+    "code": "6008726",
+    "designation": "TGT/Master (Home Science)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SAJJAN KUMAR",
+    "code": "087467",
+    "designation": "TGT(Physical Education)/Master (DPE)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SHEETAL KATIAL",
+    "code": "016750",
+    "designation": "TGT/Master (Science)",
+    "appointment_type": "Regular"
+  }
+]

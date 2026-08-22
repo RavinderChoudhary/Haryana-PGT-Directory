@@ -1,0 +1,50 @@
+[
+  {
+    "name": "NEERAJ PAHUJA",
+    "code": "060844",
+    "designation": "Principal",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "DEEPAK",
+    "code": "5019027",
+    "designation": "PGT/Lecturer (Mathematics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "ROSHAN LAL",
+    "code": "088380",
+    "designation": "PGT/Lecturer (History)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "VINOD KUMAR",
+    "code": "210773",
+    "designation": "PGT/Lecturer (Sanskrit)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "AMI LAL",
+    "code": "5004726",
+    "designation": "TGT/Master (Science)",
+    "appointment_type": "Guest (Contractual)"
+  },
+  {
+    "name": "Rajesh Kumar",
+    "code": "6008504",
+    "designation": "TGT/Master (Sanskrit)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "VIKAS KUMAR",
+    "code": "5012347",
+    "designation": "TGT/Master (Social Studies)",
+    "appointment_type": "Guest (Contractual)"
+  },
+  {
+    "name": "SAROJ KUMARI",
+    "code": "5022784",
+    "designation": "Classical & Vernacular Teacher (PTI)",
+    "appointment_type": "Regular"
+  }
+]

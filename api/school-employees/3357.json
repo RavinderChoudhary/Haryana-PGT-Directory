@@ -1,0 +1,80 @@
+[
+  {
+    "name": "GOLU RAM",
+    "code": "204762",
+    "designation": "Principal",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Rajesh Garg",
+    "code": "6003743",
+    "designation": "PGT/Lecturer (Mathematics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Sube Singh Suthar",
+    "code": "6001565",
+    "designation": "PGT/Lecturer (Sanskrit)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Sunil Kumar",
+    "code": "6014342",
+    "designation": "PGT/Lecturer (Geography)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Sunil Kumar",
+    "code": "6003293",
+    "designation": "PGT/Lecturer (History)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Vikram",
+    "code": "6013394",
+    "designation": "PGT/Lecturer (Biology)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "HARE RAM",
+    "code": "5025925",
+    "designation": "TGT/Master (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SANDEEP KUMAR",
+    "code": "1025422",
+    "designation": "TGT/Master (Sanskrit)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SANJAY SINGH",
+    "code": "5005193",
+    "designation": "TGT/Master (Science)",
+    "appointment_type": "Guest (Contractual)"
+  },
+  {
+    "name": "SUBHASH CHANDER",
+    "code": "5012370",
+    "designation": "TGT/Master (Mathematics)",
+    "appointment_type": "Guest (Contractual)"
+  },
+  {
+    "name": "BINDU GODARA BENIWAL",
+    "code": "5013699",
+    "designation": "Classical & Vernacular Teacher (Hindi)",
+    "appointment_type": "Guest (Contractual)"
+  },
+  {
+    "name": "JAI PRAKASH",
+    "code": "5022444",
+    "designation": "Classical & Vernacular Teacher (PTI)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "RACHNA DEVI",
+    "code": "5008978",
+    "designation": "Classical & Vernacular Teacher (Drawing)",
+    "appointment_type": "Guest (Contractual)"
+  }
+]

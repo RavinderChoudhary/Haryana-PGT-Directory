@@ -1,0 +1,98 @@
+[
+  {
+    "name": "SARITA GOYAL",
+    "code": "002223",
+    "designation": "Principal",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "VIKRAM SINGH RATTAN",
+    "code": "213271",
+    "designation": "PGT/Lecturer (Computer Science)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "ASHOK KUMAR",
+    "code": "091009",
+    "designation": "PGT/Lecturer (Chemistry)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "BUTA RAM",
+    "code": "204601",
+    "designation": "PGT/Lecturer (Punjabi)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "CHANDERJIT SINGH",
+    "code": "094430",
+    "designation": "PGT/Lecturer (Hindi)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "MINAKSHI DEVI",
+    "code": "204975",
+    "designation": "PGT/Lecturer (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "NAMITA RANI",
+    "code": "203945",
+    "designation": "PGT/Lecturer (Political Science)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "NEM CHAND GAUTAM",
+    "code": "092522",
+    "designation": "PGT/Lecturer (Economics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "RAMPHAL",
+    "code": "078897",
+    "designation": "PGT/Lecturer (Mathematics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "REKHA DEVI",
+    "code": "5017441",
+    "designation": "PGT/Lecturer (Commerce)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SHIVDAYAL SINGH",
+    "code": "031447",
+    "designation": "PGT/Lecturer (Physics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SURINDER KUMAR",
+    "code": "205903",
+    "designation": "PGT/Lecturer (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Krishan Kumar",
+    "code": "6004289",
+    "designation": "TGT(Physical Education)/Master (DPE)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "RINKU",
+    "code": "5019469",
+    "designation": "TGT/Master (Punjabi)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Yogesh",
+    "code": "6008962",
+    "designation": "TGT/Master (Science)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "ISHWAR DIYAL",
+    "code": "5003130",
+    "designation": "Classical & Vernacular Teacher (Sanskrit)",
+    "appointment_type": "Guest (Contractual)"
+  }
+]

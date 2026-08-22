@@ -1,0 +1,92 @@
+[
+  {
+    "name": "BAL RAM",
+    "code": "042278",
+    "designation": "Principal",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "ASLAM KHAN",
+    "code": "211222",
+    "designation": "PGT/Lecturer (Urdu)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "JYOTI SINGH",
+    "code": "5004712",
+    "designation": "PGT/Lecturer (Political Science)",
+    "appointment_type": "Guest (Contractual)"
+  },
+  {
+    "name": "Khushbu",
+    "code": "6013548",
+    "designation": "PGT/Lecturer (Biology)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "MAHIPAL SINGH",
+    "code": "083533",
+    "designation": "PGT/Lecturer (Hindi)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SUDHIR KUMAR",
+    "code": "091297",
+    "designation": "PGT/Lecturer (Mathematics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "TAYYAB HUSSAIN",
+    "code": "089085",
+    "designation": "PGT/Lecturer (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Devender Singh Rawat",
+    "code": "6003005",
+    "designation": "TGT/Master (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Hakam Deen",
+    "code": "6006229",
+    "designation": "TGT/Master (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "HARPAL SINGH",
+    "code": "5006535",
+    "designation": "TGT/Master (Science)",
+    "appointment_type": "Guest (Contractual)"
+  },
+  {
+    "name": "NISHA YADAV",
+    "code": "5025553",
+    "designation": "TGT/Master (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "PRADEEP KUMAR",
+    "code": "1012768",
+    "designation": "TGT/Master (Sanskrit)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "San Deep Kumar",
+    "code": "6009702",
+    "designation": "TGT(Physical Education)/Master (DPE)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "LAKHMI CHAND",
+    "code": "5014585",
+    "designation": "Classical & Vernacular Teacher (Hindi)",
+    "appointment_type": "Guest (Contractual)"
+  },
+  {
+    "name": "Mohdfaruq",
+    "code": "6000855",
+    "designation": "Classical & Vernacular Teacher (Drawing)",
+    "appointment_type": "Regular"
+  }
+]

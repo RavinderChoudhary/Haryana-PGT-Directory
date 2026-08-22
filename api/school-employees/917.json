@@ -1,0 +1,116 @@
+[
+  {
+    "name": "MUKESH DEVI",
+    "code": "096713",
+    "designation": "Principal",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "NAVEEN KUMAR YADAV",
+    "code": "032231",
+    "designation": "Head Master Elementary School",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "BHAWNA",
+    "code": "212596",
+    "designation": "PGT/Lecturer (Physics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "BHAWNA DAHIYA",
+    "code": "096748",
+    "designation": "PGT/Lecturer (Hindi)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "HARISH BATRA",
+    "code": "212562",
+    "designation": "PGT/Lecturer (Mathematics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "HARISH YADAV",
+    "code": "201679",
+    "designation": "PGT/Lecturer (Geography)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "JAIWANTI",
+    "code": "211256",
+    "designation": "PGT/Lecturer (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "NARAYAN PARTAP",
+    "code": "213452",
+    "designation": "PGT/Lecturer (Mathematics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Renuka Yadav",
+    "code": "6003488",
+    "designation": "PGT/Lecturer (Biology)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Sarmila",
+    "code": "6003396",
+    "designation": "PGT/Lecturer (History)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Sudesh",
+    "code": "6013212",
+    "designation": "PGT/Lecturer (Sanskrit)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Sudesh Kumari",
+    "code": "6003618",
+    "designation": "PGT/Lecturer (Hindi)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SUSHMA GAUTAM",
+    "code": "205053",
+    "designation": "PGT/Lecturer (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "DINESH KUMAR",
+    "code": "2005045",
+    "designation": "TGT/Master (Sanskrit)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Pinki Rani",
+    "code": "6008937",
+    "designation": "TGT/Master (Social Studies)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SAROJ",
+    "code": "212585",
+    "designation": "TGT/Master (Science)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SUMAN",
+    "code": "214458",
+    "designation": "TGT(Physical Education)/Master (DPE)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Sumitra",
+    "code": "6001211",
+    "designation": "TGT/Master (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "VIPIN SAPRA",
+    "code": "070691",
+    "designation": "TGT/Master (Mathematics)",
+    "appointment_type": "Regular"
+  }
+]

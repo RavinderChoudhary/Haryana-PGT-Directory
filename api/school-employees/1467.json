@@ -1,0 +1,92 @@
+[
+  {
+    "name": "RAJBIR SINGH",
+    "code": "020014",
+    "designation": "Principal",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "VIRENDER SINGH",
+    "code": "057927",
+    "designation": "Head Master Elementary School",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SUMIT KUMAR",
+    "code": "213215",
+    "designation": "PGT/Lecturer (Computer Science)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "ANJU RANI",
+    "code": "206514",
+    "designation": "PGT/Lecturer (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "BIJENDER SINGH",
+    "code": "059267",
+    "designation": "PGT/Lecturer (Economics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "CHANDER PARKASH",
+    "code": "5000567",
+    "designation": "PGT/Lecturer (English)",
+    "appointment_type": "Guest (Contractual)"
+  },
+  {
+    "name": "DIMPLE",
+    "code": "096144",
+    "designation": "PGT/Lecturer (Sanskrit)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "MANJU BALA",
+    "code": "062370",
+    "designation": "PGT/Lecturer (History)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "RAMESH KUMAR",
+    "code": "201851",
+    "designation": "PGT/Lecturer (History)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Rekha Sharma",
+    "code": "6013023",
+    "designation": "PGT/Lecturer (Home Science)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SHASHI KANT",
+    "code": "091742",
+    "designation": "PGT/Lecturer (Mathematics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SONIA",
+    "code": "5018478",
+    "designation": "PGT/Lecturer (Mathematics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SUNITA RANI",
+    "code": "083775",
+    "designation": "PGT/Lecturer (Political Science)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "JAGBIR SINGH",
+    "code": "090331",
+    "designation": "TGT/Master (Science)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "PROMILA DEVI",
+    "code": "1002934",
+    "designation": "TGT/Master (Sanskrit)",
+    "appointment_type": "Regular"
+  }
+]

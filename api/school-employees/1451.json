@@ -1,0 +1,92 @@
+[
+  {
+    "name": "USHA BANSAL",
+    "code": "044023",
+    "designation": "Principal",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "BHARATI MARKANDEYA",
+    "code": "200099",
+    "designation": "PGT/Lecturer (Chemistry)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Kiran",
+    "code": "6014901",
+    "designation": "PGT/Lecturer (Economics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Nisha Rani",
+    "code": "6004128",
+    "designation": "PGT/Lecturer (Mathematics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "NITESH SHARMA",
+    "code": "210401",
+    "designation": "PGT/Lecturer (Sanskrit)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "POOJA",
+    "code": "214282",
+    "designation": "PGT/Lecturer (Hindi)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "POONAM SINGH",
+    "code": "203487",
+    "designation": "PGT/Lecturer (Physics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SANTOSH KUMARI",
+    "code": "079380",
+    "designation": "PGT/Lecturer (Political Science)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SANTOSH RANI",
+    "code": "061174",
+    "designation": "PGT/Lecturer (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SARIKA",
+    "code": "5003112",
+    "designation": "PGT/Lecturer (English)",
+    "appointment_type": "Guest (Contractual)"
+  },
+  {
+    "name": "SATPAL SINGH",
+    "code": "5003527",
+    "designation": "PGT/Lecturer (History)",
+    "appointment_type": "Guest (Contractual)"
+  },
+  {
+    "name": "SHWETA",
+    "code": "200958",
+    "designation": "PGT/Lecturer (Commerce)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Jyoti Bugalia",
+    "code": "6006142",
+    "designation": "TGT/Master (Science)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "MEENA KUMARI",
+    "code": "1029762",
+    "designation": "TGT/Master (Sanskrit)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Meera Verma",
+    "code": "6008562",
+    "designation": "TGT/Master (English)",
+    "appointment_type": "Regular"
+  }
+]

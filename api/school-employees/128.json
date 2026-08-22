@@ -1,0 +1,26 @@
+[
+  {
+    "name": "SANDEEP KUMAR",
+    "code": "204724",
+    "designation": "PGT/Lecturer (Sociology)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "AARTI SONI",
+    "code": "5013603",
+    "designation": "TGT/Master (Mathematics)",
+    "appointment_type": "Guest (Contractual)"
+  },
+  {
+    "name": "ASHWANI",
+    "code": "1009378",
+    "designation": "TGT/Master (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "DHARAMVIR",
+    "code": "1002114",
+    "designation": "TGT/Master (Hindi)",
+    "appointment_type": "Regular"
+  }
+]

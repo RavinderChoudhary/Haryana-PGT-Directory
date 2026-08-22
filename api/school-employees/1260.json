@@ -1,0 +1,110 @@
+[
+  {
+    "name": "ANIL KUMAR",
+    "code": "020399",
+    "designation": "Principal",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Adhyayan Boora",
+    "code": "6013895",
+    "designation": "PGT/Lecturer (Physics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "HANUMAN SINGH",
+    "code": "095273",
+    "designation": "PGT/Lecturer (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Kavita",
+    "code": "6004034",
+    "designation": "PGT/Lecturer (Mathematics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "MAHAVIR SINGH",
+    "code": "070490",
+    "designation": "PGT/Lecturer (History)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "MANJU DEVI",
+    "code": "092538",
+    "designation": "PGT/Lecturer (Economics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "NEELAM RANI",
+    "code": "1008970",
+    "designation": "PGT/Lecturer (Chemistry)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Pawan Kumar",
+    "code": "6002809",
+    "designation": "PGT/Lecturer (Physical Education)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "POONAM RANI",
+    "code": "208278",
+    "designation": "PGT/Lecturer (Hindi)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Sonu Ram",
+    "code": "6011365",
+    "designation": "PGT/Lecturer (Sanskrit)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SULOCHANA",
+    "code": "5018717",
+    "designation": "PGT/Lecturer (Mathematics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SUMAN LATA",
+    "code": "213748",
+    "designation": "PGT/Lecturer (Political Science)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "TRIPTA",
+    "code": "207307",
+    "designation": "PGT/Lecturer (Hindi)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "USHA RANI",
+    "code": "205980",
+    "designation": "PGT/Lecturer (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "AMAN BHATIA",
+    "code": "091274",
+    "designation": "TGT/Master (Mathematics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "RAMESH KUMAR",
+    "code": "1028248",
+    "designation": "TGT/Master (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "VINOD KUMAR",
+    "code": "080650",
+    "designation": "TGT/Master (Science)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "YUDHBIR",
+    "code": "1029669",
+    "designation": "TGT/Master (Sanskrit)",
+    "appointment_type": "Regular"
+  }
+]

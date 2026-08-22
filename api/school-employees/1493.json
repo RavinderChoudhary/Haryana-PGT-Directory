@@ -1,0 +1,98 @@
+[
+  {
+    "name": "ARUN KUMAR",
+    "code": "060719",
+    "designation": "Principal",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "ADESH RATHEE",
+    "code": "023121",
+    "designation": "PGT/Lecturer (Sanskrit)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "BALJIT SINGH",
+    "code": "091359",
+    "designation": "PGT/Lecturer (Mathematics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Diksha",
+    "code": "6002666",
+    "designation": "PGT/Lecturer (Physical Education)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "MUKESH KUMAR",
+    "code": "095516",
+    "designation": "PGT/Lecturer (History)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "MUKESH KUMAR",
+    "code": "088701",
+    "designation": "PGT/Lecturer (Political Science)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "NARENDER KUMAR",
+    "code": "203731",
+    "designation": "PGT/Lecturer (Physics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SANTOSH KUMARI",
+    "code": "201462",
+    "designation": "PGT/Lecturer (Geography)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SUMER SINGH",
+    "code": "080785",
+    "designation": "PGT/Lecturer (Chemistry)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SUNITA DEVI",
+    "code": "5008880",
+    "designation": "PGT/Lecturer (English)",
+    "appointment_type": "Guest (Contractual)"
+  },
+  {
+    "name": "VIJENDER SINGH",
+    "code": "207969",
+    "designation": "PGT/Lecturer (Hindi)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Krishan Kumar",
+    "code": "6010166",
+    "designation": "TGT/Master (Sanskrit)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "RAJ KUMAR",
+    "code": "1008137",
+    "designation": "TGT/Master (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "RAM CHANDER",
+    "code": "5014687",
+    "designation": "TGT/Master (Social Studies)",
+    "appointment_type": "Guest (Contractual)"
+  },
+  {
+    "name": "SONAM",
+    "code": "212448",
+    "designation": "TGT/Master (Science)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SURESH KUMAR",
+    "code": "020118",
+    "designation": "TGT/Master (Mathematics)",
+    "appointment_type": "Regular"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "name": "REENA",
+    "code": "036884",
+    "designation": "Principal",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "JYOTI RATHEE",
+    "code": "5018430",
+    "designation": "PGT/Lecturer (Mathematics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "KAVITA DEVI",
+    "code": "209598",
+    "designation": "PGT/Lecturer (Sanskrit)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "RITA",
+    "code": "036911",
+    "designation": "PGT/Lecturer (History)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SANTOSH KUMARI",
+    "code": "207435",
+    "designation": "PGT/Lecturer (Hindi)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SANTOSH SINDHU",
+    "code": "205358",
+    "designation": "PGT/Lecturer (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Swati",
+    "code": "6001513",
+    "designation": "PGT/Lecturer (Political Science)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Kamlesh",
+    "code": "6006558",
+    "designation": "TGT/Master (Sanskrit)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Neelam",
+    "code": "6009472",
+    "designation": "TGT/Master (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SANDEEP",
+    "code": "5022361",
+    "designation": "Classical & Vernacular Teacher (PTI)",
+    "appointment_type": "Regular"
+  }
+]

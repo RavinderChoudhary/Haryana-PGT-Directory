@@ -1,0 +1,86 @@
+[
+  {
+    "name": "MEENA KUMARI",
+    "code": "078448",
+    "designation": "Principal",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Anil Choudhary",
+    "code": "6013379",
+    "designation": "PGT/Lecturer (Physics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "GURMAIL SINGH",
+    "code": "089154",
+    "designation": "PGT/Lecturer (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "KARITI NARANG",
+    "code": "210984",
+    "designation": "PGT/Lecturer (Home Science)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "KULDEEP SINGH",
+    "code": "039860",
+    "designation": "PGT/Lecturer (Punjabi)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Mahaveer",
+    "code": "6013837",
+    "designation": "PGT/Lecturer (Mathematics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Nand Gopal",
+    "code": "6013743",
+    "designation": "PGT/Lecturer (Political Science)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Prem",
+    "code": "6013852",
+    "designation": "PGT/Lecturer (Chemistry)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "VIJAY KUMAR",
+    "code": "088364",
+    "designation": "PGT/Lecturer (History)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "GOPI RAM",
+    "code": "1014885",
+    "designation": "TGT/Master (Sanskrit)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "NARESH KUMAR",
+    "code": "1014358",
+    "designation": "TGT/Master (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "RISHU MEHTA",
+    "code": "1014763",
+    "designation": "TGT/Master (Mathematics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SUKHWANT SINGH",
+    "code": "5019489",
+    "designation": "TGT/Master (Punjabi)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SANTOSH KUMARI",
+    "code": "060678",
+    "designation": "Classical & Vernacular Teacher (PTI)",
+    "appointment_type": "Regular"
+  }
+]

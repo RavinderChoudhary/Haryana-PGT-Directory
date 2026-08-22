@@ -1,0 +1,86 @@
+[
+  {
+    "name": "SUNITA",
+    "code": "022751",
+    "designation": "Principal",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Goldi",
+    "code": "6011389",
+    "designation": "PGT/Lecturer (Sanskrit)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "KANTA DEVI",
+    "code": "022820",
+    "designation": "PGT/Lecturer (History)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "KUSUM",
+    "code": "213563",
+    "designation": "PGT/Lecturer (Political Science)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Renuka Devi",
+    "code": "6014892",
+    "designation": "PGT/Lecturer (Economics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SARLA DEVI",
+    "code": "088419",
+    "designation": "PGT/Lecturer (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SAVITA RANI",
+    "code": "094447",
+    "designation": "PGT/Lecturer (Hindi)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SONIA",
+    "code": "5018597",
+    "designation": "PGT/Lecturer (Mathematics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "BICHHA RAM",
+    "code": "5014005",
+    "designation": "TGT/Master (Mathematics)",
+    "appointment_type": "Guest (Contractual)"
+  },
+  {
+    "name": "KAMLESH KUMARI",
+    "code": "058488",
+    "designation": "TGT(Physical Education)/Master (DPE)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Rajesh Kumar",
+    "code": "6003587",
+    "designation": "TGT/Master (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SEEMA DEVI",
+    "code": "1009166",
+    "designation": "TGT/Master (Sanskrit)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SUMAN DEVI",
+    "code": "5010038",
+    "designation": "Classical & Vernacular Teacher (Drawing)",
+    "appointment_type": "Guest (Contractual)"
+  },
+  {
+    "name": "SUNITA BAMAL",
+    "code": "5013238",
+    "designation": "Classical & Vernacular Teacher (Hindi)",
+    "appointment_type": "Guest (Contractual)"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "name": "OM PRAKASH",
+    "code": "090308",
+    "designation": "PGT/Lecturer (Biology)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "PARKASH RANI",
+    "code": "5012840",
+    "designation": "TGT/Master (Mathematics)",
+    "appointment_type": "Guest (Contractual)"
+  },
+  {
+    "name": "PARVEEN KUMAR",
+    "code": "5025787",
+    "designation": "TGT/Master (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "PREM SINGH",
+    "code": "5012646",
+    "designation": "TGT/Master (Social Studies)",
+    "appointment_type": "Guest (Contractual)"
+  },
+  {
+    "name": "Rajender Singh",
+    "code": "6005474",
+    "designation": "TGT/Master (Science)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Roshni Devi",
+    "code": "6008579",
+    "designation": "TGT/Master (Sanskrit)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SHIV KUMAR",
+    "code": "5013169",
+    "designation": "TGT/Master (Social Studies)",
+    "appointment_type": "Guest (Contractual)"
+  },
+  {
+    "name": "SUSHMA RANI",
+    "code": "2001753",
+    "designation": "TGT/Master (Punjabi)",
+    "appointment_type": "Regular"
+  }
+]

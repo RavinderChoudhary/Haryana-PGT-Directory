@@ -1,0 +1,50 @@
+[
+  {
+    "name": "VIRENDER KUMAR",
+    "code": "009427",
+    "designation": "Principal",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "DEVENDER DEV",
+    "code": "212653",
+    "designation": "PGT/Lecturer (Chemistry)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "GYANENDER",
+    "code": "5018012",
+    "designation": "PGT/Lecturer (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Irfan Khan",
+    "code": "6007872",
+    "designation": "TGT(Physical Education)/Master (DPE)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "JITENDER KUMAR",
+    "code": "5025372",
+    "designation": "TGT/Master (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Mohd Mustak",
+    "code": "6005787",
+    "designation": "TGT/Master (Urdu)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Ravinder",
+    "code": "6010040",
+    "designation": "TGT/Master (Science)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SABBIR AHMED",
+    "code": "2100409",
+    "designation": "TGT/Master (Hindi)",
+    "appointment_type": "Regular"
+  }
+]

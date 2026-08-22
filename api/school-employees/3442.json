@@ -1,0 +1,74 @@
+[
+  {
+    "name": "ANUJ MALIK",
+    "code": "5021522",
+    "designation": "PGT/Lecturer (Computer Science)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "ARUN KUMAR",
+    "code": "207474",
+    "designation": "PGT/Lecturer (Hindi)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "KULDEEP",
+    "code": "206341",
+    "designation": "PGT/Lecturer (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "MEENA",
+    "code": "212831",
+    "designation": "PGT/Lecturer (Economics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "REKHA RANI",
+    "code": "5002644",
+    "designation": "PGT/Lecturer (English)",
+    "appointment_type": "Guest (Contractual)"
+  },
+  {
+    "name": "SAPNA",
+    "code": "211851",
+    "designation": "PGT/Lecturer (Physics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SARITA",
+    "code": "5011229",
+    "designation": "PGT/Lecturer (Commerce)",
+    "appointment_type": "Guest (Contractual)"
+  },
+  {
+    "name": "SARITA RANI",
+    "code": "5015457",
+    "designation": "PGT/Lecturer (Chemistry)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SAVITA",
+    "code": "5018551",
+    "designation": "PGT/Lecturer (Mathematics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SUMIT KUMAR",
+    "code": "5018266",
+    "designation": "PGT/Lecturer (Fine Arts)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "ANIL",
+    "code": "5019804",
+    "designation": "TGT(Physical Education)/Master (DPE)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SUNITA",
+    "code": "047882",
+    "designation": "Classical & Vernacular Teacher (Sanskrit)",
+    "appointment_type": "Regular"
+  }
+]

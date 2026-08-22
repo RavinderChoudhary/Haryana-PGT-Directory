@@ -1,0 +1,44 @@
+[
+  {
+    "name": "AMIT KUMAR SHARMA",
+    "code": "079454",
+    "designation": "PGT/Lecturer (Hindi)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "HAWA SINGH",
+    "code": "5013052",
+    "designation": "TGT/Master (Mathematics)",
+    "appointment_type": "Guest (Contractual)"
+  },
+  {
+    "name": "KULDEEP KUMAR",
+    "code": "5025744",
+    "designation": "TGT/Master (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "NIRMAL KOUR",
+    "code": "5014414",
+    "designation": "TGT/Master (Social Studies)",
+    "appointment_type": "Guest (Contractual)"
+  },
+  {
+    "name": "Pooja",
+    "code": "6008777",
+    "designation": "TGT/Master (Science)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "DEVENDER KUMAR",
+    "code": "5026170",
+    "designation": "Classical & Vernacular Teacher (PTI)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "JAGDISH CHANDER",
+    "code": "020091",
+    "designation": "Classical & Vernacular Teacher (Sanskrit)",
+    "appointment_type": "Regular"
+  }
+]

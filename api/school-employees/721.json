@@ -1,0 +1,32 @@
+[
+  {
+    "name": "SANDEEP",
+    "code": "096667",
+    "designation": "Principal",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Anita",
+    "code": "6003650",
+    "designation": "PGT/Lecturer (Hindi)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Naveen Sharma",
+    "code": "6003541",
+    "designation": "PGT/Lecturer (Biology)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Neeraj Yadav",
+    "code": "6003451",
+    "designation": "PGT/Lecturer (Chemistry)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SUBHASH CHAND",
+    "code": "011866",
+    "designation": "Classical & Vernacular Teacher (PTI)",
+    "appointment_type": "Regular"
+  }
+]

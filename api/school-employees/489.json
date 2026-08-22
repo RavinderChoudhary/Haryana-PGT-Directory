@@ -1,0 +1,92 @@
+[
+  {
+    "name": "POONAM KUMARI",
+    "code": "008002",
+    "designation": "Principal",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "NAR SINGH",
+    "code": "060444",
+    "designation": "Head Master Elementary School",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "ANJU BALA",
+    "code": "201847",
+    "designation": "PGT/Lecturer (History)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "ASHISH KUMAR HOODA",
+    "code": "212881",
+    "designation": "PGT/Lecturer (Economics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "MAHAVIR SINGH",
+    "code": "096111",
+    "designation": "PGT/Lecturer (Hindi)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "NITU",
+    "code": "080495",
+    "designation": "PGT/Lecturer (Chemistry)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "PAWAN KUMAR",
+    "code": "5017686",
+    "designation": "PGT/Lecturer (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "PRAVESH SANGWAN",
+    "code": "203447",
+    "designation": "PGT/Lecturer (Physics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SHYAM LAL",
+    "code": "210399",
+    "designation": "PGT/Lecturer (Sanskrit)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SUNITA",
+    "code": "202239",
+    "designation": "PGT/Lecturer (Mathematics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SURESH KUMAR",
+    "code": "096174",
+    "designation": "PGT/Lecturer (Political Science)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "VIJAY KUMAR",
+    "code": "201112",
+    "designation": "PGT/Lecturer (Commerce)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "ASHOK KUMAR",
+    "code": "087221",
+    "designation": "TGT(Physical Education)/Master (DPE)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Babli",
+    "code": "6007493",
+    "designation": "TGT/Master (Sanskrit)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "RAJ KUMAR",
+    "code": "1003335",
+    "designation": "TGT/Master (Hindi)",
+    "appointment_type": "Regular"
+  }
+]

@@ -1,0 +1,230 @@
+[
+  {
+    "name": "SHEELA KUMARI",
+    "code": "034058",
+    "designation": "Principal",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "KUSUM RANI",
+    "code": "051825",
+    "designation": "Head Master Elementary School",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "KIRTI NANDAL",
+    "code": "213130",
+    "designation": "PGT/Lecturer (Computer Science)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "BINDU YADAV",
+    "code": "202061",
+    "designation": "PGT/Lecturer (Home Science)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "DEEPA MAHAWAR",
+    "code": "208975",
+    "designation": "PGT/Lecturer (Biology)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "KAMLESH SHARMA",
+    "code": "201137",
+    "designation": "PGT/Lecturer (Commerce)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "KOSHALYA",
+    "code": "204219",
+    "designation": "PGT/Lecturer (Psychology)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "KRISHNA",
+    "code": "061223",
+    "designation": "PGT/Lecturer (Sociology)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Lalit Kumar",
+    "code": "6011163",
+    "designation": "PGT/Lecturer (Music)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "LALITA RANI",
+    "code": "090022",
+    "designation": "PGT/Lecturer (Geography)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "MAMTA",
+    "code": "210138",
+    "designation": "PGT/Lecturer (Sanskrit)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "MANJU BALA",
+    "code": "024906",
+    "designation": "PGT/Lecturer (Mathematics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "MANJU BALA",
+    "code": "080818",
+    "designation": "PGT/Lecturer (Physics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "MANJU LATA",
+    "code": "090069",
+    "designation": "PGT/Lecturer (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "MUL CHAND",
+    "code": "012049",
+    "designation": "PGT/Lecturer (Mathematics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Neeru Yadav",
+    "code": "6015073",
+    "designation": "PGT/Lecturer (Biology)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "PREM LATA",
+    "code": "061570",
+    "designation": "PGT/Lecturer (Fine Arts)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "RAJ BALA",
+    "code": "203925",
+    "designation": "PGT/Lecturer (Political Science)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "RAJINDER KAUR",
+    "code": "203541",
+    "designation": "PGT/Lecturer (Physics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "REETU YADAV",
+    "code": "080400",
+    "designation": "PGT/Lecturer (Biology)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Sangeeta",
+    "code": "6014817",
+    "designation": "PGT/Lecturer (Geography)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SANYOGITA",
+    "code": "071648",
+    "designation": "PGT/Lecturer (History)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SHARDA YADAV",
+    "code": "097056",
+    "designation": "PGT/Lecturer (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SHARMILA KUMARI",
+    "code": "5008625",
+    "designation": "PGT/Lecturer (Hindi)",
+    "appointment_type": "Guest (Contractual)"
+  },
+  {
+    "name": "SUMAN LATA",
+    "code": "209317",
+    "designation": "PGT/Lecturer (Biology)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SUMITRA SHARMA",
+    "code": "200827",
+    "designation": "PGT/Lecturer (Chemistry)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "TEENA",
+    "code": "200714",
+    "designation": "PGT/Lecturer (Chemistry)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "ABHILASHA SHARMA",
+    "code": "1023249",
+    "designation": "TGT/Master (Sanskrit)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "HARI SINGH",
+    "code": "087821",
+    "designation": "TGT/Master (Social Studies)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "KULDEEP",
+    "code": "1025588",
+    "designation": "TGT/Master (Science)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "LALIT SAINI",
+    "code": "5023622",
+    "designation": "TGT/Master (Music)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Pooja Yadav",
+    "code": "6006101",
+    "designation": "TGT/Master (Sanskrit)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Shobha Rani",
+    "code": "6004661",
+    "designation": "TGT/Master (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "TINU KUMARI",
+    "code": "1022825",
+    "designation": "TGT/Master (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "ANJANA",
+    "code": "049866",
+    "designation": "Classical & Vernacular Teacher (PTI)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "BALBINDAR SINGH",
+    "code": "099766",
+    "designation": "Classical & Vernacular Teacher (Punjabi)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "RANVIR SINGH",
+    "code": "050095",
+    "designation": "Classical & Vernacular Teacher (Drawing)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "VIJAY SINGH",
+    "code": "1023080",
+    "designation": "Classical & Vernacular Teacher (Hindi)",
+    "appointment_type": "Regular"
+  }
+]

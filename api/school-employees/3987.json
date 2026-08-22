@@ -1,0 +1,74 @@
+[
+  {
+    "name": "VISHNU KUMAR",
+    "code": "079157",
+    "designation": "Principal",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "OM PRAKASH",
+    "code": "200860",
+    "designation": "PGT/Lecturer (Chemistry)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "PROMILA KUMARI",
+    "code": "209824",
+    "designation": "PGT/Lecturer (Sanskrit)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "RAJESH KUMAR",
+    "code": "1023615",
+    "designation": "PGT/Lecturer (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Rajni Bala",
+    "code": "6013790",
+    "designation": "PGT/Lecturer (Mathematics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "RAKESH YADAV",
+    "code": "080621",
+    "designation": "PGT/Lecturer (Biology)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Sanjay Yadav",
+    "code": "6002121",
+    "designation": "PGT/Lecturer (Political Science)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "YOGESH KUMAR",
+    "code": "080433",
+    "designation": "PGT/Lecturer (Physics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Vijay Singh",
+    "code": "6009127",
+    "designation": "TGT/Master (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "DALBIR SINGH",
+    "code": "5022841",
+    "designation": "Classical & Vernacular Teacher (PTI)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "RAJEEV KUMAR YADAV",
+    "code": "051766",
+    "designation": "Classical & Vernacular Teacher (Drawing)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "VINOD KUMARI",
+    "code": "058843",
+    "designation": "Classical & Vernacular Teacher (Sanskrit)",
+    "appointment_type": "Regular"
+  }
+]

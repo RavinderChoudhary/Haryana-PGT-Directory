@@ -1,0 +1,68 @@
+[
+  {
+    "name": "INDERJEET KAUR",
+    "code": "044109",
+    "designation": "Principal",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "NIRMALA RANI",
+    "code": "5020852",
+    "designation": "PGT/Lecturer (History)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "PRITI",
+    "code": "1025979",
+    "designation": "PGT/Lecturer (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "RAJENDER SINGH",
+    "code": "210742",
+    "designation": "PGT/Lecturer (Sanskrit)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SUBHASH CHANDER",
+    "code": "094487",
+    "designation": "PGT/Lecturer (Hindi)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SUPERBHA",
+    "code": "5019267",
+    "designation": "PGT/Lecturer (Geography)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Jyoti",
+    "code": "6010003",
+    "designation": "TGT/Master (Science)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Rajni",
+    "code": "6007220",
+    "designation": "TGT/Master (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "KIRAN KUMARI",
+    "code": "5009250",
+    "designation": "Classical & Vernacular Teacher (Drawing)",
+    "appointment_type": "Guest (Contractual)"
+  },
+  {
+    "name": "KRISHNA DEVI",
+    "code": "044162",
+    "designation": "Classical & Vernacular Teacher (Sanskrit)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "PARKASHO DEVI",
+    "code": "043029",
+    "designation": "Classical & Vernacular Teacher (PTI)",
+    "appointment_type": "Regular"
+  }
+]

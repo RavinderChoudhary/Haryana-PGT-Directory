@@ -1,0 +1,80 @@
+[
+  {
+    "name": "TRIPTA",
+    "code": "078446",
+    "designation": "Principal",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "KAPIL",
+    "code": "083145",
+    "designation": "PGT/Lecturer (Mathematics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "MEENU DEVI",
+    "code": "203950",
+    "designation": "PGT/Lecturer (Political Science)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "POOJA RANI",
+    "code": "211984",
+    "designation": "PGT/Lecturer (Physics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "REENA GOYAL",
+    "code": "5020669",
+    "designation": "PGT/Lecturer (History)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "REKHA SHARMA",
+    "code": "207446",
+    "designation": "PGT/Lecturer (Hindi)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SANJEET KAUR",
+    "code": "209873",
+    "designation": "PGT/Lecturer (Sanskrit)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SAVITA AHLAWAT",
+    "code": "034973",
+    "designation": "PGT/Lecturer (Chemistry)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SONIA",
+    "code": "204922",
+    "designation": "PGT/Lecturer (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "BIJENDER SINGH",
+    "code": "037205",
+    "designation": "TGT(Physical Education)/Master (DPE)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Krishan Kumar",
+    "code": "6004337",
+    "designation": "TGT/Master (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SHAKTI SINGH",
+    "code": "092149",
+    "designation": "TGT(Physical Education)/Master (DPE)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "ANIL DEVI",
+    "code": "099949",
+    "designation": "Classical & Vernacular Teacher (Sanskrit)",
+    "appointment_type": "Regular"
+  }
+]

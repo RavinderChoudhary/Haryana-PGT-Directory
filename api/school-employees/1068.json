@@ -1,0 +1,80 @@
+[
+  {
+    "name": "MOHD IQBAL",
+    "code": "015432",
+    "designation": "Principal",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "HAROON KHAN",
+    "code": "088720",
+    "designation": "PGT/Lecturer (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "ILIYAS KHAN",
+    "code": "012107",
+    "designation": "PGT/Lecturer (Hindi)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Parneet",
+    "code": "6014549",
+    "designation": "PGT/Lecturer (Biology)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "RAKESH KUMAR",
+    "code": "200452",
+    "designation": "PGT/Lecturer (Chemistry)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "RAVINDER KUMAR",
+    "code": "5018912",
+    "designation": "PGT/Lecturer (Mathematics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SANDEEP SINGH RATHI",
+    "code": "091030",
+    "designation": "PGT/Lecturer (Chemistry)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "HARINDER SINGH CHAUHAN",
+    "code": "015809",
+    "designation": "TGT/Master (Social Studies)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SAKIB MOHD.",
+    "code": "089025",
+    "designation": "TGT/Master (Social Studies)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SANDEEP KUMAR",
+    "code": "087198",
+    "designation": "TGT(Physical Education)/Master (DPE)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Shehnaz Habeeb",
+    "code": "6008236",
+    "designation": "TGT/Master (Urdu)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "NAVEEN KUMAR",
+    "code": "012495",
+    "designation": "Classical & Vernacular Teacher (Hindi)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "RAJ PAL",
+    "code": "015887",
+    "designation": "Classical & Vernacular Teacher (Drawing)",
+    "appointment_type": "Regular"
+  }
+]

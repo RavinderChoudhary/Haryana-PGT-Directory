@@ -1,0 +1,80 @@
+[
+  {
+    "name": "NARENDER SINGH YADAV",
+    "code": "055270",
+    "designation": "Principal",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Vaibhav Yadav",
+    "code": "6015209",
+    "designation": "PGT/Lecturer (Computer Science)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "ANUP BALA",
+    "code": "212981",
+    "designation": "PGT/Lecturer (Economics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "BABITA",
+    "code": "209721",
+    "designation": "PGT/Lecturer (Sanskrit)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "MAHENDER SINGH",
+    "code": "089630",
+    "designation": "PGT/Lecturer (Political Science)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "MANISHA KUMARI",
+    "code": "212508",
+    "designation": "PGT/Lecturer (Chemistry)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "NARESH KUMAR",
+    "code": "5020712",
+    "designation": "PGT/Lecturer (History)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "NEERU MAAN",
+    "code": "095197",
+    "designation": "PGT/Lecturer (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "VIKRAM SINGH",
+    "code": "078252",
+    "designation": "PGT/Lecturer (Mathematics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Manju Devi",
+    "code": "6009865",
+    "designation": "TGT/Master (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "PREM LAL",
+    "code": "095975",
+    "designation": "TGT/Master (Social Studies)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SANDEEP KUMAR",
+    "code": "5007756",
+    "designation": "TGT/Master (Science)",
+    "appointment_type": "Guest (Contractual)"
+  },
+  {
+    "name": "SUSHILA KUMARI",
+    "code": "1022427",
+    "designation": "TGT/Master (Hindi)",
+    "appointment_type": "Regular"
+  }
+]

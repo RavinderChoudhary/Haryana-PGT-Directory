@@ -1,0 +1,50 @@
+[
+  {
+    "name": "KARMVIR SINGH",
+    "code": "5001417",
+    "designation": "PGT/Lecturer (English)",
+    "appointment_type": "Guest (Contractual)"
+  },
+  {
+    "name": "MITLESH KUMARI",
+    "code": "089438",
+    "designation": "PGT/Lecturer (Political Science)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "MUKESH KUMAR",
+    "code": "042294",
+    "designation": "PGT/Lecturer (Sanskrit)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Pardeep Kumar",
+    "code": "6004152",
+    "designation": "PGT/Lecturer (Mathematics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SUDESH",
+    "code": "207678",
+    "designation": "PGT/Lecturer (Hindi)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SUMAN RANI",
+    "code": "088317",
+    "designation": "PGT/Lecturer (History)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "ANITA YADAV",
+    "code": "2006251",
+    "designation": "TGT/Master (Science)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Sheelam Devi",
+    "code": "6007124",
+    "designation": "TGT/Master (English)",
+    "appointment_type": "Regular"
+  }
+]

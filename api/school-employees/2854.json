@@ -1,0 +1,104 @@
+[
+  {
+    "name": "DEVINDER SINGH",
+    "code": "078428",
+    "designation": "Principal",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "CHARANJEET KAUR",
+    "code": "084026",
+    "designation": "PGT/Lecturer (Political Science)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Chhotu Ram",
+    "code": "6001730",
+    "designation": "PGT/Lecturer (Sanskrit)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "GURCHARN KAUR",
+    "code": "212098",
+    "designation": "PGT/Lecturer (Physics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "GURDEEP SINGH",
+    "code": "5020763",
+    "designation": "PGT/Lecturer (History)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "HARGOBIND SINGH",
+    "code": "091382",
+    "designation": "PGT/Lecturer (Mathematics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "HARMAIL SINGH",
+    "code": "089231",
+    "designation": "PGT/Lecturer (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "JASBIR SINGH",
+    "code": "204368",
+    "designation": "PGT/Lecturer (Punjabi)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Krishan Kumar",
+    "code": "6014317",
+    "designation": "PGT/Lecturer (Commerce)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "PARKASH KAUR",
+    "code": "039765",
+    "designation": "PGT/Lecturer (Hindi)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SIKANDER SINGH",
+    "code": "204253",
+    "designation": "PGT/Lecturer (Punjabi)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Umesh Kumar",
+    "code": "6013204",
+    "designation": "PGT/Lecturer (Mathematics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "ANJU BALA",
+    "code": "5014257",
+    "designation": "TGT/Master (Social Studies)",
+    "appointment_type": "Guest (Contractual)"
+  },
+  {
+    "name": "JASWANT SINGH SIDHU",
+    "code": "5014355",
+    "designation": "TGT/Master (Mathematics)",
+    "appointment_type": "Guest (Contractual)"
+  },
+  {
+    "name": "Kirandeep Kaur",
+    "code": "6004399",
+    "designation": "TGT/Master (Punjabi)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Sumit Kumar",
+    "code": "6006808",
+    "designation": "TGT/Master (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Surjit Kumar",
+    "code": "6000840",
+    "designation": "Classical & Vernacular Teacher (Drawing)",
+    "appointment_type": "Regular"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "name": "CHANDRA KISHOR RAY",
+    "code": "028371",
+    "designation": "Principal",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "DALBIR SINGH",
+    "code": "211043",
+    "designation": "PGT/Lecturer (Physical Education)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "GURNAM SINGH",
+    "code": "209508",
+    "designation": "PGT/Lecturer (Biology)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "MIKENDER SINGH",
+    "code": "091343",
+    "designation": "PGT/Lecturer (Mathematics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "NARENDER KUMAR",
+    "code": "5023927",
+    "designation": "PGT/Lecturer (Chemistry)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "PAWAN KUMAR",
+    "code": "204086",
+    "designation": "PGT/Lecturer (Psychology)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "RAJ KUMAR",
+    "code": "201324",
+    "designation": "PGT/Lecturer (Geography)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "RAJEEV KUMAR",
+    "code": "095082",
+    "designation": "PGT/Lecturer (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SHISH PAL",
+    "code": "207471",
+    "designation": "PGT/Lecturer (Hindi)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "YASH PAL",
+    "code": "090034",
+    "designation": "PGT/Lecturer (English)",
+    "appointment_type": "Regular"
+  }
+]

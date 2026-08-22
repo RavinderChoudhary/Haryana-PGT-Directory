@@ -1,0 +1,62 @@
+[
+  {
+    "name": "GESU MALHI",
+    "code": "001417",
+    "designation": "Principal",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "GURDEEP SINGH",
+    "code": "204527",
+    "designation": "PGT/Lecturer (Punjabi)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Narayan Roy",
+    "code": "6013326",
+    "designation": "PGT/Lecturer (Political Science)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Pratibha Bhardwaj",
+    "code": "6003932",
+    "designation": "PGT/Lecturer (Commerce)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "PREETI KALSI",
+    "code": "5018761",
+    "designation": "PGT/Lecturer (Mathematics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SUNIL KUMAR YADAV",
+    "code": "001878",
+    "designation": "PGT/Lecturer (Hindi)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Vijay Kumar",
+    "code": "6001624",
+    "designation": "PGT/Lecturer (Sanskrit)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "VIRENDER SINGH",
+    "code": "201935",
+    "designation": "PGT/Lecturer (History)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Gurdeep Singh",
+    "code": "6004458",
+    "designation": "TGT/Master (Sanskrit)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Vimal Kumar",
+    "code": "6005880",
+    "designation": "TGT/Master (English)",
+    "appointment_type": "Regular"
+  }
+]

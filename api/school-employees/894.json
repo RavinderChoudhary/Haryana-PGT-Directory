@@ -1,0 +1,74 @@
+[
+  {
+    "name": "KAPIL DEV",
+    "code": "096659",
+    "designation": "Principal",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "ANIL",
+    "code": "211255",
+    "designation": "PGT/Lecturer (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Gaurav",
+    "code": "6003475",
+    "designation": "PGT/Lecturer (Chemistry)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Jyoti Kumari",
+    "code": "6003666",
+    "designation": "PGT/Lecturer (Hindi)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "MOHD SIDDIQ",
+    "code": "211283",
+    "designation": "PGT/Lecturer (Urdu)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Naveen",
+    "code": "6003481",
+    "designation": "PGT/Lecturer (Chemistry)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Sonika Tomar",
+    "code": "6003527",
+    "designation": "PGT/Lecturer (Biology)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SUNIL KUMAR",
+    "code": "095202",
+    "designation": "PGT/Lecturer (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Vinod Kumar",
+    "code": "6013823",
+    "designation": "PGT/Lecturer (Sanskrit)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Lalita",
+    "code": "6009433",
+    "designation": "TGT/Master (Hindi)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Mohd Ikram",
+    "code": "6005068",
+    "designation": "TGT/Master (Urdu)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Vikas Dagar",
+    "code": "6007714",
+    "designation": "TGT/Master (Mathematics)",
+    "appointment_type": "Regular"
+  }
+]

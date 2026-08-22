@@ -1,0 +1,80 @@
+[
+  {
+    "name": "SAROJ BHAWAR",
+    "code": "059641",
+    "designation": "Principal",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "BALJINDER KUMAR",
+    "code": "002006",
+    "designation": "PGT/Lecturer (Political Science)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "NEHA GUPTA",
+    "code": "204896",
+    "designation": "PGT/Lecturer (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "NIRJA",
+    "code": "001848",
+    "designation": "PGT/Lecturer (Mathematics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "REENA",
+    "code": "096094",
+    "designation": "PGT/Lecturer (Hindi)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Shri Krishan",
+    "code": "6002184",
+    "designation": "PGT/Lecturer (Sanskrit)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SUKHVINDER SINGH",
+    "code": "204540",
+    "designation": "PGT/Lecturer (Punjabi)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "VANDANA RANI",
+    "code": "212909",
+    "designation": "PGT/Lecturer (Economics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Balvinder Singh",
+    "code": "6009241",
+    "designation": "TGT(Physical Education)/Master (DPE)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "BRIJ KUMAR",
+    "code": "1002149",
+    "designation": "TGT/Master (Punjabi)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Dilbag Dass",
+    "code": "6006269",
+    "designation": "TGT/Master (Sanskrit)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Sandeep",
+    "code": "6007406",
+    "designation": "TGT/Master (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "YOGESH KUMAR",
+    "code": "5012226",
+    "designation": "TGT/Master (Social Studies)",
+    "appointment_type": "Guest (Contractual)"
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "name": "SINDER KAUR",
+    "code": "002771",
+    "designation": "Principal",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "AMEETA DEVI",
+    "code": "203790",
+    "designation": "PGT/Lecturer (Political Science)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "ANITA",
+    "code": "204618",
+    "designation": "PGT/Lecturer (Punjabi)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "BALBIR SINGH",
+    "code": "028180",
+    "designation": "PGT/Lecturer (Sanskrit)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Eshan Chawla",
+    "code": "6014459",
+    "designation": "PGT/Lecturer (Chemistry)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "INDU BALA",
+    "code": "1018469",
+    "designation": "PGT/Lecturer (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "MAMTA DEVI",
+    "code": "002416",
+    "designation": "PGT/Lecturer (Mathematics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "NARESH KUMAR",
+    "code": "213940",
+    "designation": "PGT/Lecturer (Sociology)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Ritu Rana",
+    "code": "6013104",
+    "designation": "PGT/Lecturer (Commerce)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "RITU RANI",
+    "code": "5008776",
+    "designation": "PGT/Lecturer (Physics)",
+    "appointment_type": "Guest (Contractual)"
+  },
+  {
+    "name": "SHEETAL RANI",
+    "code": "092086",
+    "designation": "PGT/Lecturer (Physics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SONIA GUPTA",
+    "code": "058672",
+    "designation": "PGT/Lecturer (Mathematics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Asha Sharma",
+    "code": "6005900",
+    "designation": "TGT/Master (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "JAI PAL",
+    "code": "062168",
+    "designation": "TGT/Master (Punjabi)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "GEETA MANCHANDA",
+    "code": "003883",
+    "designation": "Classical & Vernacular Teacher (Hindi)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "TARSEM LAL",
+    "code": "5026585",
+    "designation": "Classical & Vernacular Teacher (Drawing)",
+    "appointment_type": "Regular"
+  }
+]

@@ -1,0 +1,128 @@
+[
+  {
+    "name": "RAM MEHAR",
+    "code": "042789",
+    "designation": "Principal",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "JITENDER SINGH",
+    "code": "5000499",
+    "designation": "PGT/Lecturer (Political Science)",
+    "appointment_type": "Guest (Contractual)"
+  },
+  {
+    "name": "JYOTSNA",
+    "code": "206087",
+    "designation": "PGT/Lecturer (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "KIRAN LATA",
+    "code": "204366",
+    "designation": "PGT/Lecturer (Punjabi)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "LUXMI",
+    "code": "5007849",
+    "designation": "PGT/Lecturer (Mathematics)",
+    "appointment_type": "Guest (Contractual)"
+  },
+  {
+    "name": "NARENDER SINGH",
+    "code": "5019064",
+    "designation": "PGT/Lecturer (Mathematics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "NEELAM DEVI",
+    "code": "5009769",
+    "designation": "PGT/Lecturer (Hindi)",
+    "appointment_type": "Guest (Contractual)"
+  },
+  {
+    "name": "PARDEEP",
+    "code": "5017267",
+    "designation": "PGT/Lecturer (Chemistry)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "PRIYA",
+    "code": "5019862",
+    "designation": "PGT/Lecturer (Home Science)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "RAVINDER KUMAR",
+    "code": "043133",
+    "designation": "PGT/Lecturer (Sanskrit)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SIMARJEET KAUR",
+    "code": "1015278",
+    "designation": "PGT/Lecturer (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Sumit Kumar",
+    "code": "6003297",
+    "designation": "PGT/Lecturer (History)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SURENDER PAL",
+    "code": "029567",
+    "designation": "PGT/Lecturer (Hindi)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Vandana",
+    "code": "6013887",
+    "designation": "PGT/Lecturer (Commerce)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Virender Singh",
+    "code": "6002393",
+    "designation": "PGT/Lecturer (Fine Arts)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "AMRIK SINGH",
+    "code": "1025619",
+    "designation": "TGT/Master (Punjabi)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "JAIDEEP",
+    "code": "5012681",
+    "designation": "TGT/Master (Mathematics)",
+    "appointment_type": "Guest (Contractual)"
+  },
+  {
+    "name": "KIRAN BALA",
+    "code": "5009997",
+    "designation": "TGT/Master (Science)",
+    "appointment_type": "Guest (Contractual)"
+  },
+  {
+    "name": "Mukesh Kumar",
+    "code": "6007169",
+    "designation": "TGT/Master (Sanskrit)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Priti Jaglan",
+    "code": "6004722",
+    "designation": "TGT/Master (Home Science)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "HARVINDER KAUR",
+    "code": "5026579",
+    "designation": "Classical & Vernacular Teacher (Drawing)",
+    "appointment_type": "Regular"
+  }
+]

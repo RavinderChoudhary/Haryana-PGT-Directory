@@ -1,0 +1,86 @@
+[
+  {
+    "name": "SANGEETA",
+    "code": "063556",
+    "designation": "Principal",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "ANJU DAGAR",
+    "code": "5007267",
+    "designation": "PGT/Lecturer (Physics)",
+    "appointment_type": "Guest (Contractual)"
+  },
+  {
+    "name": "DHARAMVIR SINGH",
+    "code": "201673",
+    "designation": "PGT/Lecturer (Geography)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "HIRA LAL",
+    "code": "203942",
+    "designation": "PGT/Lecturer (Political Science)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "MANJU",
+    "code": "200609",
+    "designation": "PGT/Lecturer (Chemistry)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "NARENDRA SINGH",
+    "code": "205277",
+    "designation": "PGT/Lecturer (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "RAJ KUMAR YADAV",
+    "code": "203049",
+    "designation": "PGT/Lecturer (Mathematics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "RAJNESH KUMARI",
+    "code": "207836",
+    "designation": "PGT/Lecturer (Hindi)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SANJAY KUMAR YADAV",
+    "code": "208116",
+    "designation": "PGT/Lecturer (Hindi)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SUMAN KUMARI",
+    "code": "5008852",
+    "designation": "PGT/Lecturer (English)",
+    "appointment_type": "Guest (Contractual)"
+  },
+  {
+    "name": "VIJAY KUMAR",
+    "code": "210586",
+    "designation": "PGT/Lecturer (Sanskrit)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "MORDHAWAJ",
+    "code": "5013816",
+    "designation": "TGT/Master (Social Studies)",
+    "appointment_type": "Guest (Contractual)"
+  },
+  {
+    "name": "Pooja",
+    "code": "6007668",
+    "designation": "TGT(Physical Education)/Master (DPE)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SANJAI KUMAR",
+    "code": "1027048",
+    "designation": "TGT/Master (Sanskrit)",
+    "appointment_type": "Regular"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "name": "VIRENDER SINGH",
+    "code": "060115",
+    "designation": "Principal",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "BALJEET SINGH",
+    "code": "059008",
+    "designation": "PGT/Lecturer (Economics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "JITENDER",
+    "code": "5020702",
+    "designation": "PGT/Lecturer (History)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "MAHI PAL",
+    "code": "214122",
+    "designation": "PGT/Lecturer (Hindi)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SAVINA",
+    "code": "209643",
+    "designation": "PGT/Lecturer (Sanskrit)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SIKANDER SINGH",
+    "code": "205308",
+    "designation": "PGT/Lecturer (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SINDER PAL",
+    "code": "213715",
+    "designation": "PGT/Lecturer (Political Science)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Sonam Rani",
+    "code": "6012984",
+    "designation": "PGT/Lecturer (Mathematics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Krishan",
+    "code": "6009332",
+    "designation": "TGT(Physical Education)/Master (DPE)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "RAJBIR",
+    "code": "5012180",
+    "designation": "TGT/Master (Social Studies)",
+    "appointment_type": "Guest (Contractual)"
+  },
+  {
+    "name": "VIKAS SANDHU",
+    "code": "1021086",
+    "designation": "TGT/Master (Mathematics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "RAMBILAS",
+    "code": "5008235",
+    "designation": "Classical & Vernacular Teacher (Sanskrit)",
+    "appointment_type": "Guest (Contractual)"
+  }
+]

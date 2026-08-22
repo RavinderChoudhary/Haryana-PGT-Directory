@@ -1,0 +1,38 @@
+[
+  {
+    "name": "RAM KISHAN",
+    "code": "088994",
+    "designation": "PGT/Lecturer (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "AMITA",
+    "code": "5025499",
+    "designation": "TGT/Master (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "KANTA KUMARI",
+    "code": "1012438",
+    "designation": "TGT/Master (Sanskrit)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "RAM NIWAS",
+    "code": "5007614",
+    "designation": "TGT/Master (Science)",
+    "appointment_type": "Guest (Contractual)"
+  },
+  {
+    "name": "SAVITA RANI",
+    "code": "1012480",
+    "designation": "TGT/Master (Hindi)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SEEMA KUMARI",
+    "code": "5023145",
+    "designation": "Classical & Vernacular Teacher (PTI)",
+    "appointment_type": "Regular"
+  }
+]

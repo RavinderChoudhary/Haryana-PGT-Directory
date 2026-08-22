@@ -1,0 +1,56 @@
+[
+  {
+    "name": "VIRENDER SINGH",
+    "code": "021557",
+    "designation": "Principal",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "MADHURI",
+    "code": "208483",
+    "designation": "PGT/Lecturer (Hindi)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "RAJESH",
+    "code": "078241",
+    "designation": "PGT/Lecturer (Mathematics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "RAMDIA SHARMA",
+    "code": "088505",
+    "designation": "PGT/Lecturer (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Seema Devi",
+    "code": "6014244",
+    "designation": "PGT/Lecturer (Political Science)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "VED PAL",
+    "code": "022974",
+    "designation": "PGT/Lecturer (Sanskrit)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Anita",
+    "code": "6006555",
+    "designation": "TGT/Master (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "RAVINDER MALIK",
+    "code": "058950",
+    "designation": "Classical & Vernacular Teacher (PTI)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SASHI MUNI",
+    "code": "082050",
+    "designation": "Classical & Vernacular Teacher (Sanskrit)",
+    "appointment_type": "Regular"
+  }
+]

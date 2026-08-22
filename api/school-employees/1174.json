@@ -1,0 +1,62 @@
+[
+  {
+    "name": "BALESHWAR PAL",
+    "code": "042381",
+    "designation": "Principal",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "BIRENDER KUMAR",
+    "code": "209532",
+    "designation": "PGT/Lecturer (Biology)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "NEERAJ",
+    "code": "5018076",
+    "designation": "PGT/Lecturer (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Prakhar Singh",
+    "code": "6013909",
+    "designation": "PGT/Lecturer (Political Science)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Ravinder",
+    "code": "6014114",
+    "designation": "PGT/Lecturer (Mathematics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SURENDER SINGH",
+    "code": "1019703",
+    "designation": "PGT/Lecturer (Physics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Dev Raj",
+    "code": "6005558",
+    "designation": "TGT/Master (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "PAWAN KUMAR",
+    "code": "5023310",
+    "designation": "TGT(Physical Education)/Master (DPE)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SADHANA CHAUDHARY",
+    "code": "1020192",
+    "designation": "TGT/Master (Science)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SUBHASH CHAND",
+    "code": "083564",
+    "designation": "Classical & Vernacular Teacher (Hindi)",
+    "appointment_type": "Regular"
+  }
+]

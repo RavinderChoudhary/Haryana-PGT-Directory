@@ -1,0 +1,92 @@
+[
+  {
+    "name": "PRAHALAD SINGH RAWAL",
+    "code": "060061",
+    "designation": "Principal",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Himani Madaan",
+    "code": "6013915",
+    "designation": "PGT/Lecturer (Chemistry)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "JAGAT SINGH",
+    "code": "089445",
+    "designation": "PGT/Lecturer (Political Science)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "PARAMDEEP KAUR",
+    "code": "204550",
+    "designation": "PGT/Lecturer (Punjabi)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Rajiv Kumar",
+    "code": "6003777",
+    "designation": "PGT/Lecturer (Commerce)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Sapna Saini",
+    "code": "6013359",
+    "designation": "PGT/Lecturer (Mathematics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Shaifali Vashisth",
+    "code": "6013437",
+    "designation": "PGT/Lecturer (Biology)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "DAVINDER SINGH",
+    "code": "5025747",
+    "designation": "TGT/Master (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "HARBANS SINGH",
+    "code": "1000733",
+    "designation": "TGT/Master (Hindi)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SAJJAN KUMAR",
+    "code": "091652",
+    "designation": "TGT/Master (Mathematics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "VIJAY KUMAR",
+    "code": "5012933",
+    "designation": "TGT/Master (Social Studies)",
+    "appointment_type": "Guest (Contractual)"
+  },
+  {
+    "name": "VISHAL GARG",
+    "code": "078558",
+    "designation": "TGT/Master (Mathematics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Yugdeep",
+    "code": "6004579",
+    "designation": "TGT(Physical Education)/Master (DPE)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "ASHWANI KUMAR",
+    "code": "001492",
+    "designation": "Classical & Vernacular Teacher (Sanskrit)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Rajneesh Saini",
+    "code": "6000566",
+    "designation": "Classical & Vernacular Teacher (Drawing)",
+    "appointment_type": "Regular"
+  }
+]

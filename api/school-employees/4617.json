@@ -1,0 +1,92 @@
+[
+  {
+    "name": "DUSHYANT CHAHAL",
+    "code": "068246",
+    "designation": "Principal",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "JAI KUMAR",
+    "code": "004149",
+    "designation": "Principal",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SUDHIR KUMAR",
+    "code": "023828",
+    "designation": "Principal",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "NARENDER SINGH",
+    "code": "5023605",
+    "designation": "PGT/Lecturer (Computer Science)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "AMARJIT SINGH",
+    "code": "096685",
+    "designation": "PGT/Lecturer (Political Science)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "ASHWANI KUMAR",
+    "code": "200029",
+    "designation": "PGT/Lecturer (Chemistry)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "GEETU",
+    "code": "202075",
+    "designation": "PGT/Lecturer (Home Science)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "MANU SAREEN",
+    "code": "5018486",
+    "designation": "PGT/Lecturer (Mathematics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "RAJEEV KUMAR",
+    "code": "203482",
+    "designation": "PGT/Lecturer (Physics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SANJEEV KUMAR SHARMA",
+    "code": "202800",
+    "designation": "PGT/Lecturer (Mathematics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SANJIV KUMAR",
+    "code": "092619",
+    "designation": "PGT/Lecturer (Economics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SONIKA",
+    "code": "207802",
+    "designation": "PGT/Lecturer (Hindi)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SUMAN RANI",
+    "code": "095527",
+    "designation": "PGT/Lecturer (History)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "TARSEM CHAND",
+    "code": "096105",
+    "designation": "PGT/Lecturer (Hindi)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SANJEEV KUMAR",
+    "code": "5013482",
+    "designation": "TGT/Master (Mathematics)",
+    "appointment_type": "Guest (Contractual)"
+  }
+]

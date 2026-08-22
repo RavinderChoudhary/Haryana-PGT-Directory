@@ -1,0 +1,44 @@
+[
+  {
+    "name": "RITU",
+    "code": "068097",
+    "designation": "Principal",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "JAGDEEP MANDIYA",
+    "code": "091809",
+    "designation": "PGT/Lecturer (Mathematics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "MOOL CHAND",
+    "code": "083696",
+    "designation": "PGT/Lecturer (Hindi)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "RAJNI TAGEJA",
+    "code": "1031350",
+    "designation": "PGT/Lecturer (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Manoj Kumar",
+    "code": "6004703",
+    "designation": "TGT/Master (Science)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Rajesh Kumar",
+    "code": "6010108",
+    "designation": "TGT/Master (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SANT KUMAR",
+    "code": "5004045",
+    "designation": "Classical & Vernacular Teacher (Sanskrit)",
+    "appointment_type": "Guest (Contractual)"
+  }
+]

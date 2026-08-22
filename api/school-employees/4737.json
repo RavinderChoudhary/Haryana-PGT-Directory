@@ -1,0 +1,80 @@
+[
+  {
+    "name": "RAMESHWER DASS",
+    "code": "029536",
+    "designation": "Principal",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "VIPIN KALRA",
+    "code": "029470",
+    "designation": "Head Master Elementary School",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "ANITA DEVI",
+    "code": "054551",
+    "designation": "PGT/Lecturer (History)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "BHUPESH KUNDU",
+    "code": "092127",
+    "designation": "PGT/Lecturer (Mathematics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "DAL SINGH",
+    "code": "060223",
+    "designation": "PGT/Lecturer (Political Science)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "JASVIR SINGH",
+    "code": "1024297",
+    "designation": "PGT/Lecturer (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "MEENAKSHI SHARMA",
+    "code": "029352",
+    "designation": "PGT/Lecturer (Hindi)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "RAJENDER KUMAR",
+    "code": "094386",
+    "designation": "PGT/Lecturer (Geography)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SONIA ROHILLA",
+    "code": "5015554",
+    "designation": "PGT/Lecturer (Commerce)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "USHA RANI",
+    "code": "054368",
+    "designation": "PGT/Lecturer (Sanskrit)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "POONAM GUPTA",
+    "code": "5003099",
+    "designation": "TGT/Master (Science)",
+    "appointment_type": "Guest (Contractual)"
+  },
+  {
+    "name": "NIRMLA DEVI",
+    "code": "029580",
+    "designation": "Classical & Vernacular Teacher (Sanskrit)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SANTRO DEVI",
+    "code": "029295",
+    "designation": "Classical & Vernacular Teacher (PTI)",
+    "appointment_type": "Regular"
+  }
+]

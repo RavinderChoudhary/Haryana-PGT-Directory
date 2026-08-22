@@ -1,0 +1,68 @@
+[
+  {
+    "name": "VINOD PARKASH",
+    "code": "030265",
+    "designation": "Principal",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "AVTAR SINGH",
+    "code": "204411",
+    "designation": "PGT/Lecturer (Punjabi)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "KULVINDER SINGH",
+    "code": "059224",
+    "designation": "PGT/Lecturer (Hindi)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "ROHIT RAI",
+    "code": "5019051",
+    "designation": "PGT/Lecturer (Mathematics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Satish Monga",
+    "code": "6015046",
+    "designation": "PGT/Lecturer (Commerce)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Sube Singh",
+    "code": "6002024",
+    "designation": "PGT/Lecturer (Sanskrit)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "VARINDER KAUR",
+    "code": "1015432",
+    "designation": "PGT/Lecturer (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "DALBIR SINGH",
+    "code": "1015402",
+    "designation": "TGT/Master (Punjabi)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "PREETI",
+    "code": "1014485",
+    "designation": "TGT/Master (Science)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "RAVI DASS",
+    "code": "5019781",
+    "designation": "TGT(Physical Education)/Master (DPE)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "RITU RANI",
+    "code": "5014506",
+    "designation": "TGT/Master (Social Studies)",
+    "appointment_type": "Guest (Contractual)"
+  }
+]

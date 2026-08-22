@@ -1,0 +1,74 @@
+[
+  {
+    "name": "KRISHAN KUMAR",
+    "code": "072212",
+    "designation": "Principal",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "ARUNA",
+    "code": "5005009",
+    "designation": "PGT/Lecturer (History)",
+    "appointment_type": "Guest (Contractual)"
+  },
+  {
+    "name": "GAURI",
+    "code": "207158",
+    "designation": "PGT/Lecturer (Hindi)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "MANJU DEVI",
+    "code": "205105",
+    "designation": "PGT/Lecturer (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "NISHA KHATRI",
+    "code": "5024394",
+    "designation": "PGT/Lecturer (Mathematics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SATPAL SINGH",
+    "code": "203801",
+    "designation": "PGT/Lecturer (Political Science)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SAVITA DEVI",
+    "code": "5003087",
+    "designation": "PGT/Lecturer (Sanskrit)",
+    "appointment_type": "Guest (Contractual)"
+  },
+  {
+    "name": "AJAY SEHRAWAT",
+    "code": "1019987",
+    "designation": "TGT/Master (Science)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Sandeep Kumar",
+    "code": "6007573",
+    "designation": "TGT/Master (Sanskrit)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SUJATA KAUSHIK",
+    "code": "5012153",
+    "designation": "TGT/Master (Social Studies)",
+    "appointment_type": "Guest (Contractual)"
+  },
+  {
+    "name": "VIJAY PAL SINGH",
+    "code": "087262",
+    "designation": "TGT(Physical Education)/Master (DPE)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "JOGENDER SINGH",
+    "code": "5022767",
+    "designation": "Classical & Vernacular Teacher (PTI)",
+    "appointment_type": "Regular"
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "name": "PROMILA KUMARI",
+    "code": "096788",
+    "designation": "Principal",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Amit Kajal",
+    "code": "6003146",
+    "designation": "PGT/Lecturer (Political Science)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Chander Kanta",
+    "code": "6013977",
+    "designation": "PGT/Lecturer (History)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "JIT RAM",
+    "code": "096742",
+    "designation": "PGT/Lecturer (Hindi)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Kulbhushan",
+    "code": "6003431",
+    "designation": "PGT/Lecturer (Economics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "MAHESH KUMAR",
+    "code": "096862",
+    "designation": "PGT/Lecturer (Sanskrit)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "POONAM KUMARI",
+    "code": "1027979",
+    "designation": "PGT/Lecturer (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SURENDER KUMAR YADAV",
+    "code": "096991",
+    "designation": "PGT/Lecturer (Mathematics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Anita Devi",
+    "code": "6009110",
+    "designation": "TGT/Master (Sanskrit)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Chanderdev Yadav",
+    "code": "6010072",
+    "designation": "TGT(Physical Education)/Master (DPE)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Ila",
+    "code": "6007457",
+    "designation": "TGT/Master (Science)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "JAI BHAGWAN",
+    "code": "089072",
+    "designation": "TGT/Master (Social Studies)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "RISHAL SINGH",
+    "code": "5012653",
+    "designation": "Classical & Vernacular Teacher (Hindi)",
+    "appointment_type": "Guest (Contractual)"
+  }
+]

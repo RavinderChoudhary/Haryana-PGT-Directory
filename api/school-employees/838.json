@@ -1,0 +1,80 @@
+[
+  {
+    "name": "ANUP SINGH",
+    "code": "033860",
+    "designation": "PGT/Lecturer (Sanskrit)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "JAIBIR SINGH",
+    "code": "088399",
+    "designation": "PGT/Lecturer (History)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "PRACHI JAIN",
+    "code": "5009227",
+    "designation": "PGT/Lecturer (Chemistry)",
+    "appointment_type": "Guest (Contractual)"
+  },
+  {
+    "name": "PRAMOD KUMAR",
+    "code": "091743",
+    "designation": "PGT/Lecturer (Mathematics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "RANI",
+    "code": "206093",
+    "designation": "PGT/Lecturer (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SAVITA RANI",
+    "code": "091067",
+    "designation": "PGT/Lecturer (Biology)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SUNITA",
+    "code": "5002789",
+    "designation": "PGT/Lecturer (Hindi)",
+    "appointment_type": "Guest (Contractual)"
+  },
+  {
+    "name": "Ajit Kumar",
+    "code": "6010190",
+    "designation": "TGT(Physical Education)/Master (DPE)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "BRIJ KISHORE",
+    "code": "1034757",
+    "designation": "TGT/Master (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Manjeet",
+    "code": "6007887",
+    "designation": "TGT/Master (Science)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Ritu",
+    "code": "6010192",
+    "designation": "TGT/Master (Science)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SURESH VATI",
+    "code": "5012621",
+    "designation": "TGT/Master (Mathematics)",
+    "appointment_type": "Guest (Contractual)"
+  },
+  {
+    "name": "ANITA YADAV",
+    "code": "5000315",
+    "designation": "Classical & Vernacular Teacher (Sanskrit)",
+    "appointment_type": "Guest (Contractual)"
+  }
+]

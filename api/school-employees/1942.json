@@ -1,0 +1,92 @@
+[
+  {
+    "name": "SURESH KUMAR",
+    "code": "023944",
+    "designation": "Principal",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "ARJUN SINGH",
+    "code": "1021773",
+    "designation": "PGT/Lecturer (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "JITENDER SINGH",
+    "code": "095525",
+    "designation": "PGT/Lecturer (History)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "KELA DEVI",
+    "code": "210181",
+    "designation": "PGT/Lecturer (Sanskrit)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "MAMTA DEVI",
+    "code": "203014",
+    "designation": "PGT/Lecturer (Mathematics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "POONAM",
+    "code": "203977",
+    "designation": "PGT/Lecturer (Political Science)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SHAVETA",
+    "code": "100075",
+    "designation": "PGT/Lecturer (Commerce)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SHIKHA JANGRA",
+    "code": "091125",
+    "designation": "PGT/Lecturer (Chemistry)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SUKHVINDER SINGH",
+    "code": "208771",
+    "designation": "PGT/Lecturer (Hindi)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "VIKRAM HANDA",
+    "code": "100081",
+    "designation": "PGT/Lecturer (Physics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "ANITA",
+    "code": "1021633",
+    "designation": "TGT/Master (Science)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Jyoti Nain",
+    "code": "6004336",
+    "designation": "TGT/Master (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "MANDEEP KAUR",
+    "code": "5019429",
+    "designation": "TGT/Master (Punjabi)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "NEERAJ KUMAR",
+    "code": "5026096",
+    "designation": "Classical & Vernacular Teacher (PTI)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "YASH WANTI DEVI",
+    "code": "026511",
+    "designation": "Classical & Vernacular Teacher (Sanskrit)",
+    "appointment_type": "Regular"
+  }
+]

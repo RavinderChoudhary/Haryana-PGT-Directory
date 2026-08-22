@@ -1,0 +1,86 @@
+[
+  {
+    "name": "SUNITA MALIK",
+    "code": "024600",
+    "designation": "Principal",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "KAMALJEET SINGH",
+    "code": "088917",
+    "designation": "PGT/Lecturer (Political Science)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "MANISHA RANI",
+    "code": "5018482",
+    "designation": "PGT/Lecturer (Mathematics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "MANOJ KUMAR",
+    "code": "060175",
+    "designation": "PGT/Lecturer (History)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "NAVNEET KAUR",
+    "code": "000230",
+    "designation": "PGT/Lecturer (Punjabi)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Pardeep Kumar",
+    "code": "6001814",
+    "designation": "PGT/Lecturer (Sanskrit)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Sandeep Kumar",
+    "code": "6002995",
+    "designation": "PGT/Lecturer (Physical Education)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Shivangi Dhaka",
+    "code": "6003895",
+    "designation": "PGT/Lecturer (Commerce)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "VIJAY KUMAR",
+    "code": "049223",
+    "designation": "PGT/Lecturer (Economics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "VINOD KUMAR",
+    "code": "207270",
+    "designation": "PGT/Lecturer (Hindi)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "YAD RAM",
+    "code": "060090",
+    "designation": "PGT/Lecturer (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "MANJEET KUMAR",
+    "code": "5011765",
+    "designation": "TGT/Master (Mathematics)",
+    "appointment_type": "Guest (Contractual)"
+  },
+  {
+    "name": "NEELAM",
+    "code": "5014046",
+    "designation": "TGT/Master (Social Studies)",
+    "appointment_type": "Guest (Contractual)"
+  },
+  {
+    "name": "SHIVANI SAINI",
+    "code": "2005409",
+    "designation": "TGT/Master (Science)",
+    "appointment_type": "Regular"
+  }
+]

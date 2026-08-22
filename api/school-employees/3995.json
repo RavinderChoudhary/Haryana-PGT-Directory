@@ -1,0 +1,56 @@
+[
+  {
+    "name": "SATISH KUMAR",
+    "code": "019648",
+    "designation": "Principal",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "BALWAN SINGH",
+    "code": "202427",
+    "designation": "PGT/Lecturer (Mathematics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "MONU BALA",
+    "code": "5018006",
+    "designation": "PGT/Lecturer (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Pooja Sheoran",
+    "code": "6002140",
+    "designation": "PGT/Lecturer (Sanskrit)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "RAMPAL SINGH",
+    "code": "214306",
+    "designation": "PGT/Lecturer (Hindi)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SUNIL KUMAR",
+    "code": "5019122",
+    "designation": "PGT/Lecturer (Geography)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "PIRYA VART",
+    "code": "5022655",
+    "designation": "TGT(Physical Education)/Master (DPE)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Ramdiya",
+    "code": "6006238",
+    "designation": "TGT/Master (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SATISH KUMAR",
+    "code": "5010004",
+    "designation": "TGT/Master (Science)",
+    "appointment_type": "Guest (Contractual)"
+  }
+]

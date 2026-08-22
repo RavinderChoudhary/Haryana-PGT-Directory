@@ -1,0 +1,80 @@
+[
+  {
+    "name": "RAMESH KUMAR",
+    "code": "059652",
+    "designation": "Principal",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "MOHINDER SINGH",
+    "code": "070537",
+    "designation": "Head Master Elementary School",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "GAURAV SINGLA",
+    "code": "5020141",
+    "designation": "PGT/Lecturer (Mathematics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "PRITAM DAS",
+    "code": "210771",
+    "designation": "PGT/Lecturer (Sanskrit)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SAROJ BALA",
+    "code": "213017",
+    "designation": "PGT/Lecturer (Economics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "TARANJIT KAUR",
+    "code": "204285",
+    "designation": "PGT/Lecturer (Punjabi)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "URMILA DEVI",
+    "code": "1023723",
+    "designation": "PGT/Lecturer (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "VEERMATI",
+    "code": "204004",
+    "designation": "PGT/Lecturer (Political Science)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "DEVINDRA RANI",
+    "code": "1033910",
+    "designation": "TGT/Master (Sanskrit)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Kamlesh",
+    "code": "6007528",
+    "designation": "TGT/Master (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SATISH KUMAR",
+    "code": "5019458",
+    "designation": "TGT/Master (Punjabi)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Somvir",
+    "code": "6007176",
+    "designation": "TGT(Physical Education)/Master (DPE)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "MINAKASHI MEHTA",
+    "code": "5013449",
+    "designation": "Classical & Vernacular Teacher (Hindi)",
+    "appointment_type": "Guest (Contractual)"
+  }
+]

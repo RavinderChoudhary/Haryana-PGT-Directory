@@ -1,0 +1,86 @@
+[
+  {
+    "name": "RAKESH KUMAR",
+    "code": "042361",
+    "designation": "Principal",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "ALKA YADAV",
+    "code": "202123",
+    "designation": "PGT/Lecturer (Home Science)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "KANTA YADAV",
+    "code": "214176",
+    "designation": "PGT/Lecturer (Hindi)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "MAHI PAL",
+    "code": "042219",
+    "designation": "PGT/Lecturer (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "NEHA",
+    "code": "5024404",
+    "designation": "PGT/Lecturer (Mathematics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "OMVATI NAMWAL",
+    "code": "055313",
+    "designation": "PGT/Lecturer (Sanskrit)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SHARMILA KUMARI",
+    "code": "203835",
+    "designation": "PGT/Lecturer (Political Science)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SUDESH KUMARI",
+    "code": "079236",
+    "designation": "PGT/Lecturer (History)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Amrita Yadav",
+    "code": "6004836",
+    "designation": "TGT/Master (Science)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "RAJNI",
+    "code": "081001",
+    "designation": "TGT/Master (Home Science)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SANJEEV",
+    "code": "5014836",
+    "designation": "TGT/Master (Social Studies)",
+    "appointment_type": "Guest (Contractual)"
+  },
+  {
+    "name": "SHAKUNTLA DEVI",
+    "code": "5006205",
+    "designation": "Classical & Vernacular Teacher (Sanskrit)",
+    "appointment_type": "Guest (Contractual)"
+  },
+  {
+    "name": "SUNITA YADAV",
+    "code": "055076",
+    "designation": "Classical & Vernacular Teacher (PTI)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "VEENA SONI",
+    "code": "034348",
+    "designation": "Classical & Vernacular Teacher (Drawing)",
+    "appointment_type": "Regular"
+  }
+]

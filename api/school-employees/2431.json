@@ -1,0 +1,74 @@
+[
+  {
+    "name": "MEHAR SINGH",
+    "code": "060290",
+    "designation": "Principal",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "KARAMVIR",
+    "code": "1023658",
+    "designation": "PGT/Lecturer (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Manisha",
+    "code": "6014566",
+    "designation": "PGT/Lecturer (Biology)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Nicky Bansal",
+    "code": "6013103",
+    "designation": "PGT/Lecturer (Mathematics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Sanjeev Kumar",
+    "code": "6001765",
+    "designation": "PGT/Lecturer (Sanskrit)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "JAI NARAYAN",
+    "code": "5025926",
+    "designation": "TGT/Master (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "KAMALJEET KAUR",
+    "code": "5012867",
+    "designation": "TGT/Master (Social Studies)",
+    "appointment_type": "Guest (Contractual)"
+  },
+  {
+    "name": "RANDEEP SINGH",
+    "code": "5012114",
+    "designation": "TGT/Master (Hindi)",
+    "appointment_type": "Guest (Contractual)"
+  },
+  {
+    "name": "Ritu Devi",
+    "code": "6007961",
+    "designation": "TGT/Master (Punjabi)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Sudhir",
+    "code": "6006039",
+    "designation": "TGT(Physical Education)/Master (DPE)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "VEENA RANI",
+    "code": "5012839",
+    "designation": "TGT/Master (Mathematics)",
+    "appointment_type": "Guest (Contractual)"
+  },
+  {
+    "name": "RISHIPAL",
+    "code": "5002381",
+    "designation": "Classical & Vernacular Teacher (Sanskrit)",
+    "appointment_type": "Guest (Contractual)"
+  }
+]

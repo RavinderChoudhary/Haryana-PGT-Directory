@@ -1,0 +1,50 @@
+[
+  {
+    "name": "MADAN MOHAN",
+    "code": "043046",
+    "designation": "Head Master High School",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "RAMESH KUMAR",
+    "code": "008140",
+    "designation": "Head Master Elementary School",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "NARENDER KUMAR",
+    "code": "209506",
+    "designation": "PGT/Lecturer (Biology)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Anita Poonia",
+    "code": "6006812",
+    "designation": "TGT/Master (Science)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "DEVIKA SHARMA",
+    "code": "5025623",
+    "designation": "TGT/Master (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "DHARAMVIR",
+    "code": "061948",
+    "designation": "TGT(Physical Education)/Master (DPE)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Kavita",
+    "code": "6005451",
+    "designation": "TGT/Master (Sanskrit)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "POOJA PUNIA",
+    "code": "095649",
+    "designation": "TGT/Master (Social Studies)",
+    "appointment_type": "Regular"
+  }
+]

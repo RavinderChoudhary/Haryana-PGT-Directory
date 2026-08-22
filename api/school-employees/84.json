@@ -1,0 +1,74 @@
+[
+  {
+    "name": "SUBHASH SHARMA",
+    "code": "049180",
+    "designation": "Principal",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "ALKA GARG",
+    "code": "202079",
+    "designation": "PGT/Lecturer (Home Science)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "GITA SHARMA",
+    "code": "094408",
+    "designation": "PGT/Lecturer (Hindi)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Parvinder Kaur",
+    "code": "204239",
+    "designation": "PGT/Lecturer (Punjabi)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "RAVINDER KUMAR",
+    "code": "5019291",
+    "designation": "PGT/Lecturer (Geography)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "ROOPA RANI",
+    "code": "079717",
+    "designation": "PGT/Lecturer (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SANGEETA GHAI",
+    "code": "091601",
+    "designation": "PGT/Lecturer (Mathematics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Sanjeev Kumar",
+    "code": "6002237",
+    "designation": "PGT/Lecturer (Sanskrit)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SAPNA DEVI",
+    "code": "201206",
+    "designation": "PGT/Lecturer (Commerce)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SUSHMA DEVI",
+    "code": "206736",
+    "designation": "PGT/Lecturer (Economics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "UMA RANI",
+    "code": "5014115",
+    "designation": "TGT/Master (Science)",
+    "appointment_type": "Guest (Contractual)"
+  },
+  {
+    "name": "PARVEEN KUMAR",
+    "code": "5026206",
+    "designation": "Classical & Vernacular Teacher (PTI)",
+    "appointment_type": "Regular"
+  }
+]

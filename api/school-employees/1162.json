@@ -1,0 +1,62 @@
+[
+  {
+    "name": "POOJA NAGPAL",
+    "code": "044957",
+    "designation": "Principal",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "ABDUL HAQEEM",
+    "code": "088680",
+    "designation": "PGT/Lecturer (Political Science)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "ANAND KUMAR",
+    "code": "5017263",
+    "designation": "PGT/Lecturer (Chemistry)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "ASHOK KUMAR",
+    "code": "1007700",
+    "designation": "PGT/Lecturer (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "DHARMENDER",
+    "code": "212028",
+    "designation": "PGT/Lecturer (Mathematics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Deepak Dalal",
+    "code": "6008966",
+    "designation": "TGT(Physical Education)/Master (DPE)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "JAMALUDDIN",
+    "code": "5011440",
+    "designation": "TGT/Master (Social Studies)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "KARAM VEER SINGH",
+    "code": "5011644",
+    "designation": "TGT/Master (Mathematics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "RAJEEV",
+    "code": "5013186",
+    "designation": "Classical & Vernacular Teacher (Hindi)",
+    "appointment_type": "Guest (Contractual)"
+  },
+  {
+    "name": "RAKESH KUMAR",
+    "code": "5012582",
+    "designation": "Classical & Vernacular Teacher (Hindi)",
+    "appointment_type": "Guest (Contractual)"
+  }
+]

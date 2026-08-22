@@ -1,0 +1,56 @@
+[
+  {
+    "name": "DINESH YADAV",
+    "code": "059307",
+    "designation": "Principal",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "MADHU BALA",
+    "code": "028004",
+    "designation": "Head Master Elementary School",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Devanand",
+    "code": "6014078",
+    "designation": "PGT/Lecturer (Chemistry)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "INDU AGGARWAL",
+    "code": "089237",
+    "designation": "PGT/Lecturer (History)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "NEETU MUNJAL",
+    "code": "1021930",
+    "designation": "PGT/Lecturer (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Reeta",
+    "code": "6003912",
+    "designation": "PGT/Lecturer (Commerce)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Shweta",
+    "code": "6003742",
+    "designation": "PGT/Lecturer (Mathematics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Dinesh",
+    "code": "6004758",
+    "designation": "TGT/Master (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "GAZE SINGH",
+    "code": "026336",
+    "designation": "TGT/Master (Mathematics)",
+    "appointment_type": "Regular"
+  }
+]

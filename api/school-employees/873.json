@@ -1,0 +1,56 @@
+[
+  {
+    "name": "SANJAY KUMAR",
+    "code": "213344",
+    "designation": "PGT/Lecturer (Computer Science)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "NAVEEN KUMAR",
+    "code": "2100413",
+    "designation": "PGT/Lecturer (Mathematics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "NIRAJ KUMAR",
+    "code": "5001989",
+    "designation": "PGT/Lecturer (Commerce)",
+    "appointment_type": "Guest (Contractual)"
+  },
+  {
+    "name": "Savita",
+    "code": "6014155",
+    "designation": "PGT/Lecturer (History)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Vikram",
+    "code": "6014527",
+    "designation": "PGT/Lecturer (Sanskrit)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "ZIAUL HAQUE",
+    "code": "211279",
+    "designation": "PGT/Lecturer (Urdu)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Amit",
+    "code": "6005195",
+    "designation": "TGT(Physical Education)/Master (DPE)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Manisha",
+    "code": "6010165",
+    "designation": "TGT/Master (Science)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Shital",
+    "code": "6005863",
+    "designation": "TGT/Master (Hindi)",
+    "appointment_type": "Regular"
+  }
+]

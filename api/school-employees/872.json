@@ -1,0 +1,62 @@
+[
+  {
+    "name": "MOHD ARSHAD",
+    "code": "096593",
+    "designation": "Principal",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "AJIT SINGH",
+    "code": "212395",
+    "designation": "PGT/Lecturer (Biology)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "DINESH KUMAR",
+    "code": "1034816",
+    "designation": "PGT/Lecturer (History)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "MANISH KUMAR",
+    "code": "5025347",
+    "designation": "PGT/Lecturer (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Pinki Garg",
+    "code": "6013153",
+    "designation": "PGT/Lecturer (Mathematics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SAMOON KHAN",
+    "code": "5017268",
+    "designation": "PGT/Lecturer (Chemistry)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "TABSSUM",
+    "code": "5020129",
+    "designation": "PGT/Lecturer (Urdu)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Jamshed Ahmad",
+    "code": "6006266",
+    "designation": "TGT/Master (Urdu)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Preetam Singh",
+    "code": "6004419",
+    "designation": "TGT/Master (Mathematics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Tilak",
+    "code": "6006496",
+    "designation": "TGT/Master (Science)",
+    "appointment_type": "Regular"
+  }
+]

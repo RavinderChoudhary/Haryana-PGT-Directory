@@ -1,0 +1,92 @@
+[
+  {
+    "name": "URMILA DEVI",
+    "code": "063497",
+    "designation": "Principal",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Deepika",
+    "code": "6014405",
+    "designation": "PGT/Lecturer (Biology)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "DEVENDRA SINGH",
+    "code": "1012726",
+    "designation": "PGT/Lecturer (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Kiran Bai",
+    "code": "6003754",
+    "designation": "PGT/Lecturer (Mathematics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Poonam Yadav",
+    "code": "6003370",
+    "designation": "PGT/Lecturer (History)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "PUSHPA DEVI",
+    "code": "034387",
+    "designation": "PGT/Lecturer (Hindi)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Reenu Rani",
+    "code": "6003802",
+    "designation": "PGT/Lecturer (Commerce)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Sandeep Singh Dhankhar",
+    "code": "6012954",
+    "designation": "PGT/Lecturer (Chemistry)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Sheela Yadav",
+    "code": "6001851",
+    "designation": "PGT/Lecturer (Sanskrit)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "CHANDER SHEKHAR",
+    "code": "1012922",
+    "designation": "TGT/Master (Hindi)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Manisha Yadav",
+    "code": "6005764",
+    "designation": "TGT/Master (Science)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SARITA DEVI",
+    "code": "058722",
+    "designation": "TGT/Master (Mathematics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SHASHI KALA",
+    "code": "5025506",
+    "designation": "TGT/Master (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Mahabir Singh",
+    "code": "6000880",
+    "designation": "Classical & Vernacular Teacher (Drawing)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "YOGENDER SINGH",
+    "code": "051813",
+    "designation": "Classical & Vernacular Teacher (Sanskrit)",
+    "appointment_type": "Regular"
+  }
+]

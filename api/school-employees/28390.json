@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Mubarik Ali",
+    "code": "6001124",
+    "designation": "PGT/Lecturer (Computer Science)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Akhlakh Hussain",
+    "code": "6011246",
+    "designation": "TGT/Master (Social Studies)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Hitesh Kumar",
+    "code": "6015111",
+    "designation": "TGT/Master (Mathematics)",
+    "appointment_type": "Adhoc (Contractual)"
+  },
+  {
+    "name": "Krishan Kumar",
+    "code": "6011234",
+    "designation": "TGT/Master (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Punam Kaushik",
+    "code": "6011235",
+    "designation": "TGT/Master (Science)",
+    "appointment_type": "Regular"
+  }
+]

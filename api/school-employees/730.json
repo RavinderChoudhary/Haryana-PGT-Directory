@@ -1,0 +1,32 @@
+[
+  {
+    "name": "KAMAL SINGH",
+    "code": "096818",
+    "designation": "Principal",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Anuj Dalal",
+    "code": "6003672",
+    "designation": "PGT/Lecturer (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Ruchika Sheoran",
+    "code": "6003485",
+    "designation": "PGT/Lecturer (Biology)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SURAJ BHAN",
+    "code": "096859",
+    "designation": "PGT/Lecturer (Sanskrit)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "NARESH CHAND",
+    "code": "5011411",
+    "designation": "TGT/Master (Social Studies)",
+    "appointment_type": "Guest (Contractual)"
+  }
+]

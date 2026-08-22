@@ -1,0 +1,98 @@
+[
+  {
+    "name": "NEELAM RANI",
+    "code": "049029",
+    "designation": "Principal",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Arun Kumar",
+    "code": "6002460",
+    "designation": "PGT/Lecturer (Fine Arts)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "BALWANT SINGH",
+    "code": "5007800",
+    "designation": "PGT/Lecturer (Punjabi)",
+    "appointment_type": "Guest (Contractual)"
+  },
+  {
+    "name": "DINESH KUMAR",
+    "code": "206506",
+    "designation": "PGT/Lecturer (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Madhu Garg",
+    "code": "6014386",
+    "designation": "PGT/Lecturer (Mathematics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "NARESH PAL",
+    "code": "5009825",
+    "designation": "PGT/Lecturer (Political Science)",
+    "appointment_type": "Guest (Contractual)"
+  },
+  {
+    "name": "PARDEEP KUMAR SAINI",
+    "code": "211718",
+    "designation": "PGT/Lecturer (Physics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "RAJ KUMARI",
+    "code": "000017",
+    "designation": "PGT/Lecturer (Sanskrit)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "RAJVINDER KAUR",
+    "code": "200801",
+    "designation": "PGT/Lecturer (Chemistry)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "RMA LAXMI",
+    "code": "002287",
+    "designation": "PGT/Lecturer (Hindi)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SHIV KUAMR",
+    "code": "201161",
+    "designation": "PGT/Lecturer (Commerce)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SONIA RANJANWAL",
+    "code": "5002561",
+    "designation": "PGT/Lecturer (Hindi)",
+    "appointment_type": "Guest (Contractual)"
+  },
+  {
+    "name": "Sunita",
+    "code": "6014329",
+    "designation": "PGT/Lecturer (Biology)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "UMESH KUMAR",
+    "code": "202013",
+    "designation": "PGT/Lecturer (History)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Sandeep Bansal",
+    "code": "6009780",
+    "designation": "TGT/Master (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "PARDEEP KUMAR",
+    "code": "5007291",
+    "designation": "Classical & Vernacular Teacher (Drawing)",
+    "appointment_type": "Guest (Contractual)"
+  }
+]

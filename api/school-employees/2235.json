@@ -1,0 +1,56 @@
+[
+  {
+    "name": "BABITA RANI",
+    "code": "031564",
+    "designation": "Principal",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "BABITA RANI",
+    "code": "209609",
+    "designation": "PGT/Lecturer (Sanskrit)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "GEETA DEVI",
+    "code": "207237",
+    "designation": "PGT/Lecturer (Hindi)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "KRISHAN CHANDER",
+    "code": "1024489",
+    "designation": "PGT/Lecturer (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "MANDEEP SINGH ALIAS MAI PARSON",
+    "code": "206749",
+    "designation": "PGT/Lecturer (Economics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Ravi Khatri",
+    "code": "6013010",
+    "designation": "PGT/Lecturer (Mathematics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "RAJ RANI",
+    "code": "5012903",
+    "designation": "TGT/Master (Social Studies)",
+    "appointment_type": "Guest (Contractual)"
+  },
+  {
+    "name": "RAJESH PAL SHARMA",
+    "code": "1024164",
+    "designation": "TGT/Master (Sanskrit)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Renu Devi",
+    "code": "6009518",
+    "designation": "TGT(Physical Education)/Master (DPE)",
+    "appointment_type": "Regular"
+  }
+]

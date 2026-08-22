@@ -1,0 +1,50 @@
+[
+  {
+    "name": "MANBIR SINGH",
+    "code": "022658",
+    "designation": "Head Master High School",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "AJAY KUMAR GOEL",
+    "code": "203084",
+    "designation": "PGT/Lecturer (Mathematics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "RITU GARG",
+    "code": "208904",
+    "designation": "PGT/Lecturer (Biology)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "KANTA DEVI",
+    "code": "1009667",
+    "designation": "TGT/Master (Hindi)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "NARENDER KUMAR",
+    "code": "067319",
+    "designation": "TGT/Master (Mathematics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "MADHU SAINI",
+    "code": "5010962",
+    "designation": "Classical & Vernacular Teacher (Drawing)",
+    "appointment_type": "Guest (Contractual)"
+  },
+  {
+    "name": "SEEMA RANI",
+    "code": "5009235",
+    "designation": "Classical & Vernacular Teacher (Drawing)",
+    "appointment_type": "Guest (Contractual)"
+  },
+  {
+    "name": "VIJENDER SHARMA",
+    "code": "5026123",
+    "designation": "Classical & Vernacular Teacher (PTI)",
+    "appointment_type": "Regular"
+  }
+]

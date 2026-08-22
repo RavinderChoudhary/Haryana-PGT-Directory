@@ -1,0 +1,44 @@
+[
+  {
+    "name": "SNEHLATA",
+    "code": "096900",
+    "designation": "Principal",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Mamta",
+    "code": "6004060",
+    "designation": "PGT/Lecturer (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Sangita Kumari",
+    "code": "6003652",
+    "designation": "PGT/Lecturer (Hindi)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "VIKAS",
+    "code": "2100389",
+    "designation": "PGT/Lecturer (Sanskrit)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Harpreet Singh",
+    "code": "6009698",
+    "designation": "TGT(Physical Education)/Master (DPE)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Puneet Kumar",
+    "code": "6009509",
+    "designation": "TGT(Physical Education)/Master (DPE)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Shalu Kumari",
+    "code": "6008793",
+    "designation": "TGT/Master (Sanskrit)",
+    "appointment_type": "Regular"
+  }
+]

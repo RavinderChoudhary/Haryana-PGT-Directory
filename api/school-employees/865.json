@@ -1,0 +1,74 @@
+[
+  {
+    "name": "SURENDER SINGH",
+    "code": "012182",
+    "designation": "Principal",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "AJAY KUMAR",
+    "code": "095469",
+    "designation": "PGT/Lecturer (History)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "ANJU KUMARI",
+    "code": "079348",
+    "designation": "PGT/Lecturer (Political Science)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "DEEPIKA GODARA",
+    "code": "204034",
+    "designation": "PGT/Lecturer (Psychology)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "KIRTI",
+    "code": "5017788",
+    "designation": "PGT/Lecturer (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "RITA RANI",
+    "code": "5003677",
+    "designation": "PGT/Lecturer (Commerce)",
+    "appointment_type": "Guest (Contractual)"
+  },
+  {
+    "name": "RITU YADAV",
+    "code": "5024423",
+    "designation": "PGT/Lecturer (Mathematics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SUNIL DEVI",
+    "code": "208704",
+    "designation": "PGT/Lecturer (Hindi)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "URMILA RANI",
+    "code": "210190",
+    "designation": "PGT/Lecturer (Sanskrit)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Ravinder",
+    "code": "6005017",
+    "designation": "TGT/Master (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "VIPIN YADAV",
+    "code": "5003626",
+    "designation": "TGT/Master (Science)",
+    "appointment_type": "Guest (Contractual)"
+  },
+  {
+    "name": "RANVIR SINGH",
+    "code": "081928",
+    "designation": "Classical & Vernacular Teacher (Sanskrit)",
+    "appointment_type": "Regular"
+  }
+]

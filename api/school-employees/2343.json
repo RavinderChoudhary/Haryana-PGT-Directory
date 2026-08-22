@@ -1,0 +1,62 @@
+[
+  {
+    "name": "SANTOSH DEVI",
+    "code": "031091",
+    "designation": "Principal",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "ANU KANSAL",
+    "code": "058631",
+    "designation": "Head Master Elementary School",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Aakash Kumar",
+    "code": "6003753",
+    "designation": "PGT/Lecturer (Mathematics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Anita Rani",
+    "code": "209951",
+    "designation": "PGT/Lecturer (Sanskrit)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "CHETAN BANSAL",
+    "code": "1001303",
+    "designation": "PGT/Lecturer (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Ramika",
+    "code": "6013371",
+    "designation": "PGT/Lecturer (Biology)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "RUPINDER PREET",
+    "code": "091134",
+    "designation": "PGT/Lecturer (Chemistry)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "KANCHAN LATA",
+    "code": "5015190",
+    "designation": "TGT/Master (Mathematics)",
+    "appointment_type": "Guest (Contractual)"
+  },
+  {
+    "name": "PUNAM RANI",
+    "code": "5011716",
+    "designation": "TGT/Master (Social Studies)",
+    "appointment_type": "Guest (Contractual)"
+  },
+  {
+    "name": "SANDEEP KUMAR",
+    "code": "5025934",
+    "designation": "TGT/Master (English)",
+    "appointment_type": "Regular"
+  }
+]

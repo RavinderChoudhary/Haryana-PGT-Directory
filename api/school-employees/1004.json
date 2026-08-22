@@ -1,0 +1,74 @@
+[
+  {
+    "name": "SHRI BHAGWAN",
+    "code": "061106",
+    "designation": "Principal",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "DEVINDER KUMAR",
+    "code": "206493",
+    "designation": "PGT/Lecturer (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "JAGNA",
+    "code": "5002321",
+    "designation": "PGT/Lecturer (History)",
+    "appointment_type": "Guest (Contractual)"
+  },
+  {
+    "name": "LAL CHAND",
+    "code": "087695",
+    "designation": "PGT/Lecturer (Chemistry)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "PAWAN KUMAR",
+    "code": "094565",
+    "designation": "PGT/Lecturer (Hindi)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Priyanka",
+    "code": "6002195",
+    "designation": "PGT/Lecturer (Sanskrit)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "RANPAL SINGH",
+    "code": "083316",
+    "designation": "PGT/Lecturer (Hindi)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "REKHA CHAUDHARY",
+    "code": "5002769",
+    "designation": "PGT/Lecturer (Political Science)",
+    "appointment_type": "Guest (Contractual)"
+  },
+  {
+    "name": "SANJAY KUMAR",
+    "code": "205805",
+    "designation": "PGT/Lecturer (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "UMA SHARMA",
+    "code": "5018603",
+    "designation": "PGT/Lecturer (Mathematics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "AMARJEET",
+    "code": "5013649",
+    "designation": "TGT/Master (Social Studies)",
+    "appointment_type": "Guest (Contractual)"
+  },
+  {
+    "name": "SWASTI RANI",
+    "code": "012724",
+    "designation": "TGT/Master (Science)",
+    "appointment_type": "Regular"
+  }
+]

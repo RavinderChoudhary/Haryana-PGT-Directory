@@ -1,0 +1,32 @@
+[
+  {
+    "name": "ASHOK KUMAR",
+    "code": "1026608",
+    "designation": "PGT/Lecturer (Hindi)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "KAILASH HARITASH",
+    "code": "2100098",
+    "designation": "PGT/Lecturer (Sanskrit)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Mukesh Rani",
+    "code": "6014747",
+    "designation": "PGT/Lecturer (History)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "POONAM DEVI",
+    "code": "5025222",
+    "designation": "PGT/Lecturer (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SUNIT SINGH",
+    "code": "2100395",
+    "designation": "PGT/Lecturer (Political Science)",
+    "appointment_type": "Regular"
+  }
+]

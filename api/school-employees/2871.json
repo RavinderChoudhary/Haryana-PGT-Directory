@@ -1,0 +1,74 @@
+[
+  {
+    "name": "HAWA SINGH",
+    "code": "039183",
+    "designation": "Principal",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "GURWINDER SINGH",
+    "code": "204298",
+    "designation": "PGT/Lecturer (Punjabi)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "KISHORI LAL",
+    "code": "083967",
+    "designation": "PGT/Lecturer (Sociology)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "LAKHI RAM",
+    "code": "070605",
+    "designation": "PGT/Lecturer (Political Science)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Prem Chand",
+    "code": "6011221",
+    "designation": "PGT/Lecturer (Mathematics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "RINKAL KUMAR",
+    "code": "204259",
+    "designation": "PGT/Lecturer (Punjabi)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "ROOP KAUR",
+    "code": "5009812",
+    "designation": "PGT/Lecturer (Hindi)",
+    "appointment_type": "Guest (Contractual)"
+  },
+  {
+    "name": "IKBAL SINGH",
+    "code": "087627",
+    "designation": "TGT/Master (Mathematics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "RAJENDER KUMAR",
+    "code": "1015595",
+    "designation": "TGT/Master (Hindi)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Sumandeep Kaur",
+    "code": "6004853",
+    "designation": "TGT/Master (Punjabi)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "VISHAL BISHNOI",
+    "code": "5004413",
+    "designation": "TGT/Master (Science)",
+    "appointment_type": "Guest (Contractual)"
+  },
+  {
+    "name": "RAJESH",
+    "code": "5022648",
+    "designation": "Classical & Vernacular Teacher (PTI)",
+    "appointment_type": "Regular"
+  }
+]

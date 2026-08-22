@@ -1,0 +1,26 @@
+[
+  {
+    "name": "GIRDHARI LAL",
+    "code": "079938",
+    "designation": "PGT/Lecturer (Chemistry)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "HAKAM KHAN",
+    "code": "009822",
+    "designation": "PGT/Lecturer (History)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "MUKESH KUMAR RAGHAV",
+    "code": "205304",
+    "designation": "PGT/Lecturer (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SANJAY KUMAR",
+    "code": "096910",
+    "designation": "PGT/Lecturer (Biology)",
+    "appointment_type": "Regular"
+  }
+]

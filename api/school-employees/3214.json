@@ -1,0 +1,62 @@
+[
+  {
+    "name": "SANGEETA",
+    "code": "079670",
+    "designation": "Principal",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "HEM LATA",
+    "code": "207993",
+    "designation": "PGT/Lecturer (Hindi)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Manisha Sharma",
+    "code": "6001973",
+    "designation": "PGT/Lecturer (Sanskrit)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Nisha",
+    "code": "6013057",
+    "designation": "PGT/Lecturer (Mathematics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SAROJ BALA",
+    "code": "5000759",
+    "designation": "PGT/Lecturer (English)",
+    "appointment_type": "Guest (Contractual)"
+  },
+  {
+    "name": "SEEMA KHATAK",
+    "code": "5019287",
+    "designation": "PGT/Lecturer (Geography)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SUCHETA",
+    "code": "095449",
+    "designation": "PGT/Lecturer (History)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SUNIL KUMAR",
+    "code": "213630",
+    "designation": "PGT/Lecturer (Political Science)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "MANJU PHOGAT",
+    "code": "212174",
+    "designation": "TGT/Master (Science)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Satish",
+    "code": "6005385",
+    "designation": "TGT/Master (English)",
+    "appointment_type": "Regular"
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "name": "NARENDER KUMAR",
+    "code": "200566",
+    "designation": "PGT/Lecturer (Chemistry)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SANDEEP SINDHU",
+    "code": "202201",
+    "designation": "PGT/Lecturer (Mathematics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "RAM MEHAR",
+    "code": "1029035",
+    "designation": "PRT/JBT",
+    "appointment_type": "Regular"
+  }
+]

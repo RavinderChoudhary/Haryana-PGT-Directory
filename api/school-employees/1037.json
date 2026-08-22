@@ -1,0 +1,38 @@
+[
+  {
+    "name": "SHIV KUMAR",
+    "code": "015740",
+    "designation": "Principal",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "LUXMAN",
+    "code": "1019762",
+    "designation": "PGT/Lecturer (Physics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "MAHESH KUMAR",
+    "code": "5024564",
+    "designation": "PGT/Lecturer (Mathematics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "RAJENDER SINGH",
+    "code": "089556",
+    "designation": "PGT/Lecturer (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SANDIP KUMAR",
+    "code": "008832",
+    "designation": "PGT/Lecturer (Hindi)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SURENDER KUMAR",
+    "code": "5015522",
+    "designation": "PGT/Lecturer (Chemistry)",
+    "appointment_type": "Regular"
+  }
+]

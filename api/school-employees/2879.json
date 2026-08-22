@@ -1,0 +1,50 @@
+[
+  {
+    "name": "NARESH KUMAR",
+    "code": "044252",
+    "designation": "Principal",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "KULJEET KAUR",
+    "code": "1014331",
+    "designation": "PGT/Lecturer (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "ROHIT GARG",
+    "code": "204299",
+    "designation": "PGT/Lecturer (Punjabi)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Roopam Garg",
+    "code": "6013934",
+    "designation": "PGT/Lecturer (Mathematics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Lovepreet Singh",
+    "code": "6009794",
+    "designation": "TGT/Master (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SUKHRAJ SINGH",
+    "code": "5011211",
+    "designation": "TGT/Master (Social Studies)",
+    "appointment_type": "Guest (Contractual)"
+  },
+  {
+    "name": "UTTAM CHAND",
+    "code": "5019855",
+    "designation": "TGT/Master (Punjabi)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "GURLAL SINGH",
+    "code": "5026268",
+    "designation": "Classical & Vernacular Teacher (PTI)",
+    "appointment_type": "Regular"
+  }
+]

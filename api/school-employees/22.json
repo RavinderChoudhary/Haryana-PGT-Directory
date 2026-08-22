@@ -1,0 +1,44 @@
+[
+  {
+    "name": "APARNA KAUSHIK",
+    "code": "055511",
+    "designation": "Principal",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Bansi Lal",
+    "code": "6001667",
+    "designation": "PGT/Lecturer (Sanskrit)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "GURBAKSH RAM",
+    "code": "052002",
+    "designation": "PGT/Lecturer (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "PINKI DEVI",
+    "code": "208122",
+    "designation": "PGT/Lecturer (Hindi)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "RENUKA SHARMA",
+    "code": "5018670",
+    "designation": "PGT/Lecturer (Mathematics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Manju Rani",
+    "code": "6010131",
+    "designation": "TGT/Master (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "TARSEM CHAND",
+    "code": "001857",
+    "designation": "Classical & Vernacular Teacher (Sanskrit)",
+    "appointment_type": "Regular"
+  }
+]

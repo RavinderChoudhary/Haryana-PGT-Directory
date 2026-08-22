@@ -1,0 +1,26 @@
+[
+  {
+    "name": "NEELAM",
+    "code": "096668",
+    "designation": "Principal",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Rakesh Kumar",
+    "code": "6003619",
+    "designation": "PGT/Lecturer (Hindi)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SUSHIL KUMAR",
+    "code": "205366",
+    "designation": "PGT/Lecturer (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "LABH SINGH",
+    "code": "2100762",
+    "designation": "TGT/Master (Hindi)",
+    "appointment_type": "Regular"
+  }
+]

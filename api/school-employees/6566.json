@@ -1,0 +1,56 @@
+[
+  {
+    "name": "MOHMMED ARIF",
+    "code": "096702",
+    "designation": "Principal",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Ajit Singh",
+    "code": "6004178",
+    "designation": "PGT/Lecturer (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Sharda Rani",
+    "code": "6014701",
+    "designation": "PGT/Lecturer (Hindi)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "VIJAY KUMAR",
+    "code": "5025298",
+    "designation": "PGT/Lecturer (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Dheeraj Kumar",
+    "code": "6007712",
+    "designation": "TGT/Master (Science)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "ISLAM",
+    "code": "5015208",
+    "designation": "TGT/Master (Social Studies)",
+    "appointment_type": "Guest (Contractual)"
+  },
+  {
+    "name": "JAMSHIDA",
+    "code": "2100679",
+    "designation": "TGT/Master (Urdu)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Mohammed Inam",
+    "code": "6007859",
+    "designation": "TGT/Master (Urdu)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Uday Bhan",
+    "code": "6005324",
+    "designation": "TGT/Master (Science)",
+    "appointment_type": "Regular"
+  }
+]

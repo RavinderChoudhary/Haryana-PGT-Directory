@@ -1,0 +1,74 @@
+[
+  {
+    "name": "SUJAUDDIN",
+    "code": "079314",
+    "designation": "Principal",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Aameen",
+    "code": "6012958",
+    "designation": "PGT/Lecturer (Physical Education)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "ARSHAD HUSSAIN",
+    "code": "1027144",
+    "designation": "PGT/Lecturer (Urdu)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "ASHISH KUMAR",
+    "code": "5017280",
+    "designation": "PGT/Lecturer (Chemistry)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Kamal",
+    "code": "6003635",
+    "designation": "PGT/Lecturer (Hindi)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "LALIT KUMAR",
+    "code": "5004495",
+    "designation": "PGT/Lecturer (English)",
+    "appointment_type": "Guest (Contractual)"
+  },
+  {
+    "name": "Minakashi Devi",
+    "code": "6003505",
+    "designation": "PGT/Lecturer (Biology)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Shakir Hussain",
+    "code": "6003386",
+    "designation": "PGT/Lecturer (History)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SHOKAT ALI",
+    "code": "096889",
+    "designation": "PGT/Lecturer (History)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "ZAHEERA ABBAS",
+    "code": "206179",
+    "designation": "PGT/Lecturer (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "HASAN PARVEZ",
+    "code": "1027296",
+    "designation": "TGT/Master (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Nafisa",
+    "code": "6009392",
+    "designation": "TGT/Master (Science)",
+    "appointment_type": "Regular"
+  }
+]

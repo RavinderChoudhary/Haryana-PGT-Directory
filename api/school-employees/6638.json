@@ -1,0 +1,32 @@
+[
+  {
+    "name": "SUNIL KUMAR",
+    "code": "213408",
+    "designation": "PGT/Lecturer (Computer Science)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "DHARAMPAL",
+    "code": "210466",
+    "designation": "PGT/Lecturer (Sanskrit)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "MONU KUMAR",
+    "code": "5019207",
+    "designation": "PGT/Lecturer (Geography)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "RAKESH KUMAR",
+    "code": "200335",
+    "designation": "PGT/Lecturer (Chemistry)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "VIPIN KUMAR GARG",
+    "code": "211757",
+    "designation": "PGT/Lecturer (Physics)",
+    "appointment_type": "Regular"
+  }
+]

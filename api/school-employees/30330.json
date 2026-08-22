@@ -1,0 +1,62 @@
+[
+  {
+    "name": "MAHESH KUMAR",
+    "code": "004270",
+    "designation": "Principal",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Anita",
+    "code": "6002133",
+    "designation": "PGT/Lecturer (Sanskrit)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Asha",
+    "code": "6003337",
+    "designation": "PGT/Lecturer (History)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "JAGVEER SINGH",
+    "code": "1022517",
+    "designation": "PGT/Lecturer (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Manju Bai",
+    "code": "6014899",
+    "designation": "PGT/Lecturer (Economics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "NEELAM YADAV",
+    "code": "090092",
+    "designation": "PGT/Lecturer (Political Science)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Pooja",
+    "code": "6013269",
+    "designation": "PGT/Lecturer (Chemistry)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Sapna Sharma",
+    "code": "6013398",
+    "designation": "PGT/Lecturer (Commerce)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Vikas Mareheta",
+    "code": "6013621",
+    "designation": "PGT/Lecturer (Mathematics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "YASHPAL SHARMA",
+    "code": "051554",
+    "designation": "PGT/Lecturer (Hindi)",
+    "appointment_type": "Regular"
+  }
+]

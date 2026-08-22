@@ -1,0 +1,56 @@
+[
+  {
+    "name": "HARVINDER KUMAR",
+    "code": "061608",
+    "designation": "Principal",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "ASHOK KUMAR",
+    "code": "208734",
+    "designation": "PGT/Lecturer (Hindi)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "BALKAR SINGH",
+    "code": "212516",
+    "designation": "PGT/Lecturer (Mathematics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "GAMDUR SINGH",
+    "code": "059205",
+    "designation": "PGT/Lecturer (History)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "NANAK CHAND",
+    "code": "204242",
+    "designation": "PGT/Lecturer (Punjabi)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "RAJESH KUMAR",
+    "code": "5000246",
+    "designation": "PGT/Lecturer (English)",
+    "appointment_type": "Guest (Contractual)"
+  },
+  {
+    "name": "Manjeet",
+    "code": "6008459",
+    "designation": "TGT/Master (Science)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Vijay",
+    "code": "6009954",
+    "designation": "TGT/Master (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "JASWINDER KAUR",
+    "code": "5015185",
+    "designation": "Classical & Vernacular Teacher (Punjabi)",
+    "appointment_type": "Guest (Contractual)"
+  }
+]

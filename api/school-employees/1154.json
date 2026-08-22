@@ -1,0 +1,44 @@
+[
+  {
+    "name": "TEK CHAND",
+    "code": "015323",
+    "designation": "Principal",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Akanksha",
+    "code": "6013187",
+    "designation": "PGT/Lecturer (Biology)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Arjun Dev",
+    "code": "6014388",
+    "designation": "PGT/Lecturer (Mathematics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "JITENDER KASHYAP",
+    "code": "5003836",
+    "designation": "PGT/Lecturer (English)",
+    "appointment_type": "Guest (Contractual)"
+  },
+  {
+    "name": "REKHA",
+    "code": "5002305",
+    "designation": "PGT/Lecturer (Hindi)",
+    "appointment_type": "Guest (Contractual)"
+  },
+  {
+    "name": "Ashish",
+    "code": "6005371",
+    "designation": "TGT(Physical Education)/Master (DPE)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Brahm Jeet",
+    "code": "6004859",
+    "designation": "TGT/Master (English)",
+    "appointment_type": "Regular"
+  }
+]

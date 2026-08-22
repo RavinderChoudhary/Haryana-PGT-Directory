@@ -1,0 +1,50 @@
+[
+  {
+    "name": "NAVEEN KUMAR",
+    "code": "210407",
+    "designation": "PGT/Lecturer (Sanskrit)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "PUSHPA KUMARI",
+    "code": "208657",
+    "designation": "PGT/Lecturer (Hindi)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "RAJ KUMAR",
+    "code": "202680",
+    "designation": "PGT/Lecturer (Mathematics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "RINKU BANSAL",
+    "code": "5017879",
+    "designation": "PGT/Lecturer (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SHARMILA DEVI",
+    "code": "5007841",
+    "designation": "PGT/Lecturer (History)",
+    "appointment_type": "Guest (Contractual)"
+  },
+  {
+    "name": "KARAMVIR SINGH",
+    "code": "095952",
+    "designation": "TGT/Master (Social Studies)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Manju",
+    "code": "6009949",
+    "designation": "TGT/Master (Sanskrit)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "VIJAY KUMAR",
+    "code": "053086",
+    "designation": "TGT/Master (Science)",
+    "appointment_type": "Regular"
+  }
+]

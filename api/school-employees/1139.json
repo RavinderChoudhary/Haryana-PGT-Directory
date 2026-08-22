@@ -1,0 +1,80 @@
+[
+  {
+    "name": "KULDEEP SINGH RATHEE",
+    "code": "051673",
+    "designation": "Principal",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SONIA MEHLA",
+    "code": "5027162",
+    "designation": "PGT/Lecturer (Computer Science)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "BIR SINGH",
+    "code": "095984",
+    "designation": "PGT/Lecturer (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Harish Sharma",
+    "code": "6013627",
+    "designation": "PGT/Lecturer (Biology)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "HEMANT KUMAR",
+    "code": "090394",
+    "designation": "PGT/Lecturer (Chemistry)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "JAI SINGH",
+    "code": "095444",
+    "designation": "PGT/Lecturer (History)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "LEENA JAIN",
+    "code": "1019260",
+    "designation": "PGT/Lecturer (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "NARESH KUMAR SHARMA",
+    "code": "090383",
+    "designation": "PGT/Lecturer (Physics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "PAWAN KUMAR",
+    "code": "096189",
+    "designation": "PGT/Lecturer (Political Science)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "RAJENDER SINGH",
+    "code": "015540",
+    "designation": "PGT/Lecturer (Mathematics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "BHU PRAKASH",
+    "code": "5012497",
+    "designation": "TGT/Master (Mathematics)",
+    "appointment_type": "Guest (Contractual)"
+  },
+  {
+    "name": "KAVINDRA JAIN",
+    "code": "1019252",
+    "designation": "TGT/Master (Sanskrit)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "UDAY BIR SINGH DAGAR",
+    "code": "1020217",
+    "designation": "TGT/Master (English)",
+    "appointment_type": "Regular"
+  }
+]

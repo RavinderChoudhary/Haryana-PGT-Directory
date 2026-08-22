@@ -1,0 +1,38 @@
+[
+  {
+    "name": "CHARAN DEV",
+    "code": "009103",
+    "designation": "Principal",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "RAJESH KUMAR",
+    "code": "1026134",
+    "designation": "PGT/Lecturer (Political Science)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Ravinder Kumar",
+    "code": "6014223",
+    "designation": "PGT/Lecturer (History)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SUDHIR YADAV",
+    "code": "5019066",
+    "designation": "PGT/Lecturer (Mathematics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SUNIL KUMAR",
+    "code": "1026299",
+    "designation": "PGT/Lecturer (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "AKBAR KHAN",
+    "code": "009049",
+    "designation": "TGT/Master (Science)",
+    "appointment_type": "Regular"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "name": "DINESH KUMAR",
+    "code": "210379",
+    "designation": "PGT/Lecturer (Sanskrit)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "HIRA SINGH",
+    "code": "204247",
+    "designation": "PGT/Lecturer (Punjabi)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "KULDEEP KUMAR",
+    "code": "5018002",
+    "designation": "PGT/Lecturer (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "RAJESH SHARMA",
+    "code": "078572",
+    "designation": "PGT/Lecturer (Mathematics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "VIJAY KUMAR CHAWLA",
+    "code": "030013",
+    "designation": "PGT/Lecturer (Hindi)",
+    "appointment_type": "Regular"
+  }
+]

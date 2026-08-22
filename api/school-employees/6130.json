@@ -1,0 +1,44 @@
+[
+  {
+    "name": "BANTI SINGH",
+    "code": "097007",
+    "designation": "Principal",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "PARDEEP KUMAR",
+    "code": "5025334",
+    "designation": "PGT/Lecturer (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "PARVEEN VASHISHTHA",
+    "code": "2100059",
+    "designation": "PGT/Lecturer (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SHIV KUMAR",
+    "code": "1027084",
+    "designation": "PGT/Lecturer (History)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "ANWAR KHAN",
+    "code": "5019586",
+    "designation": "TGT(Physical Education)/Master (DPE)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "GULAB SINGH",
+    "code": "5013327",
+    "designation": "TGT/Master (Mathematics)",
+    "appointment_type": "Guest (Contractual)"
+  },
+  {
+    "name": "Pratima",
+    "code": "6009995",
+    "designation": "TGT/Master (Science)",
+    "appointment_type": "Regular"
+  }
+]

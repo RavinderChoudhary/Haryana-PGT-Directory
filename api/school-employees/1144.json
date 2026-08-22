@@ -1,0 +1,68 @@
+[
+  {
+    "name": "PREM JEET SANGWAN",
+    "code": "042183",
+    "designation": "Principal",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Deepak Kumar",
+    "code": "6013328",
+    "designation": "PGT/Lecturer (Chemistry)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Imtiaz Ahmed",
+    "code": "6013522",
+    "designation": "PGT/Lecturer (Physics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "MOHAMMAD RAMZAN",
+    "code": "063343",
+    "designation": "PGT/Lecturer (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Ombir",
+    "code": "6001627",
+    "designation": "PGT/Lecturer (Sanskrit)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Pardeep Kumar",
+    "code": "6013483",
+    "designation": "PGT/Lecturer (Political Science)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "RAMAVTAR",
+    "code": "5019072",
+    "designation": "PGT/Lecturer (Mathematics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "YAD RAM",
+    "code": "096265",
+    "designation": "PGT/Lecturer (Hindi)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "ASHA MATHUR",
+    "code": "1019558",
+    "designation": "TGT/Master (Sanskrit)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "BHATERI DEVI",
+    "code": "5009912",
+    "designation": "TGT/Master (Science)",
+    "appointment_type": "Guest (Contractual)"
+  },
+  {
+    "name": "RAMAN LAL",
+    "code": "5000133",
+    "designation": "Classical & Vernacular Teacher (Drawing)",
+    "appointment_type": "Guest (Contractual)"
+  }
+]

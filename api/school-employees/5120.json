@@ -1,0 +1,26 @@
+[
+  {
+    "name": "EHTASHAMUDDIN KHAN",
+    "code": "095032",
+    "designation": "PGT/Lecturer (Mathematics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "JASWANT SINGH",
+    "code": "037090",
+    "designation": "PGT/Lecturer (Physics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "RAMKISHAN",
+    "code": "097028",
+    "designation": "PGT/Lecturer (Chemistry)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "WAHID AHMAD",
+    "code": "089044",
+    "designation": "PGT/Lecturer (English)",
+    "appointment_type": "Regular"
+  }
+]

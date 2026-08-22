@@ -1,0 +1,38 @@
+[
+  {
+    "name": "SURENDER PAL",
+    "code": "030136",
+    "designation": "Principal",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "DEVENDER",
+    "code": "090906",
+    "designation": "PGT/Lecturer (Biology)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "GOVIND RAM",
+    "code": "5019260",
+    "designation": "PGT/Lecturer (Geography)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "PAWAN KUMAR",
+    "code": "203177",
+    "designation": "PGT/Lecturer (Physics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "RAJESH GARG",
+    "code": "5017248",
+    "designation": "PGT/Lecturer (Chemistry)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "RAJESH KUMAR",
+    "code": "204873",
+    "designation": "PGT/Lecturer (English)",
+    "appointment_type": "Regular"
+  }
+]

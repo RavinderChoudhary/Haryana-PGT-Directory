@@ -1,0 +1,68 @@
+[
+  {
+    "name": "KANWAR BHAN",
+    "code": "051854",
+    "designation": "Principal",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "HITESH KUMAR",
+    "code": "213138",
+    "designation": "PGT/Lecturer (Computer Science)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Anju Singh",
+    "code": "6013021",
+    "designation": "PGT/Lecturer (Commerce)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "DEEPAK TUNGAL",
+    "code": "090993",
+    "designation": "PGT/Lecturer (Chemistry)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "DEEPTI",
+    "code": "1012643",
+    "designation": "PGT/Lecturer (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Hitesh Tanwar",
+    "code": "6013864",
+    "designation": "PGT/Lecturer (Biology)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Karmvir",
+    "code": "6014534",
+    "designation": "PGT/Lecturer (Mathematics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SATAYVATI GEHLOUT",
+    "code": "206937",
+    "designation": "PGT/Lecturer (Economics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Vinod Kumar",
+    "code": "6013195",
+    "designation": "PGT/Lecturer (Political Science)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Laxman",
+    "code": "6008093",
+    "designation": "TGT(Physical Education)/Master (DPE)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Rajeev Kumar",
+    "code": "6007338",
+    "designation": "TGT(Physical Education)/Master (DPE)",
+    "appointment_type": "Regular"
+  }
+]

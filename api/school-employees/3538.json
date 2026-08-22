@@ -1,0 +1,56 @@
+[
+  {
+    "name": "PERMINDER SINGH",
+    "code": "060268",
+    "designation": "Principal",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Dheeraj Kumari",
+    "code": "6002114",
+    "designation": "PGT/Lecturer (Sanskrit)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Himanshu",
+    "code": "6003188",
+    "designation": "PGT/Lecturer (History)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "KAVITA KUMARI",
+    "code": "208390",
+    "designation": "PGT/Lecturer (Hindi)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "KOMAL JASPAL",
+    "code": "5018815",
+    "designation": "PGT/Lecturer (Mathematics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "NEELAM KUMARI",
+    "code": "081298",
+    "designation": "PGT/Lecturer (Political Science)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "PREETI",
+    "code": "204956",
+    "designation": "PGT/Lecturer (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "ISHWER SINGH",
+    "code": "5022565",
+    "designation": "TGT(Physical Education)/Master (DPE)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "RAMESH KUMAR",
+    "code": "059904",
+    "designation": "TGT/Master (Social Studies)",
+    "appointment_type": "Regular"
+  }
+]

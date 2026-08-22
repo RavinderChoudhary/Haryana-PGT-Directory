@@ -1,0 +1,68 @@
+[
+  {
+    "name": "MAHESH KUMAR",
+    "code": "008559",
+    "designation": "Principal",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "DHARAMBIR",
+    "code": "5020860",
+    "designation": "PGT/Lecturer (History)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "RAM TILAK",
+    "code": "094448",
+    "designation": "PGT/Lecturer (Hindi)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "RAMESH KUMAR",
+    "code": "203983",
+    "designation": "PGT/Lecturer (Political Science)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Ramesh Rani",
+    "code": "6001968",
+    "designation": "PGT/Lecturer (Sanskrit)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SUNAINA",
+    "code": "5018516",
+    "designation": "PGT/Lecturer (Mathematics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "UMED SINGH",
+    "code": "062125",
+    "designation": "PGT/Lecturer (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "VIKASH",
+    "code": "212978",
+    "designation": "PGT/Lecturer (Economics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "RAM BHAGAT SINGH POONIA",
+    "code": "008252",
+    "designation": "TGT/Master (Science)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Savita Yadav",
+    "code": "6010066",
+    "designation": "TGT/Master (Sanskrit)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Sonika Sindhu",
+    "code": "6006725",
+    "designation": "TGT/Master (English)",
+    "appointment_type": "Regular"
+  }
+]

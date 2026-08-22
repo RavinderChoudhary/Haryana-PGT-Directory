@@ -1,0 +1,80 @@
+[
+  {
+    "name": "JAN MOHD",
+    "code": "096796",
+    "designation": "Principal",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Dinesh Kumar",
+    "code": "6003632",
+    "designation": "PGT/Lecturer (Hindi)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "JITENDER YADAV",
+    "code": "1011762",
+    "designation": "PGT/Lecturer (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Pardeep Bisla",
+    "code": "6003397",
+    "designation": "PGT/Lecturer (History)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Priya",
+    "code": "6003498",
+    "designation": "PGT/Lecturer (Biology)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "RAJPAL",
+    "code": "5007293",
+    "designation": "PGT/Lecturer (Geography)",
+    "appointment_type": "Guest (Contractual)"
+  },
+  {
+    "name": "SANDEEP KUMAR",
+    "code": "200851",
+    "designation": "PGT/Lecturer (Chemistry)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SARFRAZ KHAN",
+    "code": "096934",
+    "designation": "PGT/Lecturer (Physics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Sonu",
+    "code": "6003452",
+    "designation": "PGT/Lecturer (Chemistry)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SURBHI GAUR",
+    "code": "5018630",
+    "designation": "PGT/Lecturer (Mathematics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "NEERU KUMARI",
+    "code": "5013430",
+    "designation": "TGT/Master (Social Studies)",
+    "appointment_type": "Guest (Contractual)"
+  },
+  {
+    "name": "UMESH KUMAR",
+    "code": "5025368",
+    "designation": "TGT/Master (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SURESH SHARMA",
+    "code": "5010961",
+    "designation": "Classical & Vernacular Teacher (Sanskrit)",
+    "appointment_type": "Guest (Contractual)"
+  }
+]

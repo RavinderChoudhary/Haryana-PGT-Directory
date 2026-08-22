@@ -1,0 +1,80 @@
+[
+  {
+    "name": "MUKESH KUMARI",
+    "code": "079266",
+    "designation": "Principal",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Geeta Rani",
+    "code": "6013119",
+    "designation": "PGT/Lecturer (Mathematics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "JASMINDER KAUR",
+    "code": "200975",
+    "designation": "PGT/Lecturer (Commerce)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "MANJU BALA",
+    "code": "5017585",
+    "designation": "PGT/Lecturer (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Rajni Rani",
+    "code": "6002224",
+    "designation": "PGT/Lecturer (Sanskrit)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SANJEEV KUMAR",
+    "code": "206747",
+    "designation": "PGT/Lecturer (Economics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SOHAN LAL",
+    "code": "044371",
+    "designation": "PGT/Lecturer (Hindi)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "TARSEM KUMAR",
+    "code": "211075",
+    "designation": "PGT/Lecturer (Punjabi)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "TINKI RANI",
+    "code": "203765",
+    "designation": "PGT/Lecturer (Political Science)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Gurvinder Kaur",
+    "code": "6007794",
+    "designation": "TGT/Master (Punjabi)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "MEENU THUKRAL",
+    "code": "091613",
+    "designation": "TGT/Master (Mathematics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "RACHNA RANI",
+    "code": "1033719",
+    "designation": "TGT/Master (Hindi)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Veena Rani",
+    "code": "6009636",
+    "designation": "TGT/Master (English)",
+    "appointment_type": "Regular"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "name": "VIKAS SHEOKAND",
+    "code": "096588",
+    "designation": "Principal",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "KHUSHWANT SINGH",
+    "code": "5010799",
+    "designation": "PGT/Lecturer (English)",
+    "appointment_type": "Guest (Contractual)"
+  },
+  {
+    "name": "KULDEEP SINGH",
+    "code": "5019201",
+    "designation": "PGT/Lecturer (Geography)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Pardeep",
+    "code": "6013616",
+    "designation": "PGT/Lecturer (Sanskrit)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "MUKESH KUMAR",
+    "code": "2101041",
+    "designation": "TGT/Master (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SATISH KUMAR",
+    "code": "2101140",
+    "designation": "TGT/Master (Mathematics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SEHNAZ AKHTAR",
+    "code": "1027379",
+    "designation": "TGT/Master (Social Studies)",
+    "appointment_type": "Regular"
+  }
+]

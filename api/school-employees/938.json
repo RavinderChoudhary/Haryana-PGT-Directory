@@ -1,0 +1,32 @@
+[
+  {
+    "name": "RAJYOG",
+    "code": "096598",
+    "designation": "Principal",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Jyoti Katewa",
+    "code": "6013828",
+    "designation": "PGT/Lecturer (History)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "RAKESH KUMAR",
+    "code": "205377",
+    "designation": "PGT/Lecturer (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Satbir Kumar",
+    "code": "6004062",
+    "designation": "PGT/Lecturer (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Jaidev",
+    "code": "6005687",
+    "designation": "TGT/Master (Sanskrit)",
+    "appointment_type": "Regular"
+  }
+]

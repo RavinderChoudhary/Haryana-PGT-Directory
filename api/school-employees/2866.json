@@ -1,0 +1,62 @@
+[
+  {
+    "name": "MANOJ KUMAR",
+    "code": "044108",
+    "designation": "Principal",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "ATMA SINGH",
+    "code": "078278",
+    "designation": "PGT/Lecturer (Political Science)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "MONIKA VERMA",
+    "code": "211141",
+    "designation": "PGT/Lecturer (Punjabi)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "RENU PHUTELA",
+    "code": "1014544",
+    "designation": "PGT/Lecturer (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Sonu Sharma",
+    "code": "6002113",
+    "designation": "PGT/Lecturer (Sanskrit)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "ANITA RANI",
+    "code": "1014557",
+    "designation": "TGT/Master (Punjabi)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "RACHANA GROVER",
+    "code": "5014263",
+    "designation": "TGT/Master (Mathematics)",
+    "appointment_type": "Guest (Contractual)"
+  },
+  {
+    "name": "RAMESH KUMAR",
+    "code": "087726",
+    "designation": "TGT/Master (Social Studies)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Samandeep Kaur",
+    "code": "6008957",
+    "designation": "TGT/Master (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "JAGMOHANI",
+    "code": "5003771",
+    "designation": "Classical & Vernacular Teacher (Drawing)",
+    "appointment_type": "Guest (Contractual)"
+  }
+]

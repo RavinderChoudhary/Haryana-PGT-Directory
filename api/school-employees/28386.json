@@ -1,0 +1,176 @@
+[
+  {
+    "name": "Sonia Garg",
+    "code": "6001125",
+    "designation": "PGT/Lecturer (Computer Science)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Naresh Kumar",
+    "code": "6001196",
+    "designation": "PGT/Lecturer (History)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Naveen Shakti",
+    "code": "6001093",
+    "designation": "PGT/Lecturer (Biology)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Rizwan Ahmad Khan",
+    "code": "6001122",
+    "designation": "PGT/Lecturer (Chemistry)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Sat Parkash",
+    "code": "6001197",
+    "designation": "PGT/Lecturer (Mathematics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Shakil Ahmed",
+    "code": "6001144",
+    "designation": "PGT/Lecturer (Commerce)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Sunil Kumar",
+    "code": "6001090",
+    "designation": "PGT/Lecturer (Hindi)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Sunil Kumar",
+    "code": "6001168",
+    "designation": "PGT/Lecturer (Physics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Vijender Kumar",
+    "code": "6001171",
+    "designation": "PGT/Lecturer (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Kapil Dev",
+    "code": "6015116",
+    "designation": "TGT/Master (Hindi)",
+    "appointment_type": "Adhoc (Contractual)"
+  },
+  {
+    "name": "Mahesh Kumar Saxena",
+    "code": "6011242",
+    "designation": "TGT/Master (Science)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Manju Kumari",
+    "code": "6014677",
+    "designation": "TGT/Master (Hindi)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Naveen Kumar",
+    "code": "6015158",
+    "designation": "TGT(Physical Education)/Master (DPE)",
+    "appointment_type": "Adhoc (Contractual)"
+  },
+  {
+    "name": "Nisar Ahmed",
+    "code": "6015119",
+    "designation": "TGT/Master (Urdu)",
+    "appointment_type": "Adhoc (Contractual)"
+  },
+  {
+    "name": "Satish Kumar",
+    "code": "6011255",
+    "designation": "TGT/Master (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Shikha Mangla",
+    "code": "6011237",
+    "designation": "TGT/Master (Science)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Shiv Charan",
+    "code": "6014679",
+    "designation": "TGT/Master (Sanskrit)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Sirochi Devi",
+    "code": "6011251",
+    "designation": "TGT/Master (Mathematics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Sunita Khatri",
+    "code": "6011226",
+    "designation": "TGT/Master (Mathematics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Anish Ahmed",
+    "code": "6001113",
+    "designation": "PRT/JBT",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Chanchal",
+    "code": "6001112",
+    "designation": "PRT/JBT",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Mohd. Yasin",
+    "code": "6001108",
+    "designation": "PRT/JBT",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Muzibur Rahman",
+    "code": "6001110",
+    "designation": "PRT/JBT",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Pooja",
+    "code": "6001111",
+    "designation": "PRT/JBT",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Renu Bala",
+    "code": "6001135",
+    "designation": "PRT/JBT",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Shaesta Khan",
+    "code": "6001134",
+    "designation": "PRT/JBT",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Shahid Khan",
+    "code": "6016190",
+    "designation": "PRT/JBT",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Subedeen",
+    "code": "6001109",
+    "designation": "PRT/JBT",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Sudha Devi",
+    "code": "6001136",
+    "designation": "PRT/JBT",
+    "appointment_type": "Regular"
+  }
+]

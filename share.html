@@ -1,0 +1,434 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Information & Resources — Haryana School Portal</title>
+  <!-- Tailwind CSS CDN -->
+  <script src="https://cdn.tailwindcss.com"></script>
+  <!-- FontAwesome Icons -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+  <style>
+    /* Scrollbar hiding utilities */
+    .no-scrollbar::-webkit-scrollbar {
+      display: none;
+    }
+    .no-scrollbar {
+      -ms-overflow-style: none;
+      scrollbar-width: none;
+    }
+  </style>
+</head>
+<body class="bg-gray-55 text-gray-800 font-sans min-h-screen flex flex-col">
+
+  <!-- Header -->
+  <header class="bg-indigo-900 text-white shadow-md">
+    <div class="max-w-7xl mx-auto px-4 py-5 sm:px-6 lg:px-8 flex flex-col sm:flex-row justify-between items-center space-y-4 sm:space-y-0">
+      <div class="flex items-center space-x-4">
+        <div class="bg-white p-2 rounded-full shadow-inner text-indigo-900">
+          <i class="fa-solid fa-school-flag text-2xl"></i>
+        </div>
+        <div>
+          <h1 class="text-xl sm:text-2xl font-bold tracking-tight">Information & Resources Portal</h1>
+          <p class="text-indigo-200 text-xs sm:text-sm font-medium">Official Haryana School Education Documents & Links</p>
+        </div>
+      </div>
+      
+      <div class="flex items-center space-x-3 w-full sm:w-auto justify-end">
+        <a href="index.html" class="px-4 py-2 bg-indigo-800 hover:bg-indigo-700 text-white text-xs font-semibold rounded-lg shadow-sm transition flex items-center space-x-1.5">
+          <i class="fa-solid fa-arrow-left"></i>
+          <span>Directory Dashboard</span>
+        </a>
+      </div>
+    </div>
+  </header>
+
+  <!-- Main Container -->
+  <main class="flex-grow max-w-7xl w-full mx-auto px-4 py-8 sm:px-6 lg:px-8 space-y-6">
+    
+    <!-- Content Card -->
+    <section class="bg-white rounded-2xl shadow-sm border border-gray-100 overflow-hidden">
+      <!-- Tabs Wrapper -->
+      <div class="bg-gray-55 border-b border-gray-100 px-4 py-2">
+        <div class="flex items-center space-x-2 overflow-x-auto no-scrollbar py-2 px-1 scroll-smooth w-full select-none" id="tabs-container">
+          <button onclick="switchTab('Advertisement')" id="tab-Advertisement" class="tab-btn px-4 py-2 text-sm font-semibold rounded-lg bg-indigo-900 text-white shadow-sm transition">Advertisement</button>
+          <button onclick="switchTab('Result')" id="tab-Result" class="tab-btn px-4 py-2 text-sm font-semibold rounded-lg bg-white text-gray-600 hover:bg-gray-100 hover:text-gray-900 shadow-sm border border-gray-200 transition">Result</button>
+          <button onclick="switchTab('Marks')" id="tab-Marks" class="tab-btn px-4 py-2 text-sm font-semibold rounded-lg bg-white text-gray-600 hover:bg-gray-100 hover:text-gray-900 shadow-sm border border-gray-200 transition">Marks</button>
+          <button onclick="switchTab('Question Papers')" id="tab-Question Papers" class="tab-btn px-4 py-2 text-sm font-semibold rounded-lg bg-white text-gray-600 hover:bg-gray-100 hover:text-gray-900 shadow-sm border border-gray-200 transition">Question Papers</button>
+          <button onclick="switchTab('Books')" id="tab-Books" class="tab-btn px-4 py-2 text-sm font-semibold rounded-lg bg-white text-gray-600 hover:bg-gray-100 hover:text-gray-900 shadow-sm border border-gray-200 transition">Books</button>
+          <button onclick="switchTab('Court Cases')" id="tab-Court Cases" class="tab-btn px-4 py-2 text-sm font-semibold rounded-lg bg-white text-gray-600 hover:bg-gray-100 hover:text-gray-900 shadow-sm border border-gray-200 transition">Court Cases</button>
+          <button onclick="switchTab('Important Links')" id="tab-Important Links" class="tab-btn px-4 py-2 text-sm font-semibold rounded-lg bg-white text-gray-600 hover:bg-gray-100 hover:text-gray-900 shadow-sm border border-gray-200 transition">Important Links</button>
+          <button onclick="switchTab('Other')" id="tab-Other" class="tab-btn px-4 py-2 text-sm font-semibold rounded-lg bg-white text-gray-600 hover:bg-gray-100 hover:text-gray-900 shadow-sm border border-gray-200 transition">Other</button>
+        </div>
+      </div>
+
+      <!-- Resource List Section -->
+      <div class="p-6">
+        <div id="resources-list" class="divide-y divide-gray-100">
+          <!-- Dynamic full-width list items populated here -->
+        </div>
+
+        <!-- Empty state alert -->
+        <div id="empty-state" class="hidden flex-col items-center justify-center py-16 text-center space-y-3">
+          <div class="h-12 w-12 bg-gray-55 text-gray-400 rounded-full flex items-center justify-center text-xl shadow-inner">
+            <i class="fa-solid fa-folder-open"></i>
+          </div>
+          <h4 class="text-sm font-bold text-gray-900">No resources available</h4>
+          <p class="text-xs text-gray-400 max-w-xs">There are currently no syllabi, court case updates, question papers, or links posted under this tab.</p>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <!-- Footer -->
+  <footer class="bg-gray-100 border-t border-gray-200 py-6 text-center text-xs text-gray-500">
+    <p>&copy; 2026 Haryana School Education Information Portal. Public View.</p>
+  </footer>
+
+  <script>
+    let activeTab = "Advertisement";
+    let allResources = [];
+    let caseSummaries = {};
+
+    window.addEventListener('DOMContentLoaded', () => {
+      loadResources();
+    });
+
+    // Parse Case titles like "CWP No. 13816 of 2020" or "LPA No. 1262/2026"
+    function parseCaseTitle(title) {
+      if (!title) return null;
+      const regex = /^\s*(CWP|LPA)\s*(?:No\.?|no\.?)?\s*(\d+)\s*(?:of|\/)\s*(\d{4})\s*$/i;
+      const match = title.match(regex);
+      if (match) {
+        return {
+          caseType: match[1].toUpperCase(),
+          caseNo: match[2],
+          caseYear: match[3]
+        };
+      }
+      return null;
+    }
+
+    // Load resources and case summaries from API
+    async function loadResources() {
+      try {
+        const [resResp, sumResp] = await Promise.all([
+          fetch('api/info.json'),
+          fetch('api/case_summaries.json').catch(() => null)
+        ]);
+
+        if (!resResp.ok) throw new Error("Failed to fetch information resources.");
+        allResources = await resResp.json();
+        
+        if (sumResp && sumResp.ok) {
+          caseSummaries = await sumResp.json();
+        }
+
+        renderResources();
+      } catch (err) {
+        console.error(err);
+        alert("Failed to load resources: " + err.message);
+      }
+    }
+
+    // Tab switcher handler
+    function switchTab(tabName) {
+      const oldTab = document.getElementById(`tab-${activeTab}`);
+      if (oldTab) {
+        oldTab.className = "tab-btn px-4 py-2 text-sm font-semibold rounded-lg bg-white text-gray-600 hover:bg-gray-100 hover:text-gray-900 shadow-sm border border-gray-200 transition";
+      }
+
+      activeTab = tabName;
+
+      const newTab = document.getElementById(`tab-${tabName}`);
+      if (newTab) {
+        newTab.className = "tab-btn px-4 py-2 text-sm font-semibold rounded-lg bg-indigo-900 text-white shadow-sm transition";
+      }
+
+      renderResources();
+    }
+
+    // Render resources for the active tab (List wise format, styled date/source, no description)
+    function renderResources() {
+      const listContainer = document.getElementById('resources-list');
+      const emptyState = document.getElementById('empty-state');
+      listContainer.innerHTML = "";
+      
+      const filtered = allResources.filter(r => r.tab === activeTab);
+
+      if (filtered.length === 0) {
+        emptyState.classList.remove('hidden');
+        return;
+      }
+      emptyState.classList.add('hidden');
+
+      filtered.forEach((res, index) => {
+        const row = document.createElement('div');
+        row.className = "py-4 flex flex-col border-b border-gray-50 last:border-b-0";
+
+        const isLocalFile = res.url.startsWith('/uploads/');
+        const caseDetails = (activeTab === "Court Cases") ? parseCaseTitle(res.title) : null;
+
+        const actionIcon = isLocalFile ? 'fa-file-pdf text-red-500' : 'fa-link text-indigo-600';
+        const actionText = isLocalFile ? 'View PDF Document' : 'Open Resource Link';
+        const buttonColorClass = isLocalFile 
+          ? 'bg-red-50 text-red-700 border border-red-100 hover:bg-red-100 hover:text-red-800' 
+          : 'bg-indigo-50 text-indigo-700 border border-indigo-100 hover:bg-indigo-100 hover:text-indigo-800';
+
+        // Format dates beautifully
+        const dateString = res.date ? new Date(res.date).toLocaleDateString('en-IN', {day: 'numeric', month: 'short', year: 'numeric'}) : "";
+        const sourceString = res.source ? res.source.trim() : "";
+
+        if (caseDetails) {
+          // Collapsible accordion item for Court Cases (CWP/LPA)
+          row.innerHTML = `
+            <div class="flex flex-col sm:flex-row sm:items-center sm:justify-between gap-4">
+              <!-- Left side: title click triggers expand -->
+              <div class="space-y-1.5 flex-grow cursor-pointer group" onclick="toggleJudgments('${caseDetails.caseNo}', '${caseDetails.caseYear}', '${caseDetails.caseType}', ${index}, '${res.id}')">
+                <div class="flex items-start space-x-2.5">
+                  <i id="chevron-court-${index}" class="fa-solid fa-chevron-right text-gray-400 text-sm mt-1.5 transition-transform duration-200"></i>
+                  <h3 class="font-bold text-gray-900 text-sm sm:text-base leading-snug group-hover:text-indigo-600 transition">${res.title}</h3>
+                  <span class="ml-2 px-2 py-0.5 rounded text-3xs font-extrabold bg-indigo-50 text-indigo-600 uppercase tracking-wider">Judgments</span>
+                </div>
+                <div class="flex flex-wrap items-center gap-2 pl-6 pt-0.5">
+                  ${dateString ? `
+                    <span class="inline-flex items-center px-2 py-0.5 rounded text-xs font-semibold bg-gray-100 text-gray-600 shadow-2xs">
+                      <i class="fa-regular fa-calendar-days mr-1 text-gray-400"></i>
+                      ${dateString}
+                    </span>` : ''}
+                  ${sourceString ? `
+                    <span class="inline-flex items-center px-2 py-0.5 rounded text-xs font-semibold bg-indigo-50 text-indigo-700 shadow-2xs">
+                      <i class="fa-solid fa-building-columns mr-1 text-indigo-400"></i>
+                      ${sourceString}
+                    </span>` : ''}
+                </div>
+              </div>
+
+              <!-- Right side: Summary toggle button -->
+              <div class="flex items-center space-x-3 self-end sm:self-center pl-6 sm:pl-0 flex-shrink-0">
+                <button 
+                  onclick="toggleJudgments('${caseDetails.caseNo}', '${caseDetails.caseYear}', '${caseDetails.caseType}', ${index}, '${res.id}')"
+                  class="px-4 py-2 text-xs text-indigo-700 hover:text-white border border-transparent hover:border-indigo-200 hover:bg-indigo-600 rounded-lg font-bold transition flex items-center space-x-1.5 bg-indigo-50"
+                  title="View Case Summary & Orders"
+                >
+                  <i class="fa-solid fa-file-invoice"></i>
+                  <span>Summary & Orders</span>
+                </button>
+              </div>
+            </div>
+
+            <!-- Dynamic Accordion details block -->
+            <div id="details-court-${index}" class="hidden pl-6 pr-2 py-2 mt-3 bg-gray-55 border border-gray-100 rounded-xl animate-fadeIn">
+              <div id="judgements-content-container-${index}"></div>
+            </div>
+          `;
+        } else {
+          // Standard resource item
+          row.innerHTML = `
+            <div class="flex flex-col sm:flex-row sm:items-center sm:justify-between gap-4">
+              <div class="space-y-1.5 flex-grow">
+                <div class="flex items-start space-x-2.5">
+                  <i class="fa-solid ${actionIcon} text-base mt-1 flex-shrink-0"></i>
+                  <h3 class="font-bold text-gray-900 text-sm sm:text-base leading-snug">${res.title}</h3>
+                </div>
+                <div class="flex flex-wrap items-center gap-2 pl-7 pt-0.5">
+                  ${dateString ? `
+                    <span class="inline-flex items-center px-2 py-0.5 rounded text-xs font-semibold bg-gray-100 text-gray-600 shadow-2xs">
+                      <i class="fa-regular fa-calendar-days mr-1 text-gray-400"></i>
+                      ${dateString}
+                    </span>` : ''}
+                  ${sourceString ? `
+                    <span class="inline-flex items-center px-2 py-0.5 rounded text-xs font-semibold bg-indigo-50 text-indigo-700 shadow-2xs">
+                      <i class="fa-solid fa-building-columns mr-1 text-indigo-400"></i>
+                      ${sourceString}
+                    </span>` : ''}
+                </div>
+              </div>
+
+              <div class="flex items-center space-x-3 self-end sm:self-center pl-7 sm:pl-0 flex-shrink-0">
+                <a 
+                  href="${res.url}" 
+                  target="_blank" 
+                  class="px-4 py-2 border rounded-lg text-xs font-extrabold transition flex items-center justify-center space-x-1.5 ${buttonColorClass}"
+                >
+                  <i class="fa-solid ${isLocalFile ? 'fa-file-pdf' : 'fa-external-link-alt'}"></i>
+                  <span>${actionText}</span>
+                </a>
+              </div>
+            </div>
+          `;
+        }
+        listContainer.appendChild(row);
+      });
+    }
+
+    // Toggle Accordion & Fetch Judgments from Proxy API
+    async function toggleJudgments(caseNo, caseYear, caseType, index, resId) {
+      const details = document.getElementById(`details-court-${index}`);
+      const chevron = document.getElementById(`chevron-court-${index}`);
+      const contentContainer = document.getElementById(`judgements-content-container-${index}`);
+      
+      if (details.classList.contains('hidden')) {
+        details.classList.remove('hidden');
+        chevron.classList.add('rotate-90');
+        
+        // If data hasn't been loaded yet, fetch and render
+        if (contentContainer.innerHTML === "") {
+          contentContainer.innerHTML = `
+            <div id="judgements-loading-${index}" class="text-xs text-gray-500 italic py-3 flex items-center space-x-2">
+              <i class="fa-solid fa-spinner animate-spin text-indigo-500"></i>
+              <span>Fetching Judgments from Punjab & Haryana High Court...</span>
+            </div>
+            <div id="judgements-table-wrapper-${index}"></div>
+          `;
+          
+          const loading = document.getElementById(`judgements-loading-${index}`);
+          const tableWrapper = document.getElementById(`judgements-table-wrapper-${index}`);
+          
+          // 1. Generate Case Summary Block if available
+          let summaryHtml = "";
+          const summaryData = caseSummaries[resId];
+          if (summaryData) {
+            const outcomeColor = summaryData.outcome_color || "indigo";
+            let badgeColorClass = "bg-indigo-50 text-indigo-700 border border-indigo-100";
+            if (outcomeColor === "emerald") {
+              badgeColorClass = "bg-emerald-50 text-emerald-700 border border-emerald-100";
+            } else if (outcomeColor === "red") {
+              badgeColorClass = "bg-red-50 text-red-700 border border-red-100";
+            } else if (outcomeColor === "amber") {
+              badgeColorClass = "bg-amber-50 text-amber-700 border border-amber-100";
+            }
+
+            summaryHtml = `
+              <div class="mb-4 p-4 bg-white rounded-lg border border-gray-200/80 shadow-2xs space-y-2">
+                <div class="flex items-center justify-between flex-wrap gap-2">
+                  <span class="text-2xs font-bold text-gray-400 uppercase tracking-wider flex items-center space-x-1">
+                    <i class="fa-solid fa-file-contract text-indigo-500 text-xs"></i>
+                    <span>📋 Case Summary</span>
+                  </span>
+                  <span class="px-2 py-0.5 rounded text-3xs font-extrabold uppercase ${badgeColorClass}">
+                    Outcome: ${summaryData.outcome || 'N/A'}
+                  </span>
+                </div>
+                <p class="text-xs sm:text-sm text-gray-700 leading-relaxed font-medium">${summaryData.summary || 'Summary not available.'}</p>
+              </div>
+            `;
+          }
+
+          // Prepend Summary and append Log Header
+          const headerHtml = summaryHtml + `
+            <span class="text-2xs font-bold text-gray-400 uppercase tracking-wider block mb-2 px-1 flex items-center space-x-1">
+              <i class="fa-solid fa-scroll text-gray-400"></i>
+              <span>📜 Court Orders & Judgments Log</span>
+            </span>
+          `;
+          
+          try {
+            const encNo = encodeURIComponent(caseNo || "");
+            const encYear = encodeURIComponent(caseYear || "");
+            const encType = encodeURIComponent(caseType || "");
+            
+            const res = await fetch(`api/court-case-judgments/${caseType}-${caseNo}-${caseYear}.json`);
+            if (!res.ok) throw new Error("Failed to load judgments from server.");
+            
+            const data = await res.json();
+            loading.remove();
+            
+            contentContainer.innerHTML = headerHtml;
+            const tableDiv = document.createElement('div');
+            tableDiv.className = "overflow-x-auto pt-1";
+            contentContainer.appendChild(tableDiv);
+            
+            if (!data || data.length === 0) {
+              tableDiv.innerHTML = `
+                <div class="text-xs text-gray-500 italic py-2 px-1">
+                  No judgments or orders found for this case on the High Court portal.
+                </div>
+              `;
+              return;
+            }
+            
+            renderJudgmentsTable(data, tableDiv);
+          } catch (err) {
+            console.error(err);
+            if (loading) loading.remove();
+            contentContainer.innerHTML = headerHtml;
+            const errDiv = document.createElement('div');
+            errDiv.className = "text-xs text-red-500 font-medium py-2 px-1";
+            errDiv.innerHTML = `⚠️ Failed to load judgments log. High Court portal is currently offline.`;
+            contentContainer.appendChild(errDiv);
+          }
+        }
+      } else {
+        details.classList.add('hidden');
+        chevron.classList.remove('rotate-90');
+      }
+    }
+
+    // Render Judgments Table in collapsible container
+    function renderJudgmentsTable(judgments, container) {
+      let tableHtml = `
+        <table class="w-full text-left border-collapse text-2xs sm:text-xs">
+          <thead>
+            <tr class="border-b border-gray-200 text-gray-400 font-bold uppercase tracking-wider">
+              <th class="py-2 pr-2">Sr.No</th>
+              <th class="py-2 px-2">Order Date</th>
+              <th class="py-2 px-2">Order Type</th>
+              <th class="py-2 px-2">Bench Details</th>
+              <th class="py-2 pl-2 text-right">PDF</th>
+            </tr>
+          </thead>
+          <tbody class="divide-y divide-gray-100 text-gray-700">
+      `;
+      
+      const sorted = [...judgments].sort((a, b) => new Date(b.orderdate) - new Date(a.orderdate));
+      
+      sorted.forEach((j, i) => {
+        let dateStr = "";
+        if (j.orderdate) {
+          const dateParts = j.orderdate.split('T')[0].split('-');
+          if (dateParts.length === 3) {
+            dateStr = `${dateParts[2]}/${dateParts[1]}/${dateParts[0]}`;
+          }
+        }
+        
+        const typeStr = j.order_type === 'F' ? 'Final Order' : (j.order_type === 'I' ? 'Interim Order' : 'Order');
+        const typeColorClass = j.order_type === 'F' 
+          ? 'bg-emerald-50 text-emerald-700 border border-emerald-100' 
+          : 'bg-amber-50 text-amber-700 border border-amber-100';
+          
+        const benchStr = j.bench_name ? j.bench_name.replace(/;\s*/g, '<br class="hidden sm:inline">') : "";
+        
+        tableHtml += `
+          <tr class="hover:bg-gray-100/50 transition">
+            <td class="py-2.5 pr-2 font-semibold text-gray-500">${i + 1}</td>
+            <td class="py-2.5 px-2 font-medium whitespace-nowrap text-gray-900">${dateStr}</td>
+            <td class="py-2.5 px-2 whitespace-nowrap">
+              <span class="px-1.5 py-0.5 rounded text-3xs font-extrabold uppercase ${typeColorClass}">
+                ${typeStr}
+              </span>
+            </td>
+            <td class="py-2.5 px-2 text-gray-600 leading-relaxed font-medium">${benchStr}</td>
+            <td class="py-2.5 pl-2 text-right whitespace-nowrap">
+              <a 
+                href="${j.order}" 
+                target="_blank" 
+                class="inline-flex items-center space-x-1 px-2.5 py-1 rounded bg-indigo-50 border border-indigo-100 hover:bg-indigo-100 text-indigo-700 hover:text-indigo-850 text-3xs font-extrabold uppercase tracking-wide transition"
+              >
+                <i class="fa-solid fa-file-pdf text-red-500"></i>
+                <span>View Order</span>
+              </a>
+            </td>
+          </tr>
+        `;
+      });
+      
+      tableHtml += `
+          </tbody>
+        </table>
+      `;
+      container.innerHTML = tableHtml;
+    }
+  </script>
+</body>
+</html>

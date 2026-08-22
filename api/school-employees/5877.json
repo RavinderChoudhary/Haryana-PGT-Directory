@@ -1,0 +1,32 @@
+[
+  {
+    "name": "JISHAN ALI",
+    "code": "1027395",
+    "designation": "PGT/Lecturer (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "VIRENDER KUMAR",
+    "code": "091086",
+    "designation": "PGT/Lecturer (Chemistry)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Mohan Lal",
+    "code": "6004971",
+    "designation": "TGT/Master (Mathematics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Pushpa",
+    "code": "6004321",
+    "designation": "TGT/Master (Hindi)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Sonika Devi",
+    "code": "6004423",
+    "designation": "TGT/Master (Science)",
+    "appointment_type": "Regular"
+  }
+]

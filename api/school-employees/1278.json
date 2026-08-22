@@ -1,0 +1,26 @@
+[
+  {
+    "name": "AJIT SINGH",
+    "code": "096080",
+    "designation": "PGT/Lecturer (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Neelam Yadav",
+    "code": "6001859",
+    "designation": "PGT/Lecturer (Sanskrit)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Sonu",
+    "code": "6006893",
+    "designation": "TGT/Master (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SUMAN DEVI",
+    "code": "1002866",
+    "designation": "TGT/Master (Science)",
+    "appointment_type": "Regular"
+  }
+]

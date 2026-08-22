@@ -1,0 +1,44 @@
+[
+  {
+    "name": "SEEMA RANI",
+    "code": "060304",
+    "designation": "Principal",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "GOVIND.",
+    "code": "210660",
+    "designation": "PGT/Lecturer (Sanskrit)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "MANJU",
+    "code": "205167",
+    "designation": "PGT/Lecturer (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "RAJESH CHHILLAR",
+    "code": "060436",
+    "designation": "PGT/Lecturer (Mathematics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SAVITA DEVI",
+    "code": "207485",
+    "designation": "PGT/Lecturer (Hindi)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "DEVINDER KUMAR",
+    "code": "087453",
+    "designation": "TGT(Physical Education)/Master (DPE)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "MUKESH KUMARI",
+    "code": "081564",
+    "designation": "Classical & Vernacular Teacher (Sanskrit)",
+    "appointment_type": "Regular"
+  }
+]

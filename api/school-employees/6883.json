@@ -1,0 +1,50 @@
+[
+  {
+    "name": "MOHAMMAD RAMJAN",
+    "code": "096874",
+    "designation": "Principal",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "REKHA RANI",
+    "code": "096895",
+    "designation": "Principal",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "TRILOCHAN CHORASIA",
+    "code": "096701",
+    "designation": "Principal",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "VIJAY LAXMI YADAV",
+    "code": "096893",
+    "designation": "Principal",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "JITENDER SINGH",
+    "code": "090606",
+    "designation": "PGT/Lecturer (Physics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "KUSUM MALIK",
+    "code": "080710",
+    "designation": "PGT/Lecturer (Chemistry)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "PARMOD KUMAR",
+    "code": "096908",
+    "designation": "PGT/Lecturer (Biology)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SULAXNA AHLAWAT",
+    "code": "096630",
+    "designation": "PGT/Lecturer (English)",
+    "appointment_type": "Regular"
+  }
+]

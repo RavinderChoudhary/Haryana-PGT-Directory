@@ -1,0 +1,32 @@
+[
+  {
+    "name": "ANAND KUMAR",
+    "code": "096898",
+    "designation": "Principal",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "PANKAJ BHARDWAJ",
+    "code": "5025333",
+    "designation": "PGT/Lecturer (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SHYAM SUNDER",
+    "code": "1033474",
+    "designation": "PGT/Lecturer (History)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SURENDER KUMAR",
+    "code": "2100068",
+    "designation": "TGT/Master (Hindi)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SONIA SHARMA",
+    "code": "012412",
+    "designation": "Classical & Vernacular Teacher (Sanskrit)",
+    "appointment_type": "Regular"
+  }
+]

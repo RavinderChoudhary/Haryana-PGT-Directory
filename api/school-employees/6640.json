@@ -1,0 +1,20 @@
+[
+  {
+    "name": "IQBAL SINGH",
+    "code": "211116",
+    "designation": "PGT/Lecturer (Punjabi)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "KALWANT",
+    "code": "212987",
+    "designation": "PGT/Lecturer (Economics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "MUKESH KUMAR",
+    "code": "203652",
+    "designation": "PGT/Lecturer (Physics)",
+    "appointment_type": "Regular"
+  }
+]

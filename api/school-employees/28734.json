@@ -1,0 +1,152 @@
+[
+  {
+    "name": "Harmeen Kaur Ahuja",
+    "code": "6001194",
+    "designation": "PGT/Lecturer (Biology)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Neha Jain",
+    "code": "6001142",
+    "designation": "PGT/Lecturer (Commerce)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Pardeep Kumar",
+    "code": "6001094",
+    "designation": "PGT/Lecturer (Physical Education)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "S M Rizwanullah Khan",
+    "code": "6001095",
+    "designation": "PGT/Lecturer (Mathematics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Seema Huda",
+    "code": "6001146",
+    "designation": "PGT/Lecturer (Economics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Anita Kumari",
+    "code": "6011244",
+    "designation": "TGT/Master (Social Studies)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Ashok Kumar Gupta",
+    "code": "6011236",
+    "designation": "TGT/Master (Science)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Rajbir Singh",
+    "code": "6015171",
+    "designation": "TGT(Physical Education)/Master (DPE)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Rajesh Kumar",
+    "code": "6015179",
+    "designation": "TGT/Master (English)",
+    "appointment_type": "Adhoc (Contractual)"
+  },
+  {
+    "name": "Sadhana Singh",
+    "code": "6011241",
+    "designation": "TGT/Master (Science)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Sanjay Kumar",
+    "code": "6015176",
+    "designation": "TGT/Master (Hindi)",
+    "appointment_type": "Adhoc (Contractual)"
+  },
+  {
+    "name": "Santosh Garg",
+    "code": "6015173",
+    "designation": "TGT/Master (Social Studies)",
+    "appointment_type": "Adhoc (Contractual)"
+  },
+  {
+    "name": "Savita",
+    "code": "6014775",
+    "designation": "TGT/Master (Hindi)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Ajit Singh",
+    "code": "6001078",
+    "designation": "PRT/JBT",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Beenu Bala",
+    "code": "6001105",
+    "designation": "PRT/JBT",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Chanchal",
+    "code": "6001079",
+    "designation": "PRT/JBT",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Manju Verma",
+    "code": "6001106",
+    "designation": "PRT/JBT",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Monika",
+    "code": "6001080",
+    "designation": "PRT/JBT",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Pinki Yadav",
+    "code": "6001107",
+    "designation": "PRT/JBT",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Rahul Mishra",
+    "code": "6001116",
+    "designation": "PRT/JBT",
+    "appointment_type": "Guest (Contractual)"
+  },
+  {
+    "name": "Ravinder Kumar Sharma",
+    "code": "6001086",
+    "designation": "PRT/JBT",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Sapna",
+    "code": "6015479",
+    "designation": "PRT/JBT",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Shilpi Jain",
+    "code": "6001076",
+    "designation": "PRT/JBT",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Sunita",
+    "code": "6001087",
+    "designation": "PRT/JBT",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Sunita Bai",
+    "code": "6001084",
+    "designation": "PRT/JBT",
+    "appointment_type": "Regular"
+  }
+]

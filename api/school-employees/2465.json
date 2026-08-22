@@ -1,0 +1,62 @@
+[
+  {
+    "name": "SHARMILA",
+    "code": "051802",
+    "designation": "Principal",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "AARTI TANWAR",
+    "code": "206083",
+    "designation": "PGT/Lecturer (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "ASHOK KUMAR",
+    "code": "032140",
+    "designation": "PGT/Lecturer (Political Science)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "GEETA NAGPAL",
+    "code": "209656",
+    "designation": "PGT/Lecturer (Sanskrit)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "KAVITA",
+    "code": "078848",
+    "designation": "PGT/Lecturer (Mathematics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "RUBAL YADAV",
+    "code": "201895",
+    "designation": "PGT/Lecturer (History)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "VIDHYA RANI",
+    "code": "060647",
+    "designation": "PGT/Lecturer (Hindi)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Kalpana Devi",
+    "code": "6006203",
+    "designation": "TGT/Master (Sanskrit)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Rakhi Chauhan",
+    "code": "6007600",
+    "designation": "TGT/Master (Science)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Sonu Kumari",
+    "code": "6007197",
+    "designation": "TGT/Master (English)",
+    "appointment_type": "Regular"
+  }
+]

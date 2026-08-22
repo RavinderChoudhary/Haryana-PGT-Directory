@@ -1,0 +1,26 @@
+[
+  {
+    "name": "HARPAL SINGH",
+    "code": "002784",
+    "designation": "PGT/Lecturer (Punjabi)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "KASHMIRI LAL",
+    "code": "003870",
+    "designation": "PGT/Lecturer (Sanskrit)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "NITIN GUPTA",
+    "code": "202816",
+    "designation": "PGT/Lecturer (Mathematics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "AJMER SINGH",
+    "code": "5012714",
+    "designation": "TGT/Master (Mathematics)",
+    "appointment_type": "Guest (Contractual)"
+  }
+]

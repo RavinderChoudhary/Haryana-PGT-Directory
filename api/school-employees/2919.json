@@ -1,0 +1,50 @@
+[
+  {
+    "name": "ROHTASH KUMAR",
+    "code": "060862",
+    "designation": "Principal",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Charanjeet Kaur",
+    "code": "6013298",
+    "designation": "PGT/Lecturer (Punjabi)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "JOT RAM",
+    "code": "060929",
+    "designation": "PGT/Lecturer (Hindi)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Udit Sharma",
+    "code": "6013128",
+    "designation": "PGT/Lecturer (Biology)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "BALGINDER KAUR",
+    "code": "5019848",
+    "designation": "TGT/Master (Punjabi)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "GURMEET KAUR",
+    "code": "5013710",
+    "designation": "TGT/Master (Social Studies)",
+    "appointment_type": "Guest (Contractual)"
+  },
+  {
+    "name": "Paramjeet Kaur",
+    "code": "6007002",
+    "designation": "TGT(Physical Education)/Master (DPE)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SUSHIL KUMAR",
+    "code": "1024832",
+    "designation": "TGT/Master (Mathematics)",
+    "appointment_type": "Regular"
+  }
+]

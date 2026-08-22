@@ -1,0 +1,56 @@
+[
+  {
+    "name": "DALBIR SINGH",
+    "code": "072199",
+    "designation": "Principal",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "HARDEEP SINGH",
+    "code": "026267",
+    "designation": "PGT/Lecturer (History)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "NEERJA",
+    "code": "088350",
+    "designation": "PGT/Lecturer (Political Science)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "RAKESH RAJ",
+    "code": "5017999",
+    "designation": "PGT/Lecturer (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SULINDER",
+    "code": "214312",
+    "designation": "PGT/Lecturer (Hindi)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "VANDANA KUMARI",
+    "code": "209600",
+    "designation": "PGT/Lecturer (Sanskrit)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "VINOD SHARMA",
+    "code": "202548",
+    "designation": "PGT/Lecturer (Mathematics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Kajal Sindhu",
+    "code": "6009357",
+    "designation": "TGT/Master (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SONAM",
+    "code": "2003972",
+    "designation": "TGT/Master (Science)",
+    "appointment_type": "Regular"
+  }
+]

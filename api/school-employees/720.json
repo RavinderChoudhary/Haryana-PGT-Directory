@@ -1,0 +1,38 @@
+[
+  {
+    "name": "DINESH KUMAR",
+    "code": "096827",
+    "designation": "Principal",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Champak Kumar",
+    "code": "6002970",
+    "designation": "PGT/Lecturer (Urdu)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Shubham Dharra",
+    "code": "6003673",
+    "designation": "PGT/Lecturer (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Aadil Hussain",
+    "code": "6005085",
+    "designation": "TGT/Master (Urdu)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Abhay",
+    "code": "6008810",
+    "designation": "TGT/Master (Hindi)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Ajay Singh Saroy",
+    "code": "6007265",
+    "designation": "TGT/Master (Science)",
+    "appointment_type": "Regular"
+  }
+]

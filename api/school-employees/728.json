@@ -1,0 +1,26 @@
+[
+  {
+    "name": "SURENDER KUMAR",
+    "code": "096696",
+    "designation": "Principal",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "ABDUL",
+    "code": "1026218",
+    "designation": "PGT/Lecturer (History)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Vikram",
+    "code": "6003947",
+    "designation": "PGT/Lecturer (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Gulab Singh",
+    "code": "6008288",
+    "designation": "TGT(Physical Education)/Master (DPE)",
+    "appointment_type": "Regular"
+  }
+]

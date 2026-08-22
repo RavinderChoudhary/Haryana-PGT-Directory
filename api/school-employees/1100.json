@@ -1,0 +1,68 @@
+[
+  {
+    "name": "SANGEETA VERMA",
+    "code": "012117",
+    "designation": "Principal",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Avinash Kumar",
+    "code": "6002865",
+    "designation": "PGT/Lecturer (Physical Education)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Mukesh Kumar",
+    "code": "6001714",
+    "designation": "PGT/Lecturer (Sanskrit)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "MUKESH YADAV",
+    "code": "1007521",
+    "designation": "PGT/Lecturer (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "NEELAM YADAV",
+    "code": "083419",
+    "designation": "PGT/Lecturer (Hindi)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Neha",
+    "code": "6014594",
+    "designation": "PGT/Lecturer (Mathematics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Pooja",
+    "code": "6013562",
+    "designation": "PGT/Lecturer (History)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Shrikrashna Vats",
+    "code": "6014510",
+    "designation": "PGT/Lecturer (Political Science)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "ANITA SAINI",
+    "code": "5006797",
+    "designation": "TGT/Master (Science)",
+    "appointment_type": "Guest (Contractual)"
+  },
+  {
+    "name": "SEEMA RANI",
+    "code": "5014630",
+    "designation": "TGT/Master (Mathematics)",
+    "appointment_type": "Guest (Contractual)"
+  },
+  {
+    "name": "Vikas",
+    "code": "6005164",
+    "designation": "TGT/Master (English)",
+    "appointment_type": "Regular"
+  }
+]

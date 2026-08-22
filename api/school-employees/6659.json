@@ -1,0 +1,26 @@
+[
+  {
+    "name": "NARESH KUMAR",
+    "code": "213158",
+    "designation": "PGT/Lecturer (Computer Science)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "INDU BALA",
+    "code": "200591",
+    "designation": "PGT/Lecturer (Chemistry)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "KAMAL KUMAR",
+    "code": "204571",
+    "designation": "PGT/Lecturer (Punjabi)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "MANOJ KUMAR",
+    "code": "203674",
+    "designation": "PGT/Lecturer (Physics)",
+    "appointment_type": "Regular"
+  }
+]

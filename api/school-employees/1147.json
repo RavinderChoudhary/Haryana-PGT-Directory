@@ -1,0 +1,44 @@
+[
+  {
+    "name": "OMPAL SINGH",
+    "code": "015699",
+    "designation": "Principal",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "AMARPAL",
+    "code": "5004465",
+    "designation": "PGT/Lecturer (History)",
+    "appointment_type": "Guest (Contractual)"
+  },
+  {
+    "name": "JOGINDER PAL",
+    "code": "5004041",
+    "designation": "PGT/Lecturer (Hindi)",
+    "appointment_type": "Guest (Contractual)"
+  },
+  {
+    "name": "NAR SINGH",
+    "code": "210423",
+    "designation": "PGT/Lecturer (Sanskrit)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "NARENDER KUMAR",
+    "code": "5018080",
+    "designation": "PGT/Lecturer (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SAHAB SINGH",
+    "code": "091273",
+    "designation": "PGT/Lecturer (Mathematics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SURENDRA SINGH",
+    "code": "203849",
+    "designation": "PGT/Lecturer (Political Science)",
+    "appointment_type": "Regular"
+  }
+]

@@ -1,0 +1,116 @@
+[
+  {
+    "name": "ARUN KUMAR",
+    "code": "055702",
+    "designation": "Principal",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "PRITHVI RAJ",
+    "code": "011495",
+    "designation": "Principal",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SONA YADAV",
+    "code": "062231",
+    "designation": "Principal",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "TAKHT SINGH",
+    "code": "012306",
+    "designation": "Principal",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "NEHA SHARMA",
+    "code": "213102",
+    "designation": "PGT/Lecturer (Computer Science)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "ANIL KUMAR",
+    "code": "204124",
+    "designation": "PGT/Lecturer (Psychology)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "BALVINDER KAUR",
+    "code": "200692",
+    "designation": "PGT/Lecturer (Chemistry)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "BINDU",
+    "code": "070295",
+    "designation": "PGT/Lecturer (Hindi)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "INDUBALA",
+    "code": "208228",
+    "designation": "PGT/Lecturer (Hindi)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "KANIKA BHARDWAJ",
+    "code": "095505",
+    "designation": "PGT/Lecturer (History)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "MANOJ KUMAR SHARMA",
+    "code": "202756",
+    "designation": "PGT/Lecturer (Mathematics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "MONIKA YADAV",
+    "code": "202986",
+    "designation": "PGT/Lecturer (Mathematics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "MUKESH KUMAR",
+    "code": "089418",
+    "designation": "PGT/Lecturer (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "NITU SINGH",
+    "code": "210992",
+    "designation": "PGT/Lecturer (Home Science)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "OMBIR YADAV",
+    "code": "207430",
+    "designation": "PGT/Lecturer (Hindi)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "RAM KISHAN",
+    "code": "095412",
+    "designation": "PGT/Lecturer (History)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "RASHMI PANWAR",
+    "code": "209256",
+    "designation": "PGT/Lecturer (Biology)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SAVITA RANI",
+    "code": "206530",
+    "designation": "PGT/Lecturer (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "USHA RANI",
+    "code": "202338",
+    "designation": "PGT/Lecturer (Mathematics)",
+    "appointment_type": "Regular"
+  }
+]

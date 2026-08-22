@@ -1,0 +1,791 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Haryana PGT/Lecturer School Directory</title>
+  
+  <!-- Tailwind CSS CDN -->
+  <script src="https://cdn.tailwindcss.com"></script>
+  <!-- FontAwesome Icons -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+  
+  <style>
+    /* Custom scrollbar hiding for district tabs */
+    .no-scrollbar::-webkit-scrollbar {
+      display: none;
+    }
+    .no-scrollbar {
+      -ms-overflow-style: none;
+      scrollbar-width: none;
+    }
+
+    /* Fallback styles in case Tailwind CSS CDN doesn't load in offline environments */
+    .fallback-header {
+      background-color: #1e3a8a !important; /* dark blue */
+      color: white !important;
+    }
+    .fallback-badge-vacant {
+      background-color: #d1fae5 !important;
+      color: #065f46 !important;
+      border: 1px solid #10b981 !important;
+    }
+    .fallback-badge-filled {
+      background-color: #dbeafe !important;
+      color: #1e40af !important;
+      border: 1px solid #3b82f6 !important;
+    }
+
+    @media screen {
+      .print-only {
+        display: none !important;
+      }
+    }
+
+    @media print {
+      #main-app-container, footer {
+        display: none !important;
+      }
+      .print-only {
+        display: block !important;
+      }
+      body {
+        background-color: white !important;
+        color: black !important;
+      }
+    }
+  </style>
+</head>
+<body class="bg-gray-55 text-gray-800 font-sans min-h-screen flex flex-col">
+
+
+
+  <!-- Friendly No-Script / In-app webview Warning -->
+  <noscript>
+    <div class="max-w-xl mx-auto my-12 p-8 bg-amber-50 border border-amber-200 rounded-2xl shadow-md text-center space-y-4">
+      <div class="text-4xl text-amber-500"><i class="fa-solid fa-triangle-exclamation"></i></div>
+      <h2 class="text-xl font-bold text-gray-900">JavaScript is Disabled / Restricted</h2>
+      <p class="text-gray-600 text-sm">
+        This interactive school directory requires JavaScript to work. If you are opening this file directly from an email client or chat application (such as WhatsApp, WeChat, or Mail), the application's built-in previewer has likely disabled JavaScript.
+      </p>
+      <div class="bg-white p-4 rounded-xl border border-amber-100 text-left text-xs space-y-2">
+        <p class="font-bold text-gray-800">To open this file on your mobile device:</p>
+        <ol class="list-decimal pl-4 space-y-1 text-gray-600">
+          <li>Tap the **Share/Export** button inside your app.</li>
+          <li>Choose **Save to Files** or **Download** to save it locally.</li>
+          <li>Open your phone's **Files** or **Downloads** app.</li>
+          <li>Tap the file and select **Open with Safari / Chrome / Edge**.</li>
+        </ol>
+      </div>
+    </div>
+  </noscript>
+
+  <div id="main-app-container" class="flex-grow flex flex-col">
+    <!-- Header -->
+    <header class="bg-indigo-900 text-white shadow-md fallback-header">
+    <div class="max-w-7xl mx-auto px-4 py-6 sm:px-6 lg:px-8 flex flex-col sm:flex-row justify-between items-center space-y-4 sm:space-y-0">
+      <div class="flex items-center space-x-4">
+        <div class="bg-white p-2 rounded-full shadow-inner text-indigo-900">
+          <i class="fa-solid fa-school text-2xl sm:text-3xl"></i>
+        </div>
+        <div>
+          <h1 class="text-xl sm:text-2xl font-bold tracking-tight">Haryana PGT/Lecturer School Directory</h1>
+          <p class="text-indigo-200 text-xs sm:text-sm font-medium">Department of School Education, Haryana (MIS Portal)</p>
+        </div>
+      </div>
+      <div class="flex items-center space-x-3">
+        <!-- Mode Badge -->
+        <span id="mode-badge" class="px-3 py-1 rounded-full text-xs font-semibold bg-emerald-600 text-white shadow-sm flex items-center space-x-1.5">
+          <i class="fa-solid fa-cloud animate-pulse"></i>
+          <span>Static Site</span>
+        </span>
+        <!-- Info & Resources Link -->
+        <a href="share.html" class="p-2.5 bg-emerald-600 hover:bg-emerald-700 text-white rounded-lg transition shadow-sm text-xs font-semibold flex items-center space-x-1.5">
+          <i class="fa-solid fa-book-open"></i>
+          <span>📚 Info & Resources</span>
+        </a>
+      </div>
+    </div>
+  </header>
+
+  <!-- Main Container -->
+  <main class="flex-grow max-w-7xl w-full mx-auto px-4 py-8 sm:px-6 lg:px-8 space-y-6">
+
+
+
+    <!-- Stats Dashboard Section -->
+    <section class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4">
+      <!-- Districts Card -->
+      <div class="bg-white rounded-xl shadow-sm border border-gray-100 p-5 flex items-center justify-between transition hover:shadow-md">
+        <div class="space-y-1">
+          <span class="text-2xs font-bold text-gray-400 uppercase tracking-wider">Districts</span>
+          <h2 id="stat-districts" class="text-2xl font-extrabold text-indigo-900">0</h2>
+        </div>
+        <div class="bg-indigo-50 p-3 rounded-lg text-indigo-600">
+          <i class="fa-solid fa-map-location-dot text-lg"></i>
+        </div>
+      </div>
+      <!-- Schools Card -->
+      <div class="bg-white rounded-xl shadow-sm border border-gray-100 p-5 flex items-center justify-between transition hover:shadow-md">
+        <div class="space-y-1">
+          <span class="text-2xs font-bold text-gray-400 uppercase tracking-wider font-semibold">Total Schools</span>
+          <h2 id="stat-schools" class="text-2xl font-extrabold text-indigo-900">0</h2>
+        </div>
+        <div class="bg-indigo-50 p-3 rounded-lg text-indigo-600">
+          <i class="fa-solid fa-school-flag text-lg"></i>
+        </div>
+      </div>
+      <!-- CS Vacant Card -->
+      <div class="bg-white rounded-xl shadow-sm border border-gray-100 p-5 flex items-center justify-between transition hover:shadow-md">
+        <div class="space-y-1">
+          <span class="text-2xs font-bold text-emerald-600 uppercase tracking-wider font-semibold">Vacant (CS)</span>
+          <h2 id="stat-vacant" class="text-2xl font-extrabold text-emerald-600">0</h2>
+        </div>
+        <div class="bg-emerald-50 p-3 rounded-lg text-emerald-600">
+          <i class="fa-solid fa-circle-plus text-lg"></i>
+        </div>
+      </div>
+      <!-- CS Filled Card -->
+      <div class="bg-white rounded-xl shadow-sm border border-gray-100 p-5 flex items-center justify-between transition hover:shadow-md">
+        <div class="space-y-1">
+          <span class="text-2xs font-bold text-blue-600 uppercase tracking-wider font-semibold">Filled (CS)</span>
+          <h2 id="stat-filled" class="text-2xl font-extrabold text-blue-900">0</h2>
+        </div>
+        <div class="bg-blue-50 p-3 rounded-lg text-blue-600">
+          <i class="fa-solid fa-circle-check text-lg"></i>
+        </div>
+      </div>
+    </section>
+
+    <!-- Toolbar: Search & Action Buttons -->
+    <section class="bg-white rounded-xl shadow-sm border border-gray-100 p-5 flex flex-col md:flex-row justify-between items-center gap-4">
+      <!-- Search Input -->
+      <div class="relative w-full md:max-w-md">
+        <span class="absolute inset-y-0 left-0 pl-3 flex items-center text-gray-400">
+          <i class="fa-solid fa-magnifying-glass"></i>
+        </span>
+        <input 
+          type="text" 
+          id="search-input" 
+          placeholder="Search school name, code, or district..." 
+          oninput="handleSearch()"
+          class="w-full pl-10 pr-4 py-2.5 border border-gray-200 rounded-lg text-sm bg-gray-50 focus:outline-none focus:ring-2 focus:ring-indigo-500 focus:border-indigo-500 transition shadow-inner"
+        >
+      </div>
+
+      <!-- Action Buttons -->
+      <div class="flex items-center space-x-3 w-full md:w-auto justify-end">
+        <button 
+          onclick="exportCSV()" 
+          class="flex-1 sm:flex-initial px-4 py-2.5 bg-emerald-600 hover:bg-emerald-700 text-white text-sm font-semibold rounded-lg shadow-sm transition flex items-center justify-center space-x-2"
+        >
+          <i class="fa-solid fa-file-csv"></i>
+          <span>Export CSV</span>
+        </button>
+        <button 
+          onclick="printSchoolList()" 
+          class="flex-1 sm:flex-initial px-4 py-2.5 bg-red-600 hover:bg-red-700 text-white text-sm font-semibold rounded-lg shadow-sm transition flex items-center justify-center space-x-2"
+        >
+          <i class="fa-solid fa-file-pdf"></i>
+          <span>Download PDF</span>
+        </button>
+      </div>
+    </section>
+
+    <!-- Content Card -->
+    <section class="bg-white rounded-2xl shadow-sm border border-gray-100 overflow-hidden">
+      <!-- Scrollable Tabs Wrapper -->
+      <div class="bg-gray-50 border-b border-gray-100 px-4 py-2">
+        <div class="flex items-center justify-between">
+          <button onclick="scrollTabs(-200)" class="p-1 hover:bg-gray-200 rounded text-gray-500 hidden sm:block">
+            <i class="fa-solid fa-chevron-left"></i>
+          </button>
+          <!-- Tabs container -->
+          <div 
+            id="district-tabs-container" 
+            class="flex space-x-2 overflow-x-auto no-scrollbar py-2 px-1 scroll-smooth w-full select-none"
+          >
+            <!-- Generated dynamically -->
+          </div>
+          <button onclick="scrollTabs(200)" class="p-1 hover:bg-gray-200 rounded text-gray-500 hidden sm:block">
+            <i class="fa-solid fa-chevron-right"></i>
+          </button>
+        </div>
+      </div>
+
+      <!-- Loading State -->
+      <div id="loading-container" class="flex flex-col items-center justify-center py-20 space-y-4">
+        <div class="relative flex items-center justify-center">
+          <div class="animate-spin rounded-full h-12 w-12 border-4 border-indigo-200 border-t-indigo-600"></div>
+        </div>
+        <p class="text-sm font-semibold text-gray-500">Fetching Haryana PGT/Lecturer data...</p>
+      </div>
+
+      <!-- Error State -->
+      <div id="error-container" class="hidden flex-col items-center justify-center py-20 px-4 text-center max-w-md mx-auto space-y-4">
+        <div class="h-16 w-16 bg-red-50 text-red-500 rounded-full flex items-center justify-center text-2xl shadow-inner">
+          <i class="fa-solid fa-triangle-exclamation"></i>
+        </div>
+        <h3 class="text-lg font-bold text-gray-900">Fetch Failed</h3>
+        <p id="error-message" class="text-sm text-gray-500"></p>
+        <button onclick="loadData(true)" class="px-4 py-2 bg-indigo-600 hover:bg-indigo-700 text-white rounded-lg text-sm font-semibold transition">
+          Try Again
+        </button>
+      </div>
+
+      <!-- Directory View -->
+      <div id="directory-view" class="hidden p-6 space-y-6">
+        <!-- Selected Tab Title + District Stats -->
+        <div class="flex flex-col sm:flex-row justify-between items-start sm:items-center border-b border-gray-100 pb-3 gap-2">
+          <h3 id="current-district-title" class="text-lg font-bold text-gray-900 tracking-tight uppercase">District</h3>
+          
+          <div class="flex items-center space-x-2 text-xs font-bold">
+            <span id="school-count-badge" class="px-2.5 py-1 bg-indigo-50 text-indigo-700 rounded-full">0 Schools</span>
+            <span id="district-vacant-badge" class="px-2.5 py-1 bg-emerald-50 text-emerald-700 rounded-full border border-emerald-100">Vacant (CS): 0</span>
+            <span id="district-filled-badge" class="px-2.5 py-1 bg-blue-50 text-blue-700 rounded-full border border-blue-100">Filled (CS): 0</span>
+          </div>
+        </div>
+
+        <!-- Schools list -->
+        <ol id="schools-list" class="divide-y divide-gray-100">
+          <!-- Generated dynamically -->
+        </ol>
+
+        <!-- Search Empty State -->
+        <div id="search-empty-state" class="hidden flex-col items-center justify-center py-16 text-center space-y-3">
+          <div class="h-12 w-12 bg-gray-50 text-gray-400 rounded-full flex items-center justify-center text-xl shadow-inner">
+            <i class="fa-solid fa-folder-open"></i>
+          </div>
+          <h4 class="text-sm font-bold text-gray-900">No schools found</h4>
+          <p class="text-xs text-gray-400 max-w-xs">No matching school name or code matches your search query in this view.</p>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <!-- Footer -->
+  <footer class="bg-gray-100 border-t border-gray-200 mt-12 py-6 text-center text-xs text-gray-500">
+    <div class="max-w-7xl mx-auto px-4 space-y-2">
+      <p>Data sourced directly from official Department of School Education, Haryana MIS Portal.</p>
+      <p>&copy; 2026 Government School Directory. Built for educational reference.</p>
+      <p id="cache-stamp" class="text-gray-400 font-medium"></p>
+    </div>
+  </footer>
+  </div> <!-- End of #main-app-container -->
+
+  <!-- Print Area (Only visible when printing) -->
+  <div id="print-area" class="print-only"></div>
+
+  <!-- Core Javascript Logic -->
+  <script>
+    let rawData = null; // Unfiltered cached structure
+    let currentDistrict = ""; // Selected district tab
+    let searchQuery = ""; // Filter query
+
+    // Initialize application on load
+    window.addEventListener('DOMContentLoaded', () => {
+      loadData(false);
+    });
+
+    // Fetch data from Server Proxy API
+    async function loadData(force = false) {
+      showLoading(true);
+      showError(false);
+      
+      const url = `/api/live-data${force ? '?force=true' : ''}`;
+      
+      try {
+        const response = await fetch(url);
+        if (!response.ok) {
+          const errData = await response.json();
+          throw new Error(errData.error || "Unable to fetch data from Haryana Education MIS.");
+        }
+        
+        rawData = await response.json();
+        renderApp();
+      } catch (err) {
+        console.error(err);
+        showLoading(false);
+        document.getElementById('error-message').textContent = err.message || "Unable to fetch data from Haryana Education MIS. Please check your internet connection or try again later.";
+        showError(true);
+      }
+    }
+
+    // Scroll tabs container left/right
+    function scrollTabs(offset) {
+      document.getElementById('district-tabs-container').scrollLeft += offset;
+    }
+
+    // Toggles view containers
+    function showLoading(show) {
+      document.getElementById('loading-container').style.display = show ? 'flex' : 'none';
+    }
+
+    function showError(show) {
+      document.getElementById('error-container').style.display = show ? 'flex' : 'none';
+    }
+
+    // Render stats, tabs, and load initial district
+    function renderApp() {
+      showLoading(false);
+      document.getElementById('directory-view').classList.remove('hidden');
+
+      // Calculate Global stats ignoring "None" district
+      let globalVacant = 0;
+      let globalFilled = 0;
+      let globalSchools = 0;
+      let globalEmployees = 0;
+      
+      const districtNames = Object.keys(rawData.districts).filter(dist => dist.toLowerCase() !== 'none' && dist.trim() !== '');
+      
+      districtNames.forEach(dist => {
+        const schoolList = rawData.districts[dist] || [];
+        globalSchools += schoolList.length;
+        schoolList.forEach(school => {
+          const hasCS = school.subjects.includes("Computer Science");
+          if (hasCS) {
+            globalFilled++;
+          } else {
+            globalVacant++;
+          }
+          if (school.employees) {
+            school.employees.forEach(emp => {
+              if (emp.designation.toLowerCase().includes("pgt/lecturer")) {
+                globalEmployees++;
+              }
+            });
+          }
+        });
+      });
+
+      // Set global stats in dashboard
+      document.getElementById('stat-districts').textContent = Number(districtNames.length).toLocaleString('en-IN');
+      document.getElementById('stat-schools').textContent = Number(globalSchools).toLocaleString('en-IN');
+      document.getElementById('stat-vacant').textContent = Number(globalVacant).toLocaleString('en-IN');
+      document.getElementById('stat-filled').textContent = Number(globalFilled).toLocaleString('en-IN');
+
+      if (rawData.lastUpdated) {
+        const dateStr = new Date(rawData.lastUpdated).toLocaleString('en-IN', { timeZone: 'Asia/Kolkata' });
+        document.getElementById('cache-stamp').textContent = `Database Last Synced: ${dateStr} IST`;
+      }
+
+      // Generate District Tabs
+      const tabsContainer = document.getElementById('district-tabs-container');
+      tabsContainer.innerHTML = '';
+
+      if (districtNames.length > 0) {
+        // Initialize default district if none selected
+        if (!currentDistrict || !districtNames.includes(currentDistrict)) {
+          currentDistrict = districtNames[0];
+        }
+
+        districtNames.forEach(dist => {
+          const schoolCount = rawData.districts[dist].length;
+          
+          const tabBtn = document.createElement('button');
+          tabBtn.id = `tab-${dist.replace(/\s+/g, '-')}`;
+          tabBtn.className = `flex-shrink-0 px-4 py-2 text-sm font-semibold rounded-lg transition duration-200 flex items-center space-x-1.5 focus:outline-none ${
+            dist === currentDistrict 
+              ? 'bg-indigo-900 text-white shadow-sm' 
+              : 'bg-white text-gray-600 hover:bg-gray-100 hover:text-gray-900 shadow-sm border border-gray-200'
+          }`;
+          
+          tabBtn.onclick = () => selectDistrict(dist);
+          
+          tabBtn.innerHTML = `
+            <span>${dist}</span>
+            <span class="px-1.5 py-0.5 rounded-full text-2xs ${
+              dist === currentDistrict ? 'bg-indigo-800 text-indigo-200' : 'bg-gray-100 text-gray-500'
+            }">${schoolCount}</span>
+          `;
+          
+          tabsContainer.appendChild(tabBtn);
+        });
+
+        // Trigger school rendering
+        renderSchools();
+      }
+    }
+
+    // Handles tab click
+    function selectDistrict(district) {
+      if (currentDistrict === district && searchQuery === "") return;
+      
+      // Update UI tabs
+      const oldTab = document.getElementById(`tab-${currentDistrict.replace(/\s+/g, '-')}`);
+      if (oldTab) {
+        oldTab.className = "flex-shrink-0 px-4 py-2 text-sm font-semibold rounded-lg bg-white text-gray-600 hover:bg-gray-100 hover:text-gray-900 shadow-sm border border-gray-200 transition duration-200 flex items-center space-x-1.5 focus:outline-none";
+        const badge = oldTab.querySelector('span:nth-child(2)');
+        if (badge) badge.className = "px-1.5 py-0.5 rounded-full text-2xs bg-gray-100 text-gray-500";
+      }
+
+      currentDistrict = district;
+
+      const newTab = document.getElementById(`tab-${district.replace(/\s+/g, '-')}`);
+      if (newTab) {
+        newTab.className = "flex-shrink-0 px-4 py-2 text-sm font-semibold rounded-lg bg-indigo-900 text-white shadow-sm transition duration-200 flex items-center space-x-1.5 focus:outline-none";
+        const badge = newTab.querySelector('span:nth-child(2)');
+        if (badge) badge.className = "px-1.5 py-0.5 rounded-full text-2xs bg-indigo-800 text-indigo-200";
+      }
+
+      renderSchools();
+    }
+
+    // Renders the schools for current district, applying search query if present
+    function renderSchools() {
+      const listContainer = document.getElementById('schools-list');
+      const emptyState = document.getElementById('search-empty-state');
+      
+      listContainer.innerHTML = '';
+      emptyState.classList.add('hidden');
+
+      // Set titles
+      document.getElementById('current-district-title').textContent = currentDistrict;
+
+      const schools = rawData.districts[currentDistrict] || [];
+      const query = searchQuery.trim().toLowerCase();
+
+      // Filter schools based on global search
+      const filteredSchools = schools.filter(school => {
+        if (!query) return true;
+        
+        const nameMatch = school.school_name.toLowerCase().includes(query);
+        const codeMatch = school.school_code.toLowerCase().includes(query);
+        const distMatch = school.district.toLowerCase().includes(query);
+        
+        return nameMatch || codeMatch || distMatch;
+      });
+
+      // Calculate District CS Vacancy counts
+      let distVacant = 0;
+      let distFilled = 0;
+      filteredSchools.forEach(school => {
+        if (school.subjects.includes("Computer Science")) {
+          distFilled++;
+        } else {
+          distVacant++;
+        }
+      });
+
+      // Update school and CS vacancy counts
+      document.getElementById('school-count-badge').textContent = `${filteredSchools.length} of ${schools.length} Schools`;
+      document.getElementById('district-vacant-badge').textContent = `Vacant (CS): ${distVacant}`;
+      document.getElementById('district-filled-badge').textContent = `Filled (CS): ${distFilled}`;
+
+      if (filteredSchools.length === 0) {
+        emptyState.classList.remove('hidden');
+        return;
+      }
+
+      filteredSchools.forEach((school, index) => {
+        const li = document.createElement('li');
+        li.className = "py-4 flex flex-col space-y-2";
+
+        const hasCS = school.subjects.includes("Computer Science");
+        
+        // Slightly smaller status badges
+        const statusBadge = hasCS 
+          ? `<span class="ml-2 px-1.5 py-0.5 text-4xs font-bold rounded bg-blue-50 text-blue-700 border border-blue-100 uppercase tracking-wide fallback-badge-filled" style="font-size: 0.65rem; padding: 0.05rem 0.25rem; line-height: 1;">Filled</span>`
+          : `<span class="ml-2 px-1.5 py-0.5 text-4xs font-bold rounded bg-emerald-50 text-emerald-700 border border-emerald-100 uppercase tracking-wide fallback-badge-vacant" style="font-size: 0.65rem; padding: 0.05rem 0.25rem; line-height: 1;">Vacant</span>`;
+
+        const schoolDispName = school.school_code 
+          ? `${school.school_name} <span class="text-gray-400 font-normal">(${school.school_code})</span>` 
+          : school.school_name;
+
+        li.innerHTML = `
+          <div class="flex items-center justify-between cursor-pointer group" onclick="toggleDetails('${school.school_code}', '${school.school_name.replace(/'/g, "\\'")}', ${index})">
+            <div class="flex items-center space-x-3 pr-2">
+              <span class="text-sm font-bold text-gray-400 w-6">${index + 1}.</span>
+              <div class="flex flex-wrap items-center">
+                <span class="font-bold text-gray-900 group-hover:text-indigo-600 transition text-sm sm:text-base">${schoolDispName}</span>
+                ${statusBadge}
+              </div>
+            </div>
+            <div class="text-gray-400 group-hover:text-indigo-600 transition pr-2 flex-shrink-0">
+              <i id="chevron-${index}" class="fa-solid fa-chevron-down text-xs transform transition duration-200"></i>
+            </div>
+          </div>
+          <!-- Subjects detail dropdown -->
+          <div id="details-${index}" class="hidden pl-9 py-3 space-y-4 border-l-2 border-indigo-50 mt-1 animate-fadeIn">
+            <!-- All Posted Employees section -->
+            <div class="space-y-2">
+              <span class="text-xs font-semibold text-gray-400 uppercase tracking-wider">All Posted Employees (<span id="emp-count-${index}">...</span>):</span>
+              <div id="emp-list-${index}" class="grid grid-cols-1 md:grid-cols-2 gap-3 max-h-96 overflow-y-auto no-scrollbar pr-1">
+                <!-- Spinner initially -->
+                <div class="col-span-full flex justify-center py-4">
+                  <div class="animate-spin rounded-full h-6 w-6 border-2 border-indigo-200 border-t-indigo-600"></div>
+                </div>
+              </div>
+            </div>
+          </div>
+        `;
+        listContainer.appendChild(li);
+      });
+    }
+
+    // Shared Designation hierarchy rank helper
+    function getDesignationRank(designation) {
+      const desc = String(designation || "").trim().toLowerCase();
+      if (desc === 'principal') return 1;
+      if (desc === 'head master high school') return 2;
+      if (desc === 'head master elementary school') return 3;
+      if (desc === 'head teacher') return 4;
+      if (desc === 'pgt/lecturer (computer science)') return 5;
+      if (desc.startsWith('pgt/lecturer')) return 6;
+      if (desc.startsWith('tgt')) return 7;
+      if (desc.startsWith('prt/jbt')) return 8;
+      if (desc.startsWith('classical & vernacular teacher')) return 9;
+      if (desc === 'tabla player') return 10;
+      return 11;
+    }
+
+    // Render loaded employees list dynamically in the expanded school card
+    function renderSchoolEmployees(school, index) {
+      const listContainer = document.getElementById(`emp-list-${index}`);
+      const countBadge = document.getElementById(`emp-count-${index}`);
+      if (!listContainer || !countBadge) return;
+      
+      const emps = school.employees || [];
+      countBadge.textContent = emps.length;
+      
+      if (emps.length === 0) {
+        listContainer.innerHTML = `<div class="col-span-full text-xs text-gray-400 italic py-2">No employee details available.</div>`;
+        return;
+      }
+
+      // Sort
+      const sortedEmps = [...emps].sort((a, b) => {
+        const rankA = getDesignationRank(a.designation);
+        const rankB = getDesignationRank(b.designation);
+        if (rankA !== rankB) return rankA - rankB;
+        return a.name.localeCompare(b.name);
+      });
+
+      listContainer.innerHTML = sortedEmps.map(emp => `
+        <div class="bg-gray-55 border border-gray-100 rounded-lg p-3 flex flex-col sm:flex-row sm:items-center sm:justify-between gap-2 shadow-2xs">
+          <div class="space-y-1">
+            <div class="font-bold text-gray-800 text-xs sm:text-sm">
+              ${emp.name} <span class="text-indigo-600 font-semibold">[${emp.code}]</span>
+            </div>
+            <div class="text-xs text-gray-500 font-medium flex items-center">
+              <i class="fa-solid fa-circle-user text-gray-400 mr-1.5 text-2xs"></i>
+              <span>${emp.designation}</span>
+            </div>
+          </div>
+          <div class="flex-shrink-0 self-start sm:self-center">
+            <span class="px-2 py-0.5 text-3xs sm:text-2xs font-extrabold rounded bg-indigo-50 text-indigo-700 border border-indigo-100 tracking-wide uppercase">${emp.appointment_type}</span>
+          </div>
+        </div>
+      `).join('');
+    }
+
+    // Toggle dropdown details for school and lazy load employees
+    async function toggleDetails(schoolCode, schoolName, index) {
+      const details = document.getElementById(`details-${index}`);
+      const chevron = document.getElementById(`chevron-${index}`);
+      
+      if (details.classList.contains('hidden')) {
+        details.classList.remove('hidden');
+        chevron.classList.add('rotate-180');
+
+        // Check if employees are already fetched
+        const schools = rawData.districts[currentDistrict] || [];
+        const school = schools.find(s => s.school_code === schoolCode || s.school_name === schoolName);
+        
+        if (school) {
+          if (!school.employees || school.employees.length === 0) {
+            try {
+              const encCode = encodeURIComponent(schoolCode || "");
+              const encName = encodeURIComponent(schoolName || "");
+              const encDist = encodeURIComponent(currentDistrict || "");
+              
+              const res = await fetch(`api/school-employees/${schoolCode}.json`);
+              if (!res.ok) throw new Error("Failed to load employees.");
+              
+              const emps = await res.json();
+              school.employees = emps;
+            } catch (err) {
+              console.error(err);
+              const listContainer = document.getElementById(`emp-list-${index}`);
+              if (listContainer) {
+                listContainer.innerHTML = `<div class="col-span-full text-xs text-red-500 italic py-2">Failed to load employee list. Please close and try again.</div>`;
+              }
+              return;
+            }
+          }
+          renderSchoolEmployees(school, index);
+        }
+      } else {
+        details.classList.add('hidden');
+        chevron.classList.remove('rotate-180');
+      }
+    }
+
+    // Global Search Handler
+    function handleSearch() {
+      searchQuery = document.getElementById('search-input').value;
+      
+      // If we find a search query, check if it matches another district
+      // If the query matches a district name exactly or contains it, let's auto-switch tabs
+      const queryLower = searchQuery.trim().toLowerCase();
+      if (queryLower) {
+        const districtNames = Object.keys(rawData.districts);
+        const matchedDist = districtNames.find(dist => dist.toLowerCase() === queryLower);
+        if (matchedDist && matchedDist !== currentDistrict) {
+          selectDistrict(matchedDist);
+          return;
+        }
+      }
+
+      renderSchools();
+    }
+
+    // Exports the directory/filtered view to CSV
+    function exportCSV() {
+      if (!rawData) return;
+      
+      const csvRows = [];
+      // CSV Headers (Includes CS Status)
+      csvRows.push(['District/Current Unit', 'School Name', 'School Code', 'Computer Science Status', 'PGT Lecturer Subjects']);
+
+      // Export all schools across all districts
+      const districts = Object.keys(rawData.districts);
+      
+      districts.forEach(dist => {
+        const schools = rawData.districts[dist];
+        schools.forEach(school => {
+          const hasCS = school.subjects.includes("Computer Science");
+          const csStatus = hasCS ? "Filled" : "Vacant";
+
+          // Escape quotes in values
+          const escapedDist = `"${dist.replace(/"/g, '""')}"`;
+          const escapedName = `"${school.school_name.replace(/"/g, '""')}"`;
+          const escapedCode = `"${school.school_code.replace(/"/g, '""')}"`;
+          const escapedCS = `"${csStatus}"`;
+          const escapedSubjects = `"${school.subjects.join(', ').replace(/"/g, '""')}"`;
+          
+          csvRows.push([escapedDist, escapedName, escapedCode, escapedCS, escapedSubjects]);
+        });
+      });
+
+      const csvContent = csvRows.map(row => row.join(',')).join('\n');
+      const blob = new Blob([csvContent], { type: 'text/csv;charset=utf-8;' });
+      const url = URL.createObjectURL(blob);
+      const a = document.createElement('a');
+      a.href = url;
+      a.download = 'Haryana_PGT_Schools_Directory.csv';
+      document.body.appendChild(a);
+      a.click();
+      document.body.removeChild(a);
+      URL.revokeObjectURL(url);
+      
+      console.log("CSV directory exported successfully");
+    }
+
+    // Prints the school list of all districts grouped district-wise (no employee details)
+    function printSchoolList() {
+      if (!rawData) return;
+      
+      const printArea = document.getElementById('print-area');
+      const districts = Object.keys(rawData.districts).filter(dist => dist.toLowerCase() !== 'none' && dist.trim() !== '');
+      const query = searchQuery.trim().toLowerCase();
+      
+      let html = `
+        <div style="font-family: Arial, sans-serif; padding: 10px; color: #333;">
+          <div style="text-align: center; margin-bottom: 30px; border-bottom: 3px solid #4f46e5; padding-bottom: 20px;">
+            <h1 style="margin: 0; color: #1e1b4b; font-size: 22pt;">Haryana PGT/Lecturer School Directory</h1>
+            <h2 style="margin: 5px 0 0 0; color: #4f46e5; font-size: 13pt; text-transform: uppercase; letter-spacing: 1px;">Complete District-Wise Directory</h2>
+            <div style="margin-top: 8px; font-size: 8.5pt; color: #64748b; font-weight: bold;">
+              Generated: ${new Date().toLocaleDateString('en-IN', {day: 'numeric', month: 'short', year: 'numeric'})}
+              ${query ? ` | Filter: "${searchQuery}"` : ''}
+            </div>
+          </div>
+      `;
+      
+      let renderedDistrictsCount = 0;
+      let totalPrintedSchools = 0;
+      
+      districts.forEach((dist) => {
+        const schools = rawData.districts[dist] || [];
+        
+        // Filter based on search query
+        const filteredSchools = schools.filter(school => {
+          if (!query) return true;
+          return school.school_name.toLowerCase().includes(query) ||
+                 school.school_code.toLowerCase().includes(query) ||
+                 school.district.toLowerCase().includes(query);
+        });
+        
+        if (filteredSchools.length === 0) return;
+        
+        renderedDistrictsCount++;
+        totalPrintedSchools += filteredSchools.length;
+        
+        html += `
+          <div style="margin-bottom: 40px; ${renderedDistrictsCount > 1 ? 'page-break-before: always; break-before: page;' : ''}">
+            <div style="background-color: #1e1b4b; color: white; padding: 8px 15px; border-radius: 6px; margin-bottom: 15px; display: flex; justify-content: space-between; align-items: center; -webkit-print-color-adjust: exact; print-color-adjust: exact;">
+              <h3 style="margin: 0; font-size: 12pt; text-transform: uppercase; font-weight: bold; letter-spacing: 0.5px;">District: ${dist}</h3>
+              <span style="font-size: 9.5pt; font-weight: bold; background-color: rgba(255,255,255,0.2); padding: 2px 8px; border-radius: 9999px;">${filteredSchools.length} Schools</span>
+            </div>
+            
+            <table style="width: 100%; border-collapse: collapse; font-size: 9.5pt;">
+              <thead>
+                <tr style="background-color: #f8fafc; border-bottom: 2px solid #cbd5e1; text-align: left; -webkit-print-color-adjust: exact; print-color-adjust: exact;">
+                  <th style="padding: 8px; width: 6%; border: 1px solid #cbd5e1; text-align: center;">#</th>
+                  <th style="padding: 8px; width: 64%; border: 1px solid #cbd5e1;">School Name</th>
+                  <th style="padding: 8px; width: 15%; border: 1px solid #cbd5e1;">School Code</th>
+                  <th style="padding: 8px; width: 15%; border: 1px solid #cbd5e1; text-align: center;">CS Status</th>
+                </tr>
+              </thead>
+              <tbody>
+        `;
+        
+        filteredSchools.forEach((school, index) => {
+          const hasCS = school.subjects.includes("Computer Science");
+          const statusText = hasCS ? "Filled" : "Vacant";
+          const statusColor = hasCS ? "#1e40af" : "#065f46";
+          const statusBg = hasCS ? "#eff6ff" : "#ecfdf5";
+          
+          html += `
+            <tr style="border-bottom: 1px solid #e2e8f0; page-break-inside: avoid; break-inside: avoid;">
+              <td style="padding: 7px 8px; border: 1px solid #e2e8f0; font-weight: bold; color: #64748b; text-align: center;">${index + 1}</td>
+              <td style="padding: 7px 8px; border: 1px solid #e2e8f0; font-weight: bold; color: #0f172a;">${school.school_name}</td>
+              <td style="padding: 7px 8px; border: 1px solid #e2e8f0; color: #334155;">${school.school_code || '--'}</td>
+              <td style="padding: 7px 8px; border: 1px solid #e2e8f0; text-align: center;">
+                <span style="display: inline-block; padding: 2px 6px; font-size: 7.5pt; font-weight: 800; border-radius: 4px; color: ${statusColor}; background-color: ${statusBg}; border: 1px solid ${hasCS ? '#bfdbfe' : '#a7f3d0'}; text-transform: uppercase; tracking-wider; -webkit-print-color-adjust: exact; print-color-adjust: exact;">
+                  ${statusText}
+                </span>
+              </td>
+            </tr>
+          `;
+        });
+        
+        html += `
+              </tbody>
+            </table>
+          </div>
+        `;
+      });
+      
+      if (renderedDistrictsCount === 0) {
+        html += `
+          <div style="text-align: center; padding: 50px; color: #64748b; font-style: italic;">
+            No schools match the filter: "${searchQuery}"
+          </div>
+        `;
+      }
+      
+      html += `
+          <div style="margin-top: 30px; border-top: 1px solid #cbd5e1; padding-top: 12px; font-size: 8pt; color: #94a3b8; text-align: center; page-break-after: avoid; break-after: avoid;">
+            Total Districts Printed: ${renderedDistrictsCount} | Total Schools Printed: ${totalPrintedSchools}<br>
+            Department of School Education, Haryana MIS Portal Directory. Generated offline.
+          </div>
+        </div>
+      `;
+      
+      printArea.innerHTML = html;
+      window.print();
+    }
+  </script>
+</body>
+</html>

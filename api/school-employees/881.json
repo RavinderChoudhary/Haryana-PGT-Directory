@@ -1,0 +1,26 @@
+[
+  {
+    "name": "RAJESH",
+    "code": "096876",
+    "designation": "Principal",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Kapil Sharma",
+    "code": "6003703",
+    "designation": "PGT/Lecturer (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "MUBEEN",
+    "code": "1026782",
+    "designation": "PGT/Lecturer (History)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "NEELAM YADAV",
+    "code": "5025283",
+    "designation": "TGT/Master (English)",
+    "appointment_type": "Regular"
+  }
+]

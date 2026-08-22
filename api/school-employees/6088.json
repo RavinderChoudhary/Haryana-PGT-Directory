@@ -1,0 +1,32 @@
+[
+  {
+    "name": "JITENDRA",
+    "code": "5004665",
+    "designation": "PGT/Lecturer (History)",
+    "appointment_type": "Guest (Contractual)"
+  },
+  {
+    "name": "Mohd. Yusuf Khan",
+    "code": "6003159",
+    "designation": "PGT/Lecturer (Political Science)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "PUSPENDER",
+    "code": "212036",
+    "designation": "PGT/Lecturer (Chemistry)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Akil Ahmed",
+    "code": "6004436",
+    "designation": "TGT/Master (Mathematics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "MOHMMED JAVED",
+    "code": "1027958",
+    "designation": "TGT/Master (Hindi)",
+    "appointment_type": "Regular"
+  }
+]

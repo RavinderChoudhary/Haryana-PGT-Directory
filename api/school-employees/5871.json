@@ -1,0 +1,56 @@
+[
+  {
+    "name": "DEV SHARMA",
+    "code": "096833",
+    "designation": "Principal",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "MOHD IKBAL",
+    "code": "1026685",
+    "designation": "PGT/Lecturer (History)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SUDHIR KUMAR",
+    "code": "095855",
+    "designation": "PGT/Lecturer (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Ashish Kumar",
+    "code": "6006187",
+    "designation": "TGT/Master (Science)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "MUBARIK",
+    "code": "1027412",
+    "designation": "TGT/Master (Hindi)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Naveen",
+    "code": "6009183",
+    "designation": "TGT(Physical Education)/Master (DPE)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SALAUDDIN",
+    "code": "1026701",
+    "designation": "TGT/Master (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Sunny",
+    "code": "6006015",
+    "designation": "TGT/Master (Mathematics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Vakil Ahmad",
+    "code": "6008229",
+    "designation": "TGT/Master (Urdu)",
+    "appointment_type": "Regular"
+  }
+]

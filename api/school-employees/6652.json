@@ -1,0 +1,20 @@
+[
+  {
+    "name": "AMIT",
+    "code": "5021520",
+    "designation": "PGT/Lecturer (Computer Science)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "KRISHAN KUMAR",
+    "code": "201604",
+    "designation": "PGT/Lecturer (Geography)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "VINOD KUMAR",
+    "code": "080039",
+    "designation": "PGT/Lecturer (Biology)",
+    "appointment_type": "Regular"
+  }
+]

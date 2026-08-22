@@ -1,0 +1,104 @@
+[
+  {
+    "name": "OM SINGH",
+    "code": "042111",
+    "designation": "Principal",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Arti",
+    "code": "6013138",
+    "designation": "PGT/Lecturer (Mathematics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "KAVITA DHANKHAR",
+    "code": "080258",
+    "designation": "PGT/Lecturer (Biology)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "MINAL SANGWAN",
+    "code": "007869",
+    "designation": "PGT/Lecturer (Political Science)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "POONAM",
+    "code": "208405",
+    "designation": "PGT/Lecturer (Hindi)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "POONAM",
+    "code": "080312",
+    "designation": "PGT/Lecturer (Physics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "PRATIBHA BHARDWAJ",
+    "code": "209687",
+    "designation": "PGT/Lecturer (Sanskrit)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "RACHANA",
+    "code": "200700",
+    "designation": "PGT/Lecturer (Chemistry)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SANTOSH",
+    "code": "095153",
+    "designation": "PGT/Lecturer (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SUKHJINDER SINGH",
+    "code": "200926",
+    "designation": "PGT/Lecturer (Commerce)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SUMAN DEVI",
+    "code": "214258",
+    "designation": "PGT/Lecturer (Hindi)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SUNITA",
+    "code": "1002595",
+    "designation": "PGT/Lecturer (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SUNITA SHARMA",
+    "code": "5007572",
+    "designation": "PGT/Lecturer (Sociology)",
+    "appointment_type": "Guest (Contractual)"
+  },
+  {
+    "name": "SUSHILA DEVI",
+    "code": "008184",
+    "designation": "PGT/Lecturer (Economics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "MANOJ KUMAR",
+    "code": "1002706",
+    "designation": "TGT(Physical Education)/Master (DPE)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Saraswati Verma",
+    "code": "6008172",
+    "designation": "TGT/Master (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Soniya",
+    "code": "6007489",
+    "designation": "TGT/Master (Science)",
+    "appointment_type": "Regular"
+  }
+]

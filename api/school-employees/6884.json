@@ -1,0 +1,26 @@
+[
+  {
+    "name": "BRAJPAL SINGH",
+    "code": "042355",
+    "designation": "Principal",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "JALBIR SINGH",
+    "code": "201078",
+    "designation": "PGT/Lecturer (Commerce)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "JITENDER SINGH",
+    "code": "015464",
+    "designation": "PGT/Lecturer (Physics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SANDEEP KUMAR",
+    "code": "091330",
+    "designation": "PGT/Lecturer (Mathematics)",
+    "appointment_type": "Regular"
+  }
+]

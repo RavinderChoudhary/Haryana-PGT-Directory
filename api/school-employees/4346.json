@@ -1,0 +1,62 @@
+[
+  {
+    "name": "MEENAKSHI",
+    "code": "058637",
+    "designation": "Principal",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "KOMAL DEEP",
+    "code": "5018649",
+    "designation": "PGT/Lecturer (Mathematics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "MONIKA NAIN",
+    "code": "079718",
+    "designation": "PGT/Lecturer (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "NEETU KHURANA",
+    "code": "210068",
+    "designation": "PGT/Lecturer (Sanskrit)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "RANBIR SINGH",
+    "code": "208206",
+    "designation": "PGT/Lecturer (Hindi)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "RATTAN LAL",
+    "code": "211204",
+    "designation": "PGT/Lecturer (Punjabi)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "REKHA KAKKAR",
+    "code": "5024545",
+    "designation": "PGT/Lecturer (History)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "PREM LATA",
+    "code": "5014289",
+    "designation": "TGT/Master (Social Studies)",
+    "appointment_type": "Guest (Contractual)"
+  },
+  {
+    "name": "SATPAL",
+    "code": "1024338",
+    "designation": "TGT/Master (Sanskrit)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "IRFAN AHMED",
+    "code": "5022543",
+    "designation": "Classical & Vernacular Teacher (PTI)",
+    "appointment_type": "Regular"
+  }
+]

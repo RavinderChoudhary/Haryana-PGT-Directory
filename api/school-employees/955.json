@@ -1,0 +1,68 @@
+[
+  {
+    "name": "SHIV KUMAR GUPTA",
+    "code": "015703",
+    "designation": "Principal",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "AJEET KUMAR BHARDWAJ",
+    "code": "5003602",
+    "designation": "PGT/Lecturer (Hindi)",
+    "appointment_type": "Guest (Contractual)"
+  },
+  {
+    "name": "ANJNA ARYA",
+    "code": "5004218",
+    "designation": "PGT/Lecturer (History)",
+    "appointment_type": "Guest (Contractual)"
+  },
+  {
+    "name": "JAGAT RAJ",
+    "code": "201866",
+    "designation": "PGT/Lecturer (History)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "NARENDRA KUMAR",
+    "code": "210558",
+    "designation": "PGT/Lecturer (Sanskrit)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "PARTAP SINGH",
+    "code": "091255",
+    "designation": "PGT/Lecturer (Mathematics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "RANJANA SHARMA",
+    "code": "207824",
+    "designation": "PGT/Lecturer (Hindi)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SARVJEET",
+    "code": "5018121",
+    "designation": "PGT/Lecturer (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SHIV KUMAR",
+    "code": "5001077",
+    "designation": "PGT/Lecturer (English)",
+    "appointment_type": "Guest (Contractual)"
+  },
+  {
+    "name": "AJAY KUMAR",
+    "code": "5011524",
+    "designation": "TGT/Master (Social Studies)",
+    "appointment_type": "Guest (Contractual)"
+  },
+  {
+    "name": "Varsha",
+    "code": "6004596",
+    "designation": "TGT/Master (Science)",
+    "appointment_type": "Regular"
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "name": "ASHOK KUMAR",
+    "code": "5020233",
+    "designation": "PGT/Lecturer (Biology)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "NITESH KUMAR",
+    "code": "211881",
+    "designation": "PGT/Lecturer (Physics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "RAJPAL",
+    "code": "5019048",
+    "designation": "PGT/Lecturer (Mathematics)",
+    "appointment_type": "Regular"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "name": "ALTAF HUSSAIN",
+    "code": "012228",
+    "designation": "Principal",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Chetna",
+    "code": "6003526",
+    "designation": "PGT/Lecturer (Biology)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Priyanka",
+    "code": "6003447",
+    "designation": "PGT/Lecturer (Chemistry)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Harish Kumar",
+    "code": "6009283",
+    "designation": "TGT(Physical Education)/Master (DPE)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "NAIM ALI",
+    "code": "5025371",
+    "designation": "TGT/Master (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Vikram",
+    "code": "6008730",
+    "designation": "TGT/Master (Science)",
+    "appointment_type": "Regular"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "name": "SANJAY YADAV",
+    "code": "015701",
+    "designation": "Principal",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "NIRMALA DESHWAL",
+    "code": "014854",
+    "designation": "PGT/Lecturer (Hindi)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Satender Kumar",
+    "code": "6009806",
+    "designation": "PGT/Lecturer (Sanskrit)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SEEMA",
+    "code": "212383",
+    "designation": "PGT/Lecturer (Physics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SHRIKANT",
+    "code": "212470",
+    "designation": "PGT/Lecturer (Chemistry)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Manjeet Kumari",
+    "code": "6010176",
+    "designation": "TGT/Master (English)",
+    "appointment_type": "Regular"
+  }
+]

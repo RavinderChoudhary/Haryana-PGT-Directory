@@ -1,0 +1,80 @@
+[
+  {
+    "name": "AMAR SINGH",
+    "code": "096879",
+    "designation": "Principal",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "FARIYAD ILAHI",
+    "code": "5003919",
+    "designation": "PGT/Lecturer (English)",
+    "appointment_type": "Guest (Contractual)"
+  },
+  {
+    "name": "JAGBEER SINGH",
+    "code": "1027000",
+    "designation": "PGT/Lecturer (History)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Jyoti",
+    "code": "6003871",
+    "designation": "PGT/Lecturer (Commerce)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "KAMALUDDIN",
+    "code": "1027307",
+    "designation": "PGT/Lecturer (Political Science)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "KHURSHID AHMED",
+    "code": "070467",
+    "designation": "PGT/Lecturer (Economics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Manju Bala",
+    "code": "6003614",
+    "designation": "PGT/Lecturer (Hindi)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "MEENA",
+    "code": "212576",
+    "designation": "PGT/Lecturer (Chemistry)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "MUBARIK KHAN",
+    "code": "212613",
+    "designation": "PGT/Lecturer (Physics)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Shabnam Bano",
+    "code": "6002964",
+    "designation": "PGT/Lecturer (Urdu)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Sudhir Kumar",
+    "code": "6003707",
+    "designation": "PGT/Lecturer (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "MOHAN SINGH",
+    "code": "5027201",
+    "designation": "TGT/Master (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Rohit",
+    "code": "6007308",
+    "designation": "TGT/Master (Science)",
+    "appointment_type": "Regular"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "name": "SHRI CHAND",
+    "code": "063470",
+    "designation": "Principal",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Deepak Madan",
+    "code": "6003831",
+    "designation": "PGT/Lecturer (Commerce)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Raj Kumari",
+    "code": "6002144",
+    "designation": "PGT/Lecturer (Sanskrit)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "Harish",
+    "code": "6008641",
+    "designation": "TGT/Master (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "MADAN MAHRA",
+    "code": "091811",
+    "designation": "TGT/Master (Mathematics)",
+    "appointment_type": "Regular"
+  }
+]

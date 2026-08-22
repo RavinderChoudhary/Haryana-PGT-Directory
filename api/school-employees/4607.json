@@ -1,0 +1,20 @@
+[
+  {
+    "name": "BIMLA",
+    "code": "205473",
+    "designation": "PGT/Lecturer (English)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "SHRUTI",
+    "code": "202060",
+    "designation": "PGT/Lecturer (Home Science)",
+    "appointment_type": "Regular"
+  },
+  {
+    "name": "TIRSHEM KUMAR",
+    "code": "209417",
+    "designation": "PGT/Lecturer (Biology)",
+    "appointment_type": "Regular"
+  }
+]
